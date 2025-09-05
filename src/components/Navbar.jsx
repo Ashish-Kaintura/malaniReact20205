@@ -19,9 +19,10 @@ export default function Navbar() {
       label: "About",
       href: "/about",
       dropdown: [
-        { label: "Our Legacy", href: "#legacy" },
-        { label: "Team", href: "#team" },
-        { label: "Vision & Mission", href: "#vision" },
+        { label: "Why-Us", href: "/why-us" },
+        { label: "Vision & Mission", href: "/our-vision-and-mission" },
+        { label: "Infrastructure", href: "/infrastructure" },
+        { label: "Clientele", href: "/clientele" },
       ],
     },
     {

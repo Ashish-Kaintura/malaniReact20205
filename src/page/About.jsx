@@ -72,14 +72,6 @@ export default function About() {
           transition={{ duration: 0.8 }}
           className="max-w-2xl"
         >
-          <div className="flex flex-col relative justify-start mb-6">
-            <span className="absolute sm:h-[2.544vw] h-[8.544vw] sm:w-[3.646vw] w-[11.646vw] mr-40 top-[-0.685vw] border-t-4 border-l-4 border-[#e02529]"></span>
-            <h1 className="max-w-max px-2 text-4xl font-medium font-kepler">
-              About Us
-            </h1>
-            <span className="absolute sm:bottom-[-1.002vw] bottom-[-2.002vw] sm:h-[2.344vw] h-[8.344vw] sm:w-[3.646vw] w-[11.646vw] ml-40 border-r-4 border-b-4 border-[#e02529]"></span>
-          </div>
-
           <h3 className="text-2xl font-semibold text-gray-800">
             Bringing Nature’s Finest Stones to Your Home
           </h3>

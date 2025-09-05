@@ -5,6 +5,11 @@ export default function Hero() {
     <section
       id="home"
       className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
+      style={{
+        backgroundImage: `url(
+          "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/pexels-photo-19916721.webp"
+        )`,
+      }}
     >
       <div className="absolute inset-0 bg-gradient-to-br from-black/60 to-black/40"></div>
 

@@ -55,7 +55,7 @@ export default function HomeAboutsection() {
 
           <div className="relative" data-aos="fade-left">
             <img
-              src={img1}
+              src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/home.webp"
               alt="Marble craftsmanship"
               className="rounded-lg shadow-2xl w-full"
             />
