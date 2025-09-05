@@ -1,3 +1,4 @@
+import { ArrowBigDown } from "lucide-react";
 import React from "react";
 
 export default function Hero() {
@@ -42,7 +43,7 @@ export default function Hero() {
       </div>
 
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white floating">
-        <i className="fas fa-chevron-down text-2xl"></i>
+        <ArrowBigDown size={40} />
       </div>
     </section>
   );

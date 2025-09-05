@@ -7,7 +7,8 @@ const managementData = [
     id: "parmanand",
     name: "Mr. Parmanand Malani",
     title: "Chairman",
-    image: "https://malanimarbles.com/img/management1.webp",
+    image:
+      "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/management1.webp",
     details:
       "Mr. Parmanand Malani is the Chairman of our Company. He brings a wealth of expertise in strategic planning and business development, playing a crucial role in driving our company towards new opportunities and expansion.",
   },
@@ -15,7 +16,8 @@ const managementData = [
     id: "ramanand",
     name: "Mr. Ramanand Malani",
     title: "Managing Director",
-    image: "https://malanimarbles.com/img/management2.webp",
+    image:
+      "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/management2.webp",
     details:
       "Mr. Ramanand Malani is our Managing Director who is responsible for overseeing operations and ensuring operational excellence. He has a proven track record of implementing efficient processes and optimizing resource utilization.",
   },
@@ -27,7 +29,7 @@ export default function About() {
   return (
     <div className="w-full">
       {/* 🎥 Hero Section with Video Banner */}
-      <section className="relative h-[90vh] w-full flex items-center justify-center overflow-hidden pt-20">
+      <section className="relative h-screen w-full flex items-center justify-center overflow-hidden pt-20">
         {/* Background video */}
         <video
           className="absolute inset-0 w-full h-full object-cover"
@@ -37,7 +39,7 @@ export default function About() {
           playsInline
         >
           <source
-            src="https://malanimarbles.com/videos/Malani%20Marble%20(1).mp4"
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/video/Malani%20Marble%20(1).mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
@@ -96,12 +98,12 @@ export default function About() {
           className="relative hidden sm:flex"
         >
           <img
-            src="https://malanimarbles.com/img/company%20pic2.webp"
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/company%20pic2.webp"
             alt="malani marble"
             className="w-96 rounded-xl shadow-lg"
           />
           <img
-            src="https://malanimarbles.com/img/company%20pic1.webp"
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/company%20pic1.webp"
             alt="malani marble"
             className="absolute w-80 top-1/2 left-1/3 rounded-xl shadow-2xl"
           />

@@ -3,24 +3,40 @@ import React from "react";
 function SwatchRail() {
   const swatches = [
     {
-      name: "Carrara White",
-      img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
+      name: "BIANCO MOONFACE",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/BIANCO%20MOONFACE.webp",
     },
     {
-      name: "Nero Marquina",
-      img: "https://images.pexels.com/photos/6394687/pexels-photo-6394687.jpeg",
+      name: "PETA GONIA",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/DOLCHE VITA.webp",
     },
     {
-      name: "Arabescato",
-      img: "https://images.pexels.com/photos/9990201/pexels-photo-9990201.jpeg",
+      name: "GIALLO",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/GIALLO SIENA.webp",
     },
     {
-      name: "Statuario",
-      img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
+      name: "HONEY ONYX",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/HONEY ONYX.webp",
+    },
+    {
+      name: "LEATHER",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/LEATHER.webp",
     },
     {
       name: "Emperador",
-      img: "https://images.pexels.com/photos/6394687/pexels-photo-6394687.jpeg",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/STATUARIO CALACUTTA.webp",
+    },
+    {
+      name: "STATUARIO ",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/bLUE BRECIA.webp",
+    },
+    {
+      name: "carnelian blue",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/carnelian blue.webp",
+    },
+    {
+      name: "palomino",
+      img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/palomino.webp",
     },
   ];
 
@@ -54,7 +70,7 @@ function SwatchRail() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-3xl" />
                 </div>
-                <p className="mt-3 w-36 md:w-44 text-center text-base font-medium text-gray-800 tracking-wide group-hover:text-black transition-colors duration-300">
+                <p className="mt-3 w-36 md:w-44 text-center text-base font-medium text-gray-800 tracking-wide group-hover:text-black transition-colors duration-300 uppercase">
                   {s.name}
                 </p>
               </div>

@@ -1,10 +1,52 @@
 import React from "react";
 import Hero from "../components/Hero";
+import { ArrowBigDown } from "lucide-react";
 
 export default function VisionMission() {
   return (
     <div className="w-full block">
-      <Hero />
+      <section
+        className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
+        style={{
+          backgroundImage: `url(
+                "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/ourmissionvission/our%20misiion%20banner.webp"
+              )`,
+        }}
+      >
+        <div className="absolute inset-0 bg-gradient-to-br from-black/60 to-black/40"></div>
+
+        <div
+          className="relative z-10 text-center text-white max-w-5xl mx-auto px-4"
+          data-aos="fade-up"
+          data-aos-duration="1000"
+        >
+          <h1 className="text-5xl md:text-7xl font-bold font-display mb-6">
+            <span className="gradient-text">Malani Marble</span>
+          </h1>
+          <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
+            Crafting Timeless Elegance with Premium Natural Stone for Over Three
+            Decades
+          </p>
+          {/* <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                    <button
+                      onclick="scrollToSection('products')"
+                      className="btn-primary px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:shadow-xl transition-all"
+                    >
+                      <i className="fas fa-gem mr-2"></i>Explore Collection
+                    </button>
+                    <button
+                      onclick="scrollToSection('contact')"
+                      className="px-8 py-4 border-2 border-white text-white rounded-full font-semibold text-lg hover:bg-white hover:text-black transition-all"
+                    >
+                      <i className="fas fa-phone mr-2"></i>Get Quote
+                    </button>
+                  </div> */}
+        </div>
+
+        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white floating">
+          <ArrowBigDown size={40} />
+        </div>
+      </section>
 
       {/* Our Team Section */}
       <section className="py-12 max-w-7xl mx-auto px-6">
@@ -17,7 +59,7 @@ export default function VisionMission() {
         <div className="flex flex-col md:flex-row items-center gap-10 mt-4">
           <img
             className="w-full md:w-1/2 rounded-xl shadow-lg"
-            src="https://malanimarbles.com/img/team.webp" // replace with actual team image
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/ourmissionvission/team.webp" // replace with actual team image
             alt="Malani Marble Team"
           />
           <p className="text-lg leading-relaxed text-gray-700 md:w-1/2 text-center md:text-left">

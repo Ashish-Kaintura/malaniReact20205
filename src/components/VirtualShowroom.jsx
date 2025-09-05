@@ -17,43 +17,59 @@ export default function VirtualShowroom() {
   const kitchenTiles = [
     {
       id: "tile1",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.1.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/01.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.1.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/01.webp",
     },
     {
       id: "tile2",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.2.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/02.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.2.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/02.webp",
     },
     {
       id: "tile3",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.3.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/03.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.3.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/03.webp",
     },
     {
       id: "tile4",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.4.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/04.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.4.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/04.webp",
     },
     {
       id: "tile5",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.5.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/05.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.5.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/05.webp",
     },
     {
       id: "tile6",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.6.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/06.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.6.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/06.webp",
     },
     {
       id: "tile7",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.7.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/07.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.7.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/07.webp",
     },
     {
       id: "tile8",
-      thumb: "https://malanimarbles.com/img/virtual%203d/0.8.webp",
-      scene: "https://malanimarbles.com/img/virtual%203d/08.webp",
+      thumb:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.8.webp",
+      scene:
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/08.webp",
     },
   ];
 
@@ -73,7 +89,7 @@ export default function VirtualShowroom() {
 
   // Default images for each section
   const defaultKitchenScene =
-    "https://malanimarbles.com/img/virtual%203d/03.webp";
+    "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/03.webp";
   const defaultLivingScene = "img/virtuallivingroom/default-living.webp";
 
   return (

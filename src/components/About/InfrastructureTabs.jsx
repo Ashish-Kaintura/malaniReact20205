@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Tab } from "@headlessui/react";
 import { motion } from "framer-motion";
 
@@ -21,7 +22,7 @@ const tabs = [
         <div className="flex justify-center">
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col sm:flex-row gap-8">
             <img
-              src="https://malanimarbles.com/img/site%20side%20img.webp"
+              src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/infrastructure/site%20side%20img.webp"
               alt="malani marble"
               className="w-full sm:w-96 h-64 object-cover rounded-lg"
             />
@@ -55,7 +56,7 @@ const tabs = [
         <div className="flex justify-center">
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col sm:flex-row gap-8">
             <img
-              src="/img/our misiion banner.webp"
+              src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/infrastructure/infrastature%20banner.webp"
               alt="malani marble showroom"
               className="w-full sm:w-96 h-64 object-cover rounded-lg"
             />
@@ -102,12 +103,12 @@ const tabs = [
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col sm:flex-row gap-8">
             <div className="space-y-4">
               <img
-                src="/img/infrastructure/stockyard 1.webp"
+                src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/infrastructure/stockyard%201.webp"
                 alt="Stockyard 1"
                 className="w-full sm:w-96 h-60 object-cover rounded-lg"
               />
               <img
-                src="/img/infrastructure/stockyard 2.webp"
+                src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/infrastructure/stockyard%202.webp"
                 alt="Stockyard 2"
                 className="w-full sm:w-96 h-60 object-cover rounded-lg"
               />

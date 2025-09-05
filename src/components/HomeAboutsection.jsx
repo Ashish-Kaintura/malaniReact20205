@@ -1,5 +1,4 @@
 import React from "react";
-import img1 from "../../public/img/home.jpg";
 import { Award, Shield, Truck, Users } from "lucide-react";
 
 export default function HomeAboutsection() {
