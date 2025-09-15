@@ -22,7 +22,7 @@ export default function Projects() {
               data-aos-delay="100"
             >
               <img
-                src="https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500&h=400&fit=crop"
+                src="https://rmsstonex.in/wp-content/uploads/2025/03/Italian-Marble-in-Commercial-Spaces-How-It-Adds-Elegance-to-Offices-and-Hotels.png"
                 alt="Luxury Hotel Lobby"
                 className="w-full h-80 object-cover transition-transform duration-500 group-hover:scale-105"
               />
@@ -46,7 +46,7 @@ export default function Projects() {
               data-aos-delay="200"
             >
               <img
-                src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=400&fit=crop"
+                src="https://roundhousedesign.com/wp-content/uploads/2024/07/001-LOW_PING_LANDSCAPE_MID_1-1.jpg"
                 alt="Modern Kitchen Design"
                 className="w-full h-80 object-cover transition-transform duration-500 group-hover:scale-105"
               />

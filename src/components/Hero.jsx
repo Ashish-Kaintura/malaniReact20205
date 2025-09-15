@@ -8,11 +8,12 @@ export default function Hero() {
       className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
       style={{
         backgroundImage: `url(
-          "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/pexels-photo-19916721.webp"
+          "https://i.postimg.cc/dQCcndBm/hgmnf.png"
         )`,
       }}
     >
-      <div className="absolute inset-0 bg-gradient-to-br from-black/60 to-black/40"></div>
+      {/* https://postimg.cc/delete/QzQZzSX2/02d4d35e  */}
+      <div className="absolute inset-0 bg-gradient-to-br from-black/20 to-black/10"></div>
 
       <div
         className="relative z-10 text-center text-white max-w-5xl mx-auto px-4"

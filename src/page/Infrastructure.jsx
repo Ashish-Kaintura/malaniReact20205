@@ -17,7 +17,7 @@ export default function Infrastructure() {
               )`,
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-br from-black/60 to-black/40"></div>
+        <div className="absolute inset-0 bg-gradient-to-br from-black/20 to-black/10"></div>
 
         <div
           className="relative z-10 text-center text-white max-w-5xl mx-auto px-4"

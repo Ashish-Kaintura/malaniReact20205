@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -49,7 +50,8 @@ const FAQItem = ({ question, answer }) => {
 
   return (
     <motion.div
-      className="border-b border-gray-200 py-6"
+      className="border-b border-gray-200 py-6 "
+      
       layout
       transition={{ duration: 0.3 }}
     >
@@ -95,7 +97,11 @@ const FAQItem = ({ question, answer }) => {
 
 const FAQ = () => {
   return (
-    <section className="bg-gray-50 py-20 px-4 sm:px-6 lg:px-8">
+    <section className="bg-gray-50 py-20 px-4 sm:px-6 lg:px-8 bg-fixed bg-center bg-no-repeat"
+       style={{
+        backgroundImage:
+          "url('https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg')",
+      }}>
       <div className="max-w-7xl mx-auto">
         <h1 className="text-5xl font-extrabold text-center text-gray-800 mb-4">
           Frequently Asked Questions
@@ -125,7 +131,7 @@ const FAQ = () => {
           </p>
           <a
             href="/contact" // Replace with your contact page link
-            className="inline-block bg-indigo-600 text-white font-semibold py-3 px-8 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:bg-indigo-700"
+            className="inline-block bg-red-600 text-white font-semibold py-3 px-8 rounded-full shadow-lg transition-transform transform hover:scale-105 hover:bg-red-700"
           >
             Contact Support
           </a>
