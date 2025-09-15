@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Beige",
+        "slug": "beige",
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp",
+        "products": [
+            {
+                "name": "Barbari Beige",
+                "slug": "barbari-beige",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp"
+            },
+            {
+                "name": "Brecia Beige",
+                "slug": "brecia-beige",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20bEIGE.webp"
+            },
+            {
+                "name": "Brecia Aurora",
+                "slug": "brecia-aurora",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20AURORA.webp"
+            }
+        ]
+    },
+    {
+        "name": "Coloured",
+        "slug": "coloured",
+        "banner": "https://malanimarbles.com/img/colord/Golden-Galaxy-Marble.webp",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20PORTORO.webp",
+        "products": [
+            {
+                "name": "Golden Portoro",
+                "slug": "blue-bahia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20PORTORO.webp"
+            },
+            {
+                "name": "Marquina Black",
+                "slug": "verde-ubatuba",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/MARQUINA%20BLACK.webp"
+            },
+            {
+                "name": "Belgium Black",
+                "slug": "verde-ubatuba",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/bELGIUM%20BLACK.webp"
+            }
+        ]
+    },
+    {
+        "name": "Onyx",
+        "slug": "onyx",
+        "banner":"",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/BLUE%20ONYX.webp",
+        "products": [
+            {
+                "name": "Golden Portoro",
+                "slug": "blue-bahia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20PORTORO.webp"
+            },
+            {
+                "name": "Marquina Black",
+                "slug": "verde-ubatuba",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/MARQUINA%20BLACK.webp"
+            },
+            {
+                "name": "Belgium Black",
+                "slug": "verde-ubatuba",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/bELGIUM%20BLACK.webp"
+            }
+        ]
+    },
+    {
+        "name": "Travertino",
+        "slug": "travertino",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/BIANCO%20MOONFACE.webp"
+    },
+    {
+        "name": "Finishes",
+        "slug": "finishes",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/fishish/LEATHER.webp"
+    },
+    {
+        "name": "Indian Granites",
+        "slug": "indian",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ADHUNIK%20BROWN.webp"
+    },
+    {
+        "name": "Brazilian Granites",
+        "slug": "brazilian-granite",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Agatha.webp"
+    },
+    {
+        "name": "White",
+        "slug": "white",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/ARBESCATO.webp"
+    },
+    {
+        "name": "Gray",
+        "slug": "gray",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/EURO%20GREY.webp"
+    },
+    {
+        "name": "Imported Granites",
+        "slug": "imported-granites",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20ROMA.webp"
+    },
+    {
+        "name": "Semi Precious",
+        "slug": "semi-precious",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp"
+    }
+]

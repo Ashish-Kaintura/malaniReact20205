@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Hero from "../components/Hero";
 import HomeAboutsection from "../components/HomeAboutsection";
 import FilterGrid from "../components/FilterGrid";
@@ -7,8 +7,14 @@ import SwatchRail from "../components/SwatchRail";
 import Projects from "../components/Projects";
 import Testimonials from "../components/Testimonials";
 import ContactSection from "../components/ContactSection";
+import FAQ from "../components/FAQ";
 
 export default function Index() {
+
+  useEffect(()=>{
+    window.scroll(0,0)
+  })
+
   return (
     <>
       <Hero />
@@ -18,6 +24,7 @@ export default function Index() {
       <SwatchRail />
       <Testimonials />
       <Projects />
+      <FAQ/>
       {/* <ContactSection /> */}
     </>
   );

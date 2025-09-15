@@ -1,8 +1,11 @@
 import React from "react";
 import Hero from "../components/Hero";
 import { ArrowBigDown } from "lucide-react";
-
+import {useEffect} from "react";
 export default function VisionMission() {
+  useEffect(()=>{
+  window.scroll(0,0)
+})
   return (
     <div className="w-full block">
       <section

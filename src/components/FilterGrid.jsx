@@ -7,12 +7,12 @@ function FilterGrid() {
   const items = useMemo(
     () => [
       {
-        title: "Calacatta Oro",
+        title: "Statuario Calacutta",
         img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
         type: "Popular Marble",
       },
       {
-        title: "Nero Marquina",
+        title: "Nero St. laurent",
         img: "https://images.pexels.com/photos/6394687/pexels-photo-6394687.jpeg",
         type: "Popular Marble",
       },
@@ -22,7 +22,7 @@ function FilterGrid() {
         type: "Popular Marble",
       },
       {
-        title: "Bianco Carrara",
+        title: "Statuario White",
         img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
         type: "Popular Marble",
       },

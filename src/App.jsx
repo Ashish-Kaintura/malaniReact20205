@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
+
 // Lazy load pages
 const Index = lazy(() => import("./page/Index"));
 const About = lazy(() => import("./page/About"));
@@ -13,6 +14,12 @@ const Whyus = lazy(() => import("./page/Whyus"));
 const VisionMission = lazy(() => import("./page/VisionMission"));
 const Infrastructure = lazy(() => import("./page/Infrastructure"));
 const Clientele = lazy(() => import("./page/Clientele"));
+const ContactUs = lazy(() => import("./page/ContactUs"));
+const MarbleCollection = lazy(() => import("./page/MarbleCollection"));
+const MarbleCategory = lazy(() => import("./page/MarbleCategory"));
+const TilesCollection = lazy(() => import("./page/TilesCollection"));
+const TilesCategory = lazy(() => import("./page/TilesCategory"));
+const Notfound = lazy(() => import("./page/Notfound"));
 
 export default function App() {
   const [loading, setLoading] = useState(true);
@@ -36,6 +43,13 @@ export default function App() {
           <Route path="/our-vision-and-mission" element={<VisionMission />} />
           <Route path="/infrastructure" element={<Infrastructure />} />
           <Route path="/clientele" element={<Clientele />} />
+          <Route path="/contact" element={<ContactUs />} />
+          <Route path="/marble-collection" element={<MarbleCollection />} />
+          <Route path="/:slug" element={<MarbleCategory />} />
+          <Route path="/slimtech-tiles-collections" element={<TilesCollection />} />
+          <Route path="/slimtech-tiles-collections/:slug" element={<TilesCategory />} />
+          <Route path="/404" element={<Notfound />} />
+
           {/* You can lazy load more pages here */}
         </Routes>
       </Suspense>

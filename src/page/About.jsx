@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { X } from "lucide-react";
 
@@ -25,7 +25,9 @@ const managementData = [
 
 export default function About() {
   const [selectedPerson, setSelectedPerson] = useState(null);
-
+useEffect(()=>{
+  window.scroll(0,0)
+})
   return (
     <div className="w-full">
       {/* 🎥 Hero Section with Video Banner */}

@@ -8,19 +8,19 @@ export default function HappyCustomers() {
   const customers = [
     {
       name: "Rahul Mehta",
-      img: "/img/customer1.jpg",
+      img: "https://malanimarbles.com/img/logo/012.webp",
     },
     {
       name: "Ananya Sharma",
-      img: "/img/customer2.jpg",
+      img: "https://malanimarbles.com/img/logo/022.webp",
     },
     {
       name: "Amit Patel",
-      img: "/img/customer3.jpg",
+      img: "https://malanimarbles.com/img/logo/024.webp",
     },
     {
       name: "Priya Singh",
-      img: "/img/customer4.jpg",
+      img: "https://malanimarbles.com/img/logo/03.webp",
     },
   ];
 
@@ -52,11 +52,11 @@ export default function HappyCustomers() {
                 <img
                   src={c.img}
                   alt={c.name}
-                  className="w-20 h-20 rounded-full object-cover shadow-md mb-4"
+                  className="w-28 h-28 rounded-full object-cover shadow-md mb-4"
                 />
-                <h3 className="text-lg font-semibold text-gray-700">
+                {/* <h3 className="text-lg font-semibold text-gray-700">
                   {c.name}
-                </h3>
+                </h3> */}
                 {/* <div className="flex justify-center mt-2 mb-4 text-yellow-400">
                   {Array.from({ length: c.rating }).map((_, idx) => (
                     <Star key={idx} size={18} fill="gold" stroke="none" />

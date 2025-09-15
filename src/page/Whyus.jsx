@@ -3,7 +3,11 @@ import Testimonials from "../components/Testimonials";
 import WhyChooseUs from "../components/About/WhyChooseUs";
 import { BiDownArrow } from "react-icons/bi";
 import { ArrowBigDown } from "lucide-react";
+import {useEffect} from "react";
 export default function Whyus() {
+  useEffect(()=>{
+    window.scroll(0,0)
+  })
   return (
     <>
       <section className="w-full">

@@ -70,7 +70,7 @@ export default function Projects() {
               data-aos-delay="300"
             >
               <img
-                src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb3?w=500&h=400&fit=crop"
+                src="https://img.freepik.com/premium-photo/staircase-with-white-marble-floor-columns-with-white-marble-staircase_882954-97078.jpg"
                 alt="Grand Staircase"
                 className="w-full h-80 object-cover transition-transform duration-500 group-hover:scale-105"
               />
@@ -80,7 +80,7 @@ export default function Projects() {
                   Architectural
                 </span>
                 <h3 className="text-2xl font-bold font-display mb-2">
-                  Grand Staircase
+                 Staircase
                 </h3>
                 <button className="flex items-center text-white/80 hover:text-white transition-colors">
                   View Details <i className="fas fa-arrow-right ml-2"></i>

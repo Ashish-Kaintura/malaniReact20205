@@ -1,10 +1,14 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
-
-export default function ContactSection() {
+import { Mail, MapPin, Phone } from "lucide-react";
+import {useEffect} from "react";
+export default function ContactUs() {
   const formRef = useRef();
   const [loading, setLoading] = useState(false);
   const [sent, setSent] = useState(false);
+  useEffect(()=>{
+    window.scroll(0,0)
+  })
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -31,8 +35,18 @@ export default function ContactSection() {
       );
   };
 
+
   return (
-    <section className="py-20  bg-blue-700">
+    <section
+      className="py-20"
+      style={{
+        backgroundImage:
+          "url('https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundAttachment: "fixed",
+      }}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-16" data-aos="fade-up">
@@ -55,7 +69,7 @@ export default function ContactSection() {
               {/* Address */}
               <div className="flex items-start p-5 bg-white rounded-xl shadow-md">
                 <div className="w-12 h-12 flex items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 text-white rounded-full mr-4">
-                  <i className="fas fa-map-marker-alt"></i>
+                  <MapPin size={20} />
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
@@ -68,7 +82,7 @@ export default function ContactSection() {
               {/* Phone */}
               <div className="flex items-start p-5 bg-white rounded-xl shadow-md">
                 <div className="w-12 h-12 flex items-center justify-center bg-gradient-to-br from-green-500 to-blue-600 text-white rounded-full mr-4">
-                  <i className="fas fa-phone"></i>
+                  <Phone size={20} />
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Phone</h4>
@@ -80,7 +94,7 @@ export default function ContactSection() {
               {/* Email */}
               <div className="flex items-start p-5 bg-white rounded-xl shadow-md">
                 <div className="w-12 h-12 flex items-center justify-center bg-gradient-to-br from-purple-500 to-pink-600 text-white rounded-full mr-4">
-                  <i className="fas fa-envelope"></i>
+                  <Mail size={20} />
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Email</h4>

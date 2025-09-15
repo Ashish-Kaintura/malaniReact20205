@@ -1,9 +1,13 @@
 import React from "react";
+import {useEffect} from "react";
 import Hero from "../components/Hero";
 import HappyCustomers from "../components/About/HappyCustomers";
 import { ArrowBigDown } from "lucide-react";
 
 export default function Clientele() {
+  useEffect(()=>{
+    window.scroll(0,0)
+  })
   return (
     <>
       <section
