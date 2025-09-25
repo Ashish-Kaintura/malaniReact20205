@@ -25,7 +25,7 @@ useEffect(()=>{
         <img src={category.banner} alt={category.name + "Banner"} />
       </div>
       <div className="max-w-7xl mx-auto px-6 pt-12">
-        <h1 className="text-5xl font-bold text-center text-gray-800 mb-12">
+        <h1 className="text-5xl font-semibold text-center text-gray-800 mb-12 uppercase">
           {category.name} Collection
         </h1>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-10">

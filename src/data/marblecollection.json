@@ -19,6 +19,61 @@
                 "name": "Brecia Aurora",
                 "slug": "brecia-aurora",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20AURORA.webp"
+            },
+            {
+                "name": "Brecia Onichita",
+                "slug": "brecia-onichita",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/bRECIA%20ONICHITA.webp"
+            },
+            {
+                "name": "Brecia Blue",
+                "slug": "brecia-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/bLUE%20BRECIA.webp"
+            },
+            {
+                "name": "Gray Brecia",
+                "slug": "gray-brecia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/gREY%20bRECIA.webp"
+            },
+            {
+                "name": "Casa Nova",
+                "slug": "casa-nova",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CASA%20NOVA.webp"
+            },
+            {
+                "name": "Classic Beige",
+                "slug": "classic-beige",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CLASSIC%20BEIGE.webp"
+            },
+            {
+                "name": "Brecia Beige",
+                "slug": "brecia-beige",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20bEIGE.webp"
+            },
+            {
+                "name": "Perlato Siciliya",
+                "slug": "perlato-siciliya",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/PERLATO%20SICILIYA.webp"
+            },
+            {
+                "name": "Cafe Imperial",
+                "slug": "cafeimperial",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CAFÉ%20IMPERIAL.webp"
+            },
+            {
+                "name": "Blugaria Beige",
+                "slug": "blugaria-beige",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BULGARIA%20BEIGE.webp"
+            },
+            {
+                "name": "De Martino",
+                "slug": "de-martino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/DE%20MARTINO.webp"
+            },
+            {
+                "name": "Bottochino Classico",
+                "slug": "bottochino-classico",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp"
             }
         ]
     },

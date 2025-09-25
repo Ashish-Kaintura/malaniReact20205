@@ -7,28 +7,40 @@ function FilterGrid() {
   const items = useMemo(
     () => [
       {
-        title: "Statuario Calacutta",
-        img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
-        type: "Popular Marble",
-      },
-      {
-        title: "Nero St. laurent",
-        img: "https://images.pexels.com/photos/6394687/pexels-photo-6394687.jpeg",
-        type: "Popular Marble",
-      },
-      {
-        title: "Arabescato",
-        img: "https://images.pexels.com/photos/9990201/pexels-photo-9990201.jpeg",
-        type: "Popular Marble",
-      },
-      {
         title: "Statuario White",
         img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
         type: "Popular Marble",
       },
       {
-        title: "Desert Brown",
-        img: "https://images.pexels.com/photos/9990201/pexels-photo-9990201.jpeg",
+        title: "Honey Onyx",
+        // img: "https://images.pexels.com/photos/6394687/pexels-photo-6394687.jpeg",
+        img:"https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/honey-onyx.webp",
+        type: "Popular Marble",
+      },
+      {
+        title: "Blue Labradorite",
+        // img: "https://images.pexels.com/photos/9990201/pexels-photo-9990201.jpeg",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20LABRADORITE.webp",
+        type: "Popular Marble",
+      },
+      {
+        title: "Blue Roma",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20ROMA.webp",
+        type: "Popular Marble",
+      },
+      {
+        title: "Coloured",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/FUSION%20BROWN.webp",
+        type: "Marble by Color",
+      },
+      {
+        title: "Imported Granite",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/palomino.webp",
+        type: "Marble by Color",
+      },
+      {
+        title: "Semi Precious ",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp",
         type: "Marble by Color",
       },
     ],

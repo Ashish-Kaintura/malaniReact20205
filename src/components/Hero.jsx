@@ -2,21 +2,37 @@ import { ArrowBigDown } from "lucide-react";
 import React from "react";
 
 export default function Hero() {
+  const scrollToSection = (id) => {
+    const el = document.getElementById(id);
+    if (el) el.scrollIntoView({ behavior: "smooth" });
+  };
+
   return (
     <section
       id="home"
       className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
-      style={{
-        backgroundImage: `url(
-          "https://i.postimg.cc/dQCcndBm/hgmnf.png"
-        )`,
-      }}
     >
-      {/* https://postimg.cc/delete/QzQZzSX2/02d4d35e  */}
-      <div className="absolute inset-0 bg-gradient-to-br from-black/20 to-black/10"></div>
+      {/* Background video (replace src with your video file or url) */}
+      <video
+        className="absolute inset-0 w-full h-full object-cover z-0"
+        autoPlay
+        muted
+        loop
+        playsInline
+        poster="https://i.postimg.cc/dQCcndBm/hgmnf.png" // fallback poster image
+      >
+        <source src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/video/home%20video.mp4" type="video/mp4" />
+        {/* Example public URL you can replace:
+            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
+        */}
+      </video>
 
+      {/* overlay above video */}
+      <div className="absolute inset-0 bg-gradient-to-br from-black/50 to-black/10 z-10"></div>
+
+      {/* content */}
       <div
-        className="relative z-10 text-center text-white max-w-5xl mx-auto px-4"
+        className="relative z-20 text-center text-white max-w-5xl mx-auto px-4"
         data-aos="fade-up"
         data-aos-duration="1000"
       >
@@ -29,21 +45,23 @@ export default function Hero() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <button
-            onclick="scrollToSection('products')"
+            onClick={() => scrollToSection("products")}
             className="btn-primary px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:shadow-xl transition-all"
+            aria-label="Explore Collection"
           >
-            <i className="fas fa-gem mr-2"></i>Explore Collection
+            <i className="fas fa-gem mr-2" /> Explore Collection
           </button>
           <button
-            onclick="scrollToSection('contact')"
+            onClick={() => scrollToSection("contact")}
             className="px-8 py-4 border-2 border-white text-white rounded-full font-semibold text-lg hover:bg-white hover:text-black transition-all"
+            aria-label="Get Quote"
           >
-            <i className="fas fa-phone mr-2"></i>Get Quote
+            <i className="fas fa-phone mr-2" /> Get Quote
           </button>
         </div>
       </div>
 
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white floating">
+      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white floating z-30">
         <ArrowBigDown size={40} />
       </div>
     </section>
