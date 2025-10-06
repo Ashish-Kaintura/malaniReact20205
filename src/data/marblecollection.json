@@ -85,41 +85,206 @@
         "products": [
             {
                 "name": "Golden Portoro",
-                "slug": "blue-bahia",
+                "slug": "golden-portoro",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20PORTORO.webp"
             },
             {
                 "name": "Marquina Black",
-                "slug": "verde-ubatuba",
+                "slug": "marquina-black",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/MARQUINA%20BLACK.webp"
             },
             {
                 "name": "Belgium Black",
-                "slug": "verde-ubatuba",
+                "slug": "belgium-black",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/bELGIUM%20BLACK.webp"
+            },
+            {
+                "name": "Silver Portoro",
+                "slug": "silver-portoro",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/SILVER%20PORTORO.webp"
+            },
+            {
+                "name": "Rosso Portoro",
+                "slug": "rosso-portoro",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/ROSSO%20PORTORO.webp"
+            },
+            {
+                "name": "Grigio Orrobico",
+                "slug": "grigio-orrobico",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GRIGIO%20ORROBICO.webp"
+            },
+            {
+                "name": "Golden Galaxy",
+                "slug": "golden-galaxy",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20GALAXY.webp"
+            },
+            {
+                "name": "Magnet Gray",
+                "slug": "magnet-gray",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/MAGNET%20GREY.webp"
+            },
+            {
+                "name": "Gray Saint Laurent",
+                "slug": "gray-saint-laurent",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gREY%20SAINT%20LAURENT.webp"
+            },
+            {
+                "name": "Nero St. laurent",
+                "slug": "nero-st-laurent",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/nero%20st.%20laurent.webp"
+            },
+            {
+                "name": "Gray Espredo",
+                "slug": "gray-espredo",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GREY%20ESPREDO.webp"
+            },
+            {
+                "name": "Sarran Collin",
+                "slug": "sarran-collin",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/SARRAN%20COLLIN.webp"
+            },
+            {
+                "name": "Gray Willam",
+                "slug": "gray-willam",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GREY%20WILLIAM.webp"
+            },
+            {
+                "name": "Gus Morocco",
+                "slug": "gus-morocco",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gUS%20MOROCCO.webp"
+            },
+            {
+                "name": "Alaska Gray",
+                "slug": "alaska-gray",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/ALASKA%20GREY.webp"
+            },
+            {
+                "name": "Gray Flurry",
+                "slug": "gray-flurry",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GREY%20FLURRY.webp"
+            },
+            {
+                "name": "Mountain Blue",
+                "slug": "mountain-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/MOUNTAIN%20blue.webp"
+            },
+            {
+                "name": "Loreal Brown",
+                "slug": "loreal-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/LOREAL%20BROWN.webp"
+            },
+            {
+                "name": "Grigio Fiesta",
+                "slug": "grigio-fiesta",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gIRGIO%20FIESTA.webp"
+            },
+            {
+                "name": "Gray Sarran Collin",
+                "slug": "gray-sarran-collin",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GREY%20SARRAN%20COLLIN.webp"
+            },
+            {
+                "name": "Bronze Armani",
+                "slug": "bronze-armani",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/BRONZE%20ARMANIA.webp"
+            },
+            {
+                "name": "Dark Emprador",
+                "slug": "dark-emprador",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/DARK%20EMPRADOR.webp"
+            },
+            {
+                "name": "Light Emprador",
+                "slug": "light-emprador",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/LIGHT%20EMPRADOR.webp"
+            },
+            {
+                "name": "Swiss Gold",
+                "slug": "swiss-gold",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/SWISS%20GOLD.webp"
+            },
+            {
+                "name": "Fusion Brown",
+                "slug": "fusion-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/FUSION%20BROWN.webp"
+            },
+            {
+                "name": "Rosso Valentino",
+                "slug": "rosso-valentino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/ROSSO%20VALENTINO.webp"
+            },
+            {
+                "name": "Rosso Orrobico",
+                "slug": "rosso-orrobico",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/rOSSO%20ORROBICO.webp"
+            },
+            {
+                "name": "Yellow valencia",
+                "slug": "yellow-valencia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/YELLOW%20VALENCIA.webp"
+            },
+            {
+                "name": "Rosso valencia",
+                "slug": "rosso-valencia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/ROSSO%20VALENCIA.webp"
+            },
+            {
+                "name": "Giallo Siena",
+                "slug": "giallo-siena",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GIALLO%20SIENA.webp"
             }
         ]
     },
     {
         "name": "Onyx",
         "slug": "onyx",
-        "banner":"",
+        "banner": "",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/BLUE%20ONYX.webp",
         "products": [
             {
-                "name": "Golden Portoro",
-                "slug": "blue-bahia",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20PORTORO.webp"
+                "name": "Bianco Ondulatte",
+                "slug": "bianco-ondulatte",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/bianco%20ONDULATTE.webp"
             },
             {
-                "name": "Marquina Black",
-                "slug": "verde-ubatuba",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/MARQUINA%20BLACK.webp"
+                "name": "Blue Onyx",
+                "slug": "blue-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/BLUE%20ONYX.webp"
             },
             {
-                "name": "Belgium Black",
-                "slug": "verde-ubatuba",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/bELGIUM%20BLACK.webp"
+                "name": "Mexican Onyx",
+                "slug": "mexican-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/MEXICAN%20ONYX.webp"
+            },
+            {
+                "name": "Cappuccino Onyx",
+                "slug": "cappuccino-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/CAPPUCCINO%20ONYX.webp"
+            },
+            {
+                "name": "Pink Onyx",
+                "slug": "pink-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/PINK%20ONYX.webp"
+            },
+            {
+                "name": "Crystal Onyx",
+                "slug": "crystal-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/CRYSTAL%20ONYX.webp"
+            },
+            {
+                "name": "Green Jade Onyx",
+                "slug": "green-jade-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/GREEN%20ONYX.webp"
+            },
+            {
+                "name": "Honey Onyx",
+                "slug": "honey-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/HONEY%20ONYX.webp"
+            },
+            {
+                "name": "Grey Onyx",
+                "slug": "grey-onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/GREY%20ONYX.webp"
             }
         ]
     },

@@ -20,56 +20,56 @@ export default function VirtualShowroom() {
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.1.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/01.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Adhunik%20Brown.jpg",
     },
     {
       id: "tile2",
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.2.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/02.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Black%20Petrified.jpg",
     },
     {
       id: "tile3",
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.3.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/03.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Dark%20Emprador.jpg",
     },
     {
       id: "tile4",
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.4.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/04.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Fusion%20Brown.jpg",
     },
     {
       id: "tile5",
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.5.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/05.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Golden%20Galaxy.jpg",
     },
     {
       id: "tile6",
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.6.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/06.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Gray%20Onyx.jpg",
     },
     {
       id: "tile7",
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.7.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/07.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Lavender%20Blue.jpg",
     },
     {
       id: "tile8",
       thumb:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.8.webp",
       scene:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/08.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Shaved.jpg",
     },
   ];
 
@@ -89,7 +89,7 @@ export default function VirtualShowroom() {
 
   // Default images for each section
   const defaultKitchenScene =
-    "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/03.webp";
+    "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Adhunik%20Brown.jpg";
   const defaultLivingScene = "img/virtuallivingroom/default-living.webp";
 
   return (

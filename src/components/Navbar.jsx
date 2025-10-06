@@ -66,7 +66,7 @@ export default function Navbar() {
           <NavLink to="/">
             {" "}
             <img
-              src="https://malanimarbles.com/img/logo-option-1.webp"
+              src="https://i.postimg.cc/0ysPBwWw/New-Logo-White.png"
               alt="logo"
               className="w-32"
             />
