@@ -18,56 +18,56 @@ export default function VirtualShowroom() {
     {
       id: "tile1",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.1.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ADHUNIK%20BROWN.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Adhunik%20Brown.jpg",
     },
     {
       id: "tile2",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.2.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Black%20Petrified.jpg",
     },
     {
       id: "tile3",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.3.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/DARK%20EMPRADOR.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Dark%20Emprador.jpg",
     },
     {
       id: "tile4",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.4.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/FUSION%20BROWN.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Fusion%20Brown.jpg",
     },
     {
       id: "tile5",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.5.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20GALAXY.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Golden%20Galaxy.jpg",
     },
     {
       id: "tile6",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.6.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/GREY%20ONYX.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Gray%20Onyx.jpg",
     },
     {
       id: "tile7",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.7.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/LAVENDER%20BLUE.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Lavender%20Blue.jpg",
     },
     {
       id: "tile8",
       thumb:
-        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/0.8.webp",
+        "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/fishish/SHAVED.webp",
       scene:
         "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Shaved.jpg",
     },
