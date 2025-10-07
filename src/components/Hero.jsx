@@ -36,9 +36,9 @@ export default function Hero() {
         data-aos="fade-up"
         data-aos-duration="1000"
       >
-        <h1 className="text-5xl md:text-7xl font-bold font-display mb-6">
+        <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
           <span className="gradient-text">Malani Marble</span>
-        </h1>
+        </h2>
         <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
           Crafting Timeless Elegance with Premium Natural Stone for Over Three
           Decades

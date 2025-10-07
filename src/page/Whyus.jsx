@@ -26,9 +26,9 @@ export default function Whyus() {
             data-aos="fade-up"
             data-aos-duration="1000"
           >
-            <h1 className="text-5xl md:text-7xl font-bold font-display mb-6">
-              <span className="gradient-text">Malani Marble</span>
-            </h1>
+            <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
+              <span className="gradient-text">Malani Marbles Pvt. Ltd.</span>
+            </h2>
             <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
               Crafting Timeless Elegance with Premium Natural Stone for Over
               Three Decades
@@ -59,11 +59,11 @@ export default function Whyus() {
             <div className="py-5">
               <div className="flex flex-col relative justify-center items-center">
                 <span className="absolute sm:h-[2.544vw] h-[8.544vw] sm:w-[3.646vw] w-[11.646vw] mr-40 top-[-0.685vw] border-t-4 border-l-4 border-[#e02529]"></span>
-                <h1 className="max-w-max px-2 text-4xl ">Why Us</h1>
+                <h2 className="max-w-max px-2 text-4xl ">Why Us</h2>
                 <span className="absolute sm:bottom-[-1.002vw] bottom-[-2.002vw] sm:h-[2.344vw] h-[8.344vw] sm:w-[3.646vw] w-[11.646vw] ml-40 border-r-4 border-b-4 border-[#e02529]"></span>
               </div>
             </div>
-            <div className="py-8 text-gray-700 text-lg leading-relaxed">
+            <div className="py-8 text-gray-700  leading-relaxed">
               <p className="text-center">
                 With a remarkable 26+ year presence in the industry, Malani
                 Marbles has consistently been catering to customer requirements

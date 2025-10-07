@@ -1,11 +1,11 @@
 import React from "react";
 import Hero from "../components/Hero";
 import { ArrowBigDown } from "lucide-react";
-import {useEffect} from "react";
+import { useEffect } from "react";
 export default function VisionMission() {
-  useEffect(()=>{
-  window.scroll(0,0)
-})
+  useEffect(() => {
+    window.scroll(0, 0)
+  })
   return (
     <div className="w-full block">
       <section
@@ -23,9 +23,9 @@ export default function VisionMission() {
           data-aos="fade-up"
           data-aos-duration="1000"
         >
-          <h1 className="text-5xl md:text-7xl font-bold font-display mb-6">
+          <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
             <span className="gradient-text">Malani Marble</span>
-          </h1>
+          </h2>
           <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
             Crafting Timeless Elegance with Premium Natural Stone for Over Three
             Decades
@@ -65,12 +65,10 @@ export default function VisionMission() {
             src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/ourmissionvission/team.webp" // replace with actual team image
             alt="Malani Marble Team"
           />
-          <p className="text-lg leading-relaxed text-gray-700 md:w-1/2 text-center md:text-left">
-            At <span className="font-semibold text-red-600">Malani Marble</span>
-            , we believe that every project is a masterpiece in the making. Our
-            dedicated team blends passion, expertise, and creativity to bring
-            your vision to life with timeless elegance, providing unparalleled
-            quality and service.
+          <p className="leading-relaxed text-gray-700 md:w-1/2 text-center md:text-left">
+            At <span className="font-semibold text-red-600">Malani Marbles Pvt. Ltd</span>
+            , we have assembled a terrific team of well over 250 qualified professionals to take the natural stone industry in a new direction with quality excellence. From our home base of Delhi NCR and Kishangarh, we have state-of-the-art showrooms, manufacturing facilities, and stockyards to ensure a professional process from selection to installation. Our experts have combined decades of experience with an artistic touch and engineering precision to reflect your needed design/meticulous detail on the raw stone.
+
           </p>
         </div>
       </section>
@@ -86,10 +84,12 @@ export default function VisionMission() {
         <div className="max-w-7xl mx-auto text-center text-white">
           <h2 className="text-4xl font-bold mb-6">Our Mission</h2>
           <p className="text-lg leading-relaxed bg-black/50 p-6 rounded-xl shadow-lg">
-            We aim to exceed our client’s expectations by delivering excellent
-            value in every product and service we offer. Our mission is to
-            fulfill our customers’ unique needs, ensuring their utmost
-            satisfaction with our craftsmanship and service.
+            At Malani Marbles Pvt. Ltd, we strive to exceed all of our clients’ expectations by providing excellent value in every product and service we offer. From our top-quality natural marble and stone products and special design and installation services to our reliability and quality, we deliver high quality every time.
+
+          </p>
+          <br />
+          <p className="text-lg leading-relaxed bg-black/50 p-6 rounded-xl shadow-lg">
+            We understand that every customer has their own individual wants and work-related requirements, which is why we take a fully personalized customer approach so that the outcome receives complete buyer satisfaction. Whether we are working with residential interiors, commercial developments, or architectural spaces, we provide unique marble solutions that illustrate quality, durability, and beauty.
           </p>
         </div>
       </section>
@@ -99,11 +99,7 @@ export default function VisionMission() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Vision</h2>
           <p className="text-lg leading-relaxed text-gray-700 bg-gray-50 border border-gray-200 p-6 rounded-xl shadow-md">
-            Our vision is to triumph over challenges, becoming the industry
-            leader in natural marble supply. We strive to deliver outstanding
-            quality stones while catering to the evolving needs of our customers
-            with excellence and trust.
-          </p>
+            At Malani Marbles Pvt. Ltd., our mission and vision are to face the challenges of our sector and become a recognized supplier of quality natural marble and stone. At Malani Marble we have a vision to establish new approaches for precision, quality, and service through the regular delivery of high-grade natural stone products that fulfill the needs of our customers. We wish to be the respected supplier of choice for architects, interior designers, builders, and homeowners in need of the enduring beauty and longevity that only natural stone provides. </p>
         </div>
       </section>
 

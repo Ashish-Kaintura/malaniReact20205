@@ -10,14 +10,14 @@ const tabs = [
         <motion.h1
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
-          className="text-center text-4xl sm:text-5xl font-semibold text-gray-900"
+          className="text-center text-3xl sm:text-5xl font-semibold text-gray-900"
         >
-          Processing Center
+          Technology + Expertise = Reliability
+
         </motion.h1>
-        <p className="text-center text-lg max-w-3xl mx-auto text-gray-700">
-          Delivering you the best-of-its-quality products is made possible
-          because of our cutting-edge technology combined with the unparalleled
-          skills of our team.
+        <p className="text-center text-sm max-w-3xl mx-auto text-gray-700">
+          With the combination of cutting-edge machinery and our team of experts, we are diligent in processing and sending every order with care and precision. We have the capability to serve the whole of India, with bulk handling potential and a focus on the customer.We partner with you in projects of any size!
+
         </p>
         <div className="flex justify-center">
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col sm:flex-row gap-8">
@@ -47,11 +47,13 @@ const tabs = [
     name: "Showrooms",
     content: (
       <div className="space-y-10">
-        <h1 className="text-center text-4xl sm:text-5xl font-semibold text-gray-900">
-          Showrooms
-        </h1>
-        <p className="text-center text-lg text-gray-700">
-          We have two of our showrooms in Chattarpur.
+        <h2 className="text-center text-3xl sm:text-5xl font-semibold text-gray-900">
+          Showrooms Designed for Discovery
+
+        </h2>
+        <p className="text-center text-sm text-gray-700">
+          Our two marble showrooms in Chattarpur offer customers a hands-on experience to explore a wide range of imported and Indian marble options. Whether you're an architect, builder, or homeowner—you’ll find exactly what you need, all under one roof.
+
         </p>
         <div className="flex justify-center">
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col sm:flex-row gap-8">
@@ -92,12 +94,12 @@ const tabs = [
     name: "Stockyards",
     content: (
       <div className="space-y-10">
-        <h1 className="text-center text-4xl sm:text-5xl font-semibold text-gray-900">
-          Stockyards
-        </h1>
-        <p className="text-center text-lg text-gray-700">
-          Leading provider of high-quality marbles, granites and other natural
-          stones.
+        <h2 className="text-center text-3xl sm:text-5xl font-semibold text-gray-900">
+          Extensive Stockyards & Modern Facilities
+        </h2>
+        <p className="text-center text-sm text-gray-700">
+          We are proud to operate one of the biggest marble stockyards in India, with state-of-the-art technology that keeps all material free from water, dirt, and damage to preserve the natural beauty and strength of marble, granite, and other stones throughout all stages from storage to delivery.
+
         </p>
         <div className="flex justify-center">
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col sm:flex-row gap-8">
@@ -178,10 +180,9 @@ export default function InfrastructureTabs() {
             <Tab
               key={tab.name}
               className={({ selected }) =>
-                `px-6 py-2 text-lg font-medium rounded-full transition-all ${
-                  selected
-                    ? "bg-red-600 text-white shadow-lg"
-                    : "bg-white/80 text-gray-700 hover:bg-gray-100"
+                `px-6 py-2 text-lg font-medium rounded-full transition-all ${selected
+                  ? "bg-red-600 text-white shadow-lg"
+                  : "bg-white/80 text-gray-700 hover:bg-gray-100"
                 }`
               }
             >

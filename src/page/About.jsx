@@ -25,9 +25,9 @@ const managementData = [
 
 export default function About() {
   const [selectedPerson, setSelectedPerson] = useState(null);
-useEffect(()=>{
-  window.scroll(0,0)
-})
+  useEffect(() => {
+    window.scroll(0, 0)
+  })
   return (
     <div className="w-full">
       {/* 🎥 Hero Section with Video Banner */}
@@ -58,12 +58,10 @@ useEffect(()=>{
           className="relative z-10 max-w-4xl px-6 text-center text-white"
         >
           <h1 className="text-5xl sm:text-6xl font-bold font-serif mb-6">
-            About <span className="text-[#e02529]">Malani Marbles</span>
+            About <span className="text-[#e02529]">Malani Marbles Pvt.Ltd.</span>
           </h1>
           <p className="text-lg sm:text-xl leading-relaxed">
-            One-Stop Solution: Where Luxury Meets Uncompromising Quality. Since
-            1997, we’ve been curating the world’s finest marble, granite, and
-            natural stones — bringing timeless beauty to every space.
+            Established in 1997, Malani Marbles Pvt.Ltd. is a premier and trusted name in the world of natural stone, serving as a leading wholesaler and importer of luxurious marble, granite, and onyx in India.
           </p>
         </motion.div>
       </section>
@@ -79,17 +77,12 @@ useEffect(()=>{
           <h3 className="text-2xl font-semibold text-gray-800">
             Bringing Nature’s Finest Stones to Your Home
           </h3>
-          <p className="mt-4 text-lg text-gray-700 leading-relaxed">
-            We source premium natural stones from Italy, Spain, Turkey, Greece,
-            Vietnam, Oman, and beyond. Our strong ties with global quarries
-            allow us to deliver marble, granite, onyx, and semi-precious stones
-            of unmatched quality at the most competitive prices.
+          <p className="mt-4 text-sm text-gray-700 leading-relaxed">
+            Our foundation is built on a simple, yet powerful vision: to provide architects, designers, and homeowners across the nation with the most exquisite stones sourced directly from the world’s finest quarries. For over two decades, this commitment has secured our reputation as a key contender for the title of the best marble in India.
+
           </p>
-          <p className="mt-3 text-lg text-gray-700 leading-relaxed">
-            With 26+ years of excellence, we have become a trusted partner for
-            hospitality, residential, commercial, and institutional projects
-            across India. Our mission is simple — perfection in quality, value,
-            and service.
+          <p className="mt-3 text-sm text-gray-700 leading-relaxed">
+            Our unparalleled collection is a direct result of meticulous global procurement. Our specialized team travels to the renowned stone regions of Italy, Spain, Turkey, and beyond, hand-selecting every block to ensure superior quality, aesthetic appeal, and durability. Beyond our vast inventory, we operate a streamlined national supply chain and utilize advanced in-house finishing facilities, ensuring that every slab—from rare imported varieties like Statuario and Blue Roma to premium Indian Granites—is delivered with flawless integrity and exceptional value. Malani Marbles Pvt. Ltd. is your dedicated partner in elevating any space with the timeless elegance of natural stone
           </p>
         </motion.div>
 
@@ -116,12 +109,11 @@ useEffect(()=>{
       <section className="sm:px-12 px-5 py-16 bg-gray-50">
         <div className="text-center mb-10">
           <h2 className="text-4xl font-bold font-serif text-gray-900">
-            Our Management
+            Our Leadership
           </h2>
-          <p className="max-w-2xl mx-auto mt-4 text-lg text-gray-700">
-            Malani Marbles was established in 1997 with a vision of becoming the
-            pioneer in luxury natural stones. Today, we are recognized for
-            excellence in service, innovation, and product quality.
+          <p className="max-w-6xl mx-auto mt-4  text-gray-700 text-sm">
+            Malani Marbles Pvt. Ltd. is guided by a dynamic leadership team that embodies vision, integrity, and excellence. Under the guidance of our managing director, Mr. Ramanand Malani, the company continues to set new benchmarks in the natural stone industry. Our Chairman, Mr. Parmanand Malani, drives innovation and operational excellence, ensuring that every project reflects the brand’s commitment to quality and craftsmanship. Together, their strategic foresight and customer-centric approach have positioned Malani Marbles as a leader in the world of premium marble and granite.
+
           </p>
         </div>
 

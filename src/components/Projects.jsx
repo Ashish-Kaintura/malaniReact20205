@@ -9,9 +9,9 @@ export default function Projects() {
             <h2 className="text-4xl md:text-5xl font-bold font-display text-gray-900 mb-4">
               Featured Projects
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Explore our portfolio of stunning marble installations that
-              showcase the beauty and versatility of natural stone.
+            <p className="text-lg text-gray-600 max-w-6xl mx-auto">
+              Explore our portfolio of stunning marble installations that showcase the beauty and versatility of our premium collection. These projects, from grand commercial spaces to luxurious homes, are a testament to Malani Marbles' quality and craftsmanship. Let our completed work inspire the design of your next prestigious endeavor.
+
             </p>
           </div>
 

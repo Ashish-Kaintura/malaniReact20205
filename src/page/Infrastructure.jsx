@@ -2,11 +2,11 @@ import React from "react";
 import Hero from "../components/Hero";
 import InfrastructureTabs from "../components/About/InfrastructureTabs";
 import { ArrowBigDown } from "lucide-react";
-import {useEffect} from "react";
+import { useEffect } from "react";
 export default function Infrastructure() {
-  useEffect(()=>{
-  window.scroll(0,0)
-})
+  useEffect(() => {
+    window.scroll(0, 0)
+  })
   return (
     <>
       <section
@@ -24,13 +24,13 @@ export default function Infrastructure() {
           data-aos="fade-up"
           data-aos-duration="1000"
         >
-          <h1 className="text-5xl md:text-7xl font-bold font-display mb-6">
-            <span className="gradient-text">Malani Marble</span>
-          </h1>
-          <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
+          <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
+            Infrastructure  <span className="gradient-text">Malani Marble Pvt Ltd. </span>
+          </h2>
+          {/* <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
             Crafting Timeless Elegance with Premium Natural Stone for Over Three
             Decades
-          </p>
+          </p> */}
           {/* <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <button
                       onclick="scrollToSection('products')"
@@ -53,30 +53,18 @@ export default function Infrastructure() {
       </section>
       <div className="pt-12">
         <div className="flex flex-col relative justify-center items-center">
-          <span className="absolute sm:h-[2.544vw] h-[8.544vw] sm:w-[3.646vw] w-[11.646vw] mr-64 top-[-0.685vw] border-t-4 border-l-4 border-[#e02529]"></span>
-          <h1 className="max-w-max px-2 text-4xl ">Infrastructure</h1>
-          <span className="absolute sm:bottom-[-1.002vw] bottom-[-2.002vw] sm:h-[2.344vw] h-[8.344vw] sm:w-[3.646vw] w-[11.646vw] ml-64 border-r-4 border-b-4 border-[#e02529]"></span>
+          <span className="sm:flex hidden absolute sm:h-[2.544vw] h-[8.544vw] sm:w-[3.646vw] w-[11.646vw] mr-[750px] top-[-0.685vw] border-t-4 border-l-4 border-[#e02529]"></span>
+          <h1 className="max-w-max px-2 text-4xl ">Our Infrastructure: Built for Quality & Scale</h1>
+          <span className="sm:flex hidden absolute sm:bottom-[-1.002vw] bottom-[-2.002vw] sm:h-[2.344vw] h-[8.344vw] sm:w-[3.646vw] w-[11.646vw] ml-[750px] border-r-4 border-b-4 border-[#e02529]"></span>
         </div>
       </div>
       <div className="flex justify-center  py-8 px-5 sm:px-12">
         <div className="max-w-7xl text-gray-700">
-          <p className="py-5 text-lg  text-left">
-            We have a capacious infrastructure that allows us to meet the bulk
-            demands of our clients within a given timeline. Our infrastructure
-            has all the basic amenities to keep all the products to safe from
-            water and dirt.
+          <p className="py-5  text-left">
+            At Malani Marbles Pvt. Ltd., our world-class infrastructure is the foundation of a commitment to quality and on-time deliveries. With over 26 years of experience, we have distribution points throughout Delhi NCR, stockyards, warehouses, and showrooms located in Chattarpur and Kishangarh.
           </p>
-          <p className="py-6  text-lg text-left">
-            Delivering the best-of-its-quality products is made possible because
-            of our cutting-edge technology combined with the unparalleled skills
-            of our team. We are based in Delhi / NCR, however we have our
-            stockyards and warehouses spread all over in Delhi, NCR, Chattarpur
-            and Kishangarh. We have two of our Showrooms in Chattarpur,
-            Stockyards Malani Marbles boasts of having one of the largest
-            stockyards in the industry using the latest technology, which is the
-            main factor in its success and reputation as a leading provider of
-            high-quality marbles, granites and other natural stones. Our
-            customers are sure to find exactly what they are looking for.
+          <p className="py-6  text-left">
+            Our modern facilities have the latest technology to provide safe, modern storage and handling capacity for all natural stone products. As one of the largest marble stockholders in India, we have the capacity to fill bulk orders in a fast and precise manner. From selection to supply, you will have a memorable experience and utter confidence with every delivery
           </p>
         </div>
       </div>

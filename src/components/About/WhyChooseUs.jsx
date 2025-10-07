@@ -29,24 +29,23 @@ export default function WhyChooseUs() {
   return (
     <section className="relative bg-gradient-to-b from-white to-gray-50 py-20 px-6 md:px-12">
       <div className="max-w-7xl mx-auto text-center">
-        <motion.h2
+        <motion.h1
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
           className="text-4xl md:text-5xl font-bold text-gray-900 mb-6"
         >
-          Why Choose <span className="text-red-600">Malani Marble</span>?
-        </motion.h2>
+          Why Choose <span className="text-red-600"> Malani Marbles Pvt. Ltd</span>?
+        </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.8 }}
           viewport={{ once: true }}
-          className="text-gray-600 max-w-2xl mx-auto mb-12"
+          className="text-gray-600 max-w-6xl text-normal mx-auto mb-12"
         >
-          With a legacy of excellence, we create marble solutions that embody
-          elegance, durability, and timeless beauty.
+          Over 26 years of excellence in the marble and natural stone industry, Malani Marbles Pvt. Ltd. has established itself as one of the Leading marble supplier companies in India. Our legacy is propelling from quality, trust and customer satisfaction, making us the preferred option for premium natural stone solutions all over the country
         </motion.p>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">

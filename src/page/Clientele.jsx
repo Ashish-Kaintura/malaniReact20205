@@ -1,12 +1,12 @@
 import React from "react";
-import {useEffect} from "react";
+import { useEffect } from "react";
 import Hero from "../components/Hero";
 import HappyCustomers from "../components/About/HappyCustomers";
 import { ArrowBigDown } from "lucide-react";
 
 export default function Clientele() {
-  useEffect(()=>{
-    window.scroll(0,0)
+  useEffect(() => {
+    window.scroll(0, 0)
   })
   return (
     <>
@@ -25,12 +25,11 @@ export default function Clientele() {
           data-aos="fade-up"
           data-aos-duration="1000"
         >
-          <h1 className="text-5xl md:text-7xl font-bold font-display mb-6">
-            <span className="gradient-text">Malani Marble</span>
-          </h1>
+          <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
+            <span className="gradient-text">Malani Marble Pvt Ltd </span>
+          </h2>
           <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
-            Crafting Timeless Elegance with Premium Natural Stone for Over Three
-            Decades
+            Our products are loved by our clients and offered in a large range of sizes, colors, textures, and designs to fit any interior or exterior need at the best prices.
           </p>
           {/* <div className="flex flex-col sm:flex-row gap-4 justify-center">
                          <button
@@ -52,41 +51,34 @@ export default function Clientele() {
           <ArrowBigDown size={40} />
         </div>
       </section>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 ">
-        <div className="">
-          <div className="px-8 ">
-            <div>
-              <h1 className="text-center  text-5xl text-[#da373d]">
-                Trust Us..
-              </h1>
-            </div>
-            <div className="flex justify-center">
-              <div className="border-b w-96"></div>
-            </div>
-            <div className="flex justify-center">
-              <div className="w-96">
-                <h1 className="text-right text-3xl  text-[#da373d]">
-                  & Make your way here
-                </h1>
-              </div>
-            </div>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+        <div>
+          <div className="text-center">
+            <h1 className="text-5xl text-[#da373d] mb-4">
+              Step Into Luxury
+              <br />
+              <span className="text-3xl text-gray-700">
+                Explore Our Exclusive Marble Collection in Person
+              </span>
+            </h1>
+
           </div>
-          <div className="py-8 text-gray-700 text-lg leading-relaxed">
-            <p className="text-center">
-              Malani Marbles, a well-known entity was established in 1997 and is
-              engaged in Trading, Wholesaling, Supplying and Exporting high
-              quality Marbles, Granites, Semi-precious and Natural Stones. We
-              are also service provider of Marble Flooring Services. Our
-              products are designed and crafted using the finest quality
-              material and advanced techniques under the supervision of our
-              skilled professionals. Our products are extremely valued by our
-              esteemed clients and our products are available in various sizes,
-              colors, designs and patterns as per the varied requirements of
-              clients at affordable prices. We have a diligent team of capable
-              qualified of capable and qualified personnel in their
-              corresponding domain, which aim hard towards fulfilling our
-              company’s goal and empower us to preserve our position in the
-              market.
+
+          <div className="flex justify-center mt-4 mb-10">
+            <div className="border-b-2 border-[#da373d] w-24"></div>
+          </div>
+
+          <div className="py-8 text-gray-700  leading-relaxed max-w-7xl mx-auto">
+            <p className="text-center ">
+              Malani Marbles Pvt. Ltd. a renowned name in the stone industry, has been in business since 1997 and is in the top ten of marble suppliers in India. We deal, wholesale, supply, and export many varieties of marbles and granites, semi-precious stones, as well as all other natural stones. In addition, we also provide complete professional marble flooring services for residential and commercial jobs as a reliable natural stone supplier.
+            </p>
+            <br />
+            <p className="text-center ">
+              All manufactured products are manufactured using the best quality materials using the most advanced methods under the care of our experienced professionals. Our products are loved by our clients and offered in a large range of sizes, colors, textures, and designs to fit any interior or exterior need at the best prices.
+            </p>
+            <br />
+            <p className="text-center ">
+              We employ a skilled and qualified team that works with purpose to achieve our company's vision and maintain our standing as one of the premier granite and marble wholesalers. They help us ensure that we keep people's trust in us and still remain relevant.
             </p>
           </div>
         </div>
@@ -94,7 +86,7 @@ export default function Clientele() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20 ">
         <img
-          src="hhttps://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Clientel/26%20exp%20white.webp"
+          src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Clientel/26%20exp%20white.webp"
           alt="malnimarble from 26 year "
         />
       </div>
