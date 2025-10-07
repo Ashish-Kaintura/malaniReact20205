@@ -1,8 +1,10 @@
 [
     {
+        "title": "Premium Beige Marble Collection in India",
         "name": "Beige",
         "slug": "beige",
         "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Discover the largest selection of Beige Marble at Malani Marbles Pvt. Ltd., a premier supplier and exporter of beige marble in India. Our expansive collection includes Italian Beige Marble, Imported Beige Marble, and Indian Beige Marble, and can be used for flooring, wall cladding, kitchen countertops, and luxurious interiors. Our Beige Marble slabs are known for their elegant texture, smooth finish, and timeless beauty, and add warmth, sophistication, and durability to any residential and commercial project.",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp",
         "products": [
             {
@@ -78,9 +80,11 @@
         ]
     },
     {
+        "title": "Vibrant Coloured Marble Collection",
         "name": "Coloured",
         "slug": "coloured",
-        "banner": "https://malanimarbles.com/img/colord/Golden-Galaxy-Marble.webp",
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Malani Marbles Pvt. Ltd. presents an unrivalled array of coloured marble, designer coloured marble, green marble, red marble, pink marble, and multi-colored marble slabs — perfect for architecture, luxury flooring, wall cladding and decor accents. Our coloured marble is sought by builders, architects, and marble retailers high durability, striking natural veining, richness in colour tone, and a polished finish. The slabs offer visual and practical solutions for both residential, commercial and interior design.",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20PORTORO.webp",
         "products": [
             {
@@ -236,9 +240,11 @@
         ]
     },
     {
+        "title": "Luxurious Onyx Marble Collection",
         "name": "Onyx",
         "slug": "onyx",
-        "banner": "",
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Malani Marbles Pvt. Ltd. offers breathtaking onyx marble slabs, translucent onyx, exotic onyx, and high-end onyx marbles ideal for feature walls, countertops, high-end interiors, and accent pieces. Engaged by architects, builders, and marble wholesaler dealers, our Onyx marble is replete with dramatic veining, lustrous finishes, and unparalleled elegance. Each slab has been cut and honed to balance exquisiteness and lasting durability in residential, commercial, and boutique design applications. ",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/BLUE%20ONYX.webp",
         "products": [
             {
@@ -289,50 +295,496 @@
         ]
     },
     {
+        "title": "Elegant Travertino Marble Collection",
         "name": "Travertino",
         "slug": "travertino",
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Malani Marbles Pvt. Ltd. features exquisite Travertino marble slabs, tumbling travertino, ivory travertino, and classic travertino marble for floors, wall panels, facades, and high-end interiors. Favored by architects, builders, and high-end marble dealers, our Travertino offers natural texture, warm tones, and a high degree of quality. Every piece is selected for durability, unique veining, and timeless elegance in residential, commercial, and boutique design applications.",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/BIANCO%20MOONFACE.webp",
         "products": [
             {
-                "name": "Bianco Ondulatte",
-                "slug": "bianco-ondulatte",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/bianco%20ONDULATTE.webp"
+                "name": "Noche Travertino",
+                "slug": "noche-travertino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/NOCHE%20TRAVETINO.webp"
+            },
+            {
+                "name": "Ebony Travertino",
+                "slug": "ebony-travertino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/EBONY%20TRAVETINO.webp"
+            },
+            {
+                "name": "Red Travertino",
+                "slug": "red-travertino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/RED%20TRAVETINO.webp"
+            },
+            {
+                "name": "Silver Travertino",
+                "slug": "silver-travertino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/SILVER%20TRAVETINO.webp"
+            },
+            {
+                "name": "Coke Travertino",
+                "slug": "coke-travertino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/COKE%20TRAVETINO.webp"
+            },
+            {
+                "name": "White Travertino",
+                "slug": "white-travertino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/WHITE%20TRAVETINO.webp"
+            },
+            {
+                "name": "Mocca Cream Leather",
+                "slug": "mocca-cream-leather",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/MOCCA%20CREAM%20LEATHER.webp"
+            },
+            {
+                "name": "Mocca Grey Leather",
+                "slug": "mocca-grey-leather",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/MOCCA%20GREY%20LEATHER.webp"
+            },
+            {
+                "name": "Bianco Moon Face",
+                "slug": "bianco-moon-face",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/BIANCO%20MOONFACE.webp"
+            },
+            {
+                "name": "Feargamo Leather",
+                "slug": "feargamo-leather",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/FERAGAMO%20LEATHER.webp"
+            },
+            {
+                "name": "Grigio Venezia",
+                "slug": "grigio-venezia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/GRIGIO%20VENEZIA.webp"
             }
         ]
     },
     {
+        "title": "Marble Finishes Collection",
         "name": "Finishes",
         "slug": "finishes",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/fishish/LEATHER.webp"
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Malani Marbles Pvt. Ltd. supplies marble with a range of finish types, whether polished finish, honed finish, leathered finish, brushed finish, tumbled finish, flamed finish, or sandblasted finish, to satisfy the aesthetic and performance needs of builders, architects, and marble retailers. Select a finish enhancing slip resistance, color depth, surface texture or polished sheen will function in wall cladding, feature walls, floors, facades, and for interior and exterior applications. Every type of finish is manufactured with care, from new methods and technologies to ensure performance, durable appearance, and long-lasting quality.",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/fishish/LEATHER.webp",
+        "products": [
+            {
+                "name": "Leather",
+                "slug": "leather",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/fishish/LEATHER.webp"
+            },
+            {
+                "name": "Shaved",
+                "slug": "shaved",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/fishish/SHAVED.webp"
+            },
+            {
+                "name": "Saten",
+                "slug": "saten",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/fishish/SILKEN.webp"
+            }
+        ]
     },
     {
-        "name": "Indian Granites",
-        "slug": "indian",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ADHUNIK%20BROWN.webp"
+        "title": "Premium Indian Granite Slabs Collection",
+        "name": "Indian Granite",
+        "slug": "indian-granite",
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Look at a hand-selected line of Indian granite slabs, including various well-known types of Kashmir White, Paradiso, and Black Galaxy, to be used for countertops, flooring, wall cladding, and building facades. It is sourced from the best quarries in India with great durability, rich visual variations and finishes Our multi-variety granite is a superior choice for builders, architects, or retailers looking for quality and aesthetics for their projects.",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ADHUNIK%20BROWN.webp",
+        "products": [
+            {
+                "name": "Adhunik Brown",
+                "slug": "adhunik-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ADHUNIK%20BROWN.webp"
+            },
+            {
+                "name": "Adhunik Grey",
+                "slug": "adhunik-grey",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ADHUNIK%20GREY.webp"
+            },
+            {
+                "name": "Black Galaxy",
+                "slug": "black-galaxy",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/BLACk%20GALAXY.webp"
+            },
+            {
+                "name": "Boss Paradiso",
+                "slug": "boss-paradiso",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/BOSS%20PARADISO.webp"
+            },
+            {
+                "name": "Carbon Brown",
+                "slug": "carbon-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/CARBON%20BROWN.webp"
+            },
+            {
+                "name": "Cat's Eye",
+                "slug": "cats-eye",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/CAT’S%20EYE.webp"
+            },
+            {
+                "name": "Chiku Pearl",
+                "slug": "chiku-pearl",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/CHIKU%20PEARL.webp"
+            },
+            {
+                "name": "Choco Brown",
+                "slug": "choco-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/CHOCO%20BROWN.webp"
+            },
+            {
+                "name": "Coffee Black",
+                "slug": "coffee-black",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/COFFEE%20%20BLACK.webp"
+            },
+            {
+                "name": "Coffee Brown",
+                "slug": "coffee-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/COFFEE%20BROWN.webp"
+            },
+            {
+                "name": "Crystal Blue",
+                "slug": "crystal-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/CRYSTAL%20BLUE.webp"
+            },
+            {
+                "name": "Crystal Yellow",
+                "slug": "crystal-yellow",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/CRYSTAL%20YELLOW.webp"
+            },
+            {
+                "name": "Dolche Vita",
+                "slug": "dolche-vita",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/DOLCHE%20VITA.webp"
+            },
+            {
+                "name": "Ikon Brown",
+                "slug": "ikon-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ICON%20BROWN.webp"
+            },
+            {
+                "name": "Imperial Gold",
+                "slug": "imperial-gold",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/IMPERIAL%20GOLD.webp"
+            },
+            {
+                "name": "Ivory Fantasy",
+                "slug": "ivory-fantasy",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/IVORY%20FANTASY.webp"
+            },
+            {
+                "name": "Lavender Blue",
+                "slug": "lavender-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/LAVENDER%20BLUE.webp"
+            },
+            {
+                "name": "Lighting Blue",
+                "slug": "lighting-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/LIGHTING%20BLUE.webp"
+            },
+            {
+                "name": "Nasoli",
+                "slug": "nasoli",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/NASOLI.webp"
+            },
+            {
+                "name": "Paradiso Classico",
+                "slug": "paradiso-classico",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/PARADISO%20CLASSICO.webp"
+            }
+        ]
     },
     {
-        "name": "Brazilian Granites",
+        "title": "Exquisite Brazilian Granite Collection",
+        "name": "Brazilian Granite",
         "slug": "brazilian-granite",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Agatha.webp"
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "At Malani Marbles Pvt. Ltd., we offer a uniquely selected selection of Brazilian granite slabs with the most well-known Bizarre grades including Azul Bahia, Fusion and Patagonia for high-end countertops, flooring, wall cladding and building facades. Our granite is sourced from the finest quarries in Brazil, full of color patterns, strong durability characteristics, and superior finishes that are popular for high-end residential projects. Builders, architects and marble distributors depend on the quality and aesthetics of Brazilian granite for residential and commercial projects.",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Agatha.webp",
+        "products": [
+            {
+                "name": "Agatha",
+                "slug": "agatha",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Agatha.webp"
+            },
+            {
+                "name": "Blue Pearl",
+                "slug": "blue-pearl",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Blue%20pearl.webp"
+            },
+            {
+                "name": "Monalisa",
+                "slug": "monalisa",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Monalisa.webp"
+            },
+            {
+                "name": "Pata Gonia",
+                "slug": "pata-gonia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Pata%20gonia.webp"
+            },
+            {
+                "name": "Titanum Black",
+                "slug": "titanum-black",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Titanum%20black.webp"
+            },
+            {
+                "name": "Patagonia",
+                "slug": "patagonia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Patagonia.webp"
+            }
+        ]
     },
     {
+        "title": "Premium White Marble Collection",
         "name": "White",
         "slug": "white",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/ARBESCATO.webp"
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Explore a unique collection of white marble slabs that includes famous varieties such as Makrana White, Lasa White, and Statuario. Excellent for luxury flooring, wall cladding, countertops, and architectural facades, our white marble is sourced from only the finest quarries, and offers superior purity, weight, fine grain and finish, making it the choice marble for high-end residential and commercial projects. Architects, builders, and marble retailers can feel confident in using our white marble for both its beauty and top quality performance.",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/ARBESCATO.webp",
+        "products": [
+            {
+                "name": "Arbescato",
+                "slug": "arbescato",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/ARBESCATO.webp"
+            },
+            {
+                "name": "Statuario Venatino",
+                "slug": "statuario-venatino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20VENATINO.webp"
+            },
+            {
+                "name": "Statuario Calacutta",
+                "slug": "statuario-calacutta",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20CALACUTTA.webp"
+            },
+            {
+                "name": "Greek Thassos",
+                "slug": "greek-thassos",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/gREEK%20THASSOS.webp"
+            },
+            {
+                "name": "Brazillian White",
+                "slug": "brazillian-white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/BRAZILIAN%20WHITE.webp"
+            },
+            {
+                "name": "Michael Angelo",
+                "slug": "michael-angelo",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/michelangelo.webp"
+            },
+            {
+                "name": "Swiss White",
+                "slug": "swiss-white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/sWISS%20wHITE.webp"
+            },
+            {
+                "name": "Statuario White",
+                "slug": "statuario-white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20TO.webp"
+            },
+            {
+                "name": "Lasa White",
+                "slug": "lasa-white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/LASA%20WHITE.webp"
+            },
+            {
+                "name": "Infinity White",
+                "slug": "infinity-white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/mARMARA%20WHITE.webp"
+            },
+            {
+                "name": "Dior White",
+                "slug": "dior-white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/DIOR%20WHITE.webp"
+            },
+            {
+                "name": "Golden Statuario",
+                "slug": "golden-statuario",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/GOLDEN%20STATUARIO.webp"
+            },
+            {
+                "name": "Michael Angelo Peach",
+                "slug": "michael-angelo-peach",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/michelangelo%20PEACH.webp"
+            },
+            {
+                "name": "Golden Spider",
+                "slug": "golden-spider",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/GOLDEN%20SPIDER.webp"
+            }
+        ]
     },
     {
+        "title": "Premium Gray Marble Collection",
         "name": "Gray",
         "slug": "gray",
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Explore our exquisite collection of gray marble slabs, including renowned options such as Italian Grey Marble, Dona Grey, and Exotic Grey, which are perfect for use on luxury flooring, wall cladding, countertops, and architectural facades. Derived from the finest quarries, our gray marble slabs offer great durability, light veining, and an exceptional finish, making them suitable for high-end residential and commercial projects. Our gray marble is the trusted choice of builders, architects, and marble retailers of all kinds, offering beautiful aesthetics along with long-lasting durability.",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/EURO%20GREY.webp"
     },
     {
+        "title": "Exclusive Imported Granite  Collection",
         "name": "Imported Granites",
         "slug": "imported-granites",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20ROMA.webp"
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "At Malani Marbles Pvt. Ltd, we carry a carefully chosen range of imported granite slabs including reputable types such as Blue Pearl, Black Galaxy, and Brown Pearl that are perfect for luxury countertops, flooring, wall cladding, and architectural façades. Our imported granite is sourced from premium quarries worldwide, exhibiting superior durability, a rich color variation, and finishing that is favored for high-end residential and commercial projects. Time and time again builders, architects, and marble retailers have relied on us, the imported granite we offer will astoud you with its beauty and performance durability.",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20ROMA.webp",
+        "products": [
+            {
+                "name": "Amazonite",
+                "slug": "amazonite",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/amazonite.webp"
+            },
+            {
+                "name": "Angola Brown",
+                "slug": "angola-brown",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/angola%20brown.webp"
+            },
+            {
+                "name": "Antique Labrador",
+                "slug": "antique-labrador",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/antique%20labrador.webp"
+            },
+            {
+                "name": "Azul Bahia",
+                "slug": "azul-bahia",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/azul%20bahia.webp"
+            },
+            {
+                "name": "Belford Serra",
+                "slug": "belford-serra",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/belford%20serra.webp"
+            },
+            {
+                "name": "Blue Labradorite",
+                "slug": "blue-labradorite",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/blue%20labradorite.webp"
+            },
+            {
+                "name": "Blue Pearl",
+                "slug": "blue-pearl",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/blue%20pearl.webp"
+            },
+            {
+                "name": "Blue Roma",
+                "slug": "blue-roma",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20ROMA.webp"
+            },
+            {
+                "name": "Diamond Fossil",
+                "slug": "diamond-fossil",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/diamond%20fossil.webp"
+            },
+            {
+                "name": "Emerald Pearl",
+                "slug": "emerald-pearl",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/emerald%20pearl.webp"
+            },
+            {
+                "name": "Imperial Roma",
+                "slug": "imperial-roma",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/IMPERIAL%20roma.webp"
+            },
+            {
+                "name": "Madagascar White",
+                "slug": "madagascar-white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/MADAGASCAR%20WHITE.webp"
+            },
+            {
+                "name": "Palomino",
+                "slug": "palomino",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/palomino.webp"
+            },
+            {
+                "name": "Soda Lite Blue",
+                "slug": "soda-lite-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/soda%20lite%20blue.webp"
+            },
+            {
+                "name": "Volga Blue",
+                "slug": "volga-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/volga%20blue.webp"
+            },
+            {
+                "name": "Wooden Roma",
+                "slug": "wooden-roma",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/WOODEN%20ROMA.webp"
+            }
+        ]
     },
     {
+        "title": "Exquisite Semi-Precious Marble Collection",
         "name": "Semi Precious",
         "slug": "semi-precious",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp"
+        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "text": "Malani Marbles Pvt. Ltd. specializes in a carefully curated selection of semi-precious marble slabs including agate, amethyst, quartz, and lapis lazuli for luxury countertops, feature walls, flooring, and custom furniture. The semi-precious marble slabs are exceptionally colored, patterned, and durable, making them a favorite selection for high-end residential and commercial projects. Builders, architects, and marble retailers trust our semi-precious marble slabs to provide performance and beauty for their clients.",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
+        "products": [
+            {
+                "name": "Black Agate",
+                "slug": "black-agate",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
+            },
+            {
+                "name": "Black Petrified",
+                "slug": "black-petrified",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp"
+            },
+            {
+                "name": "Blue Appetite",
+                "slug": "blue-appetite",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/blue%20appetite.webp"
+            },
+            {
+                "name": "Carnelian Blue",
+                "slug": "carnelian-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/carnelian%20blue.webp"
+            },
+            {
+                "name": "Grey Agate",
+                "slug": "grey-agate",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/grey%20agate.webp"
+            },
+            {
+                "name": "Jumble Agate",
+                "slug": "jumble-agate",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/jumble%20agate.webp"
+            },
+            {
+                "name": "Malachite",
+                "slug": "malachite",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/MALACHITE.webp"
+            },
+            {
+                "name": "Petrified Wood",
+                "slug": "petrified-wood",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/PETRIFIED%20WOOD.webp"
+            },
+            {
+                "name": "Sodalight Quartz",
+                "slug": "sodalight-quartz",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/sodalight%20quartz.webp"
+            },
+            {
+                "name": "Tiger Eye Black",
+                "slug": "tiger-eye-black",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/TIGER%20EYE%20BLACK.webp"
+            },
+            {
+                "name": "Tiger Eye Gold",
+                "slug": "tiger-eye-gold",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/TIGER%20EYE%20GOLD.webp"
+            },
+            {
+                "name": "White Mother of Pearl",
+                "slug": "white-mother-of-pearl",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/WHITE%20MOTHER%20OF%20PEARL.webp"
+            },
+            {
+                "name": "White Quartz",
+                "slug": "white-quartz",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/WHITE%20%C2%ADQUARTZ.webp"
+            }
+        ]
     }
 ]

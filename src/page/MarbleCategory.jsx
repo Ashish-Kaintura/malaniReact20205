@@ -25,9 +25,11 @@ useEffect(()=>{
         <img src={category.banner} alt={category.name + "Banner"} />
       </div>
       <div className="max-w-7xl mx-auto px-6 pt-12">
-        <h1 className="text-5xl font-semibold text-center text-gray-800 mb-12 uppercase">
-          {category.name} Collection
+        <h1 className="text-3xl font-semibold text-center text-gray-800 mb-8 uppercase gradient-text">
+          {category.title} 
         </h1>
+        <p className="text-sm mb-12 max-w-6xl mx-auto text-center line-clamp-2" >Malani Marbles Pvt. Ltd., one of India's best and largest marble collections of Italian marble, imported marble, Indian marble, onyx marble, travertine marble and other natural stone slabs for your residential, commercial and architectural projects. One of the foremost marble supplier in India, builders, interior designers, leading architects and marble dealers rely on Malani Marbles Pvt. Ltd. marble collections to bring all the elements of high quality marble, luxury finishes and precision craftsmanship. All the marble slabs in our collection are hand-picked from the finest quarries in the world and processed with the highest quality Italian processing equipment to achieve unparalleled durability, high gloss polish and timeless beauty. Every marble slab in our collection is meant to provide the very best of elegance, strength and grace in the case of flooring marble, wall-cladding marble, kitchen countertop marble and other decorative marble applications. And of course, marble is always going to elevate the sophistication of every space!
+        </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-10">
           {category.products.map((p, i) => (
             <motion.div
