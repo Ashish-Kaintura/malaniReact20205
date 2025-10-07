@@ -291,7 +291,13 @@
     {
         "name": "Travertino",
         "slug": "travertino",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/BIANCO%20MOONFACE.webp"
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/BIANCO%20MOONFACE.webp""products": [
+            {
+                "name": "Bianco Ondulatte",
+                "slug": "bianco-ondulatte",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/bianco%20ONDULATTE.webp"
+            }
+        ]
     },
     {
         "name": "Finishes",
