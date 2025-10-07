@@ -14,11 +14,11 @@ export default function Clientele() {
         className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
         style={{
           backgroundImage: `url(
-                     "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Clientel/clientel%20banner.webp"
+                     "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Clientel/Clientele.webp"
                    )`,
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-br from-black/20 to-black/10"></div>
+        <div className="absolute inset-0 bg-gradient-to-br from-black/30 to-black/10"></div>
 
         <div
           className="relative z-10 text-center text-white max-w-5xl mx-auto px-4"
@@ -84,12 +84,14 @@ export default function Clientele() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20 ">
-        <img
-          src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Clientel/26%20exp%20white.webp"
-          alt="malnimarble from 26 year "
-        />
-      </div>
+      <section className="bg-white py-16 px-6">
+        <div className="max-w-7xl mx-auto text-center">
+          <img
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Clientel/28-years-banner.webp"
+            alt="Malani marble work with "
+          />
+        </div>
+      </section>
       <HappyCustomers />
     </>
   );

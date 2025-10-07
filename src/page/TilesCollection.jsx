@@ -8,6 +8,7 @@ export default function TilesCollection() {
   window.scroll(0,0)
 })
   return (
+    // tilebanner
     <section className="pb-20 bg-gradient-to-b from-white to-gray-100 min-h-screen">
       <div className="overflow-hidden h-[760px]">
         <img className="w-full object-cover" src="https://malanimarbles.com/img/colord/Golden-Galaxy-Marble.webp" alt="BANNER" />

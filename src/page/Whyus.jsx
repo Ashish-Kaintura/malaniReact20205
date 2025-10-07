@@ -15,7 +15,7 @@ export default function Whyus() {
           className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
           style={{
             backgroundImage: `url(
-          "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=1920&h=1080&fit=crop"
+          "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/whyus/Why%20us.webp"
         )`,
           }}
         >

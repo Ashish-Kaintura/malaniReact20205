@@ -9,8 +9,11 @@ export default function MarbleCollection() {
   })
   return (
     <section className="pb-20 bg-gradient-to-b from-white to-gray-100 min-h-screen">
-      <div className="overflow-hidden">
-        <img className="w-full object-cover" src="https://malanimarbles.com/img/white/White%20marbale%20bannner2.webp" alt="" />
+      <div className="relatove overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-b from-black/30 to-black/10 z-10">
+
+        </div>
+        <img className="w-full object-cover" src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/Banner-02.webp" alt="" />
       </div>
       <div className="max-w-7xl mx-auto px-6 mt-12">
         <h1 className="text-xl font-semibold text-center gradient-text mb-3 uppercase">

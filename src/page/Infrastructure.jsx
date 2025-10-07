@@ -13,7 +13,7 @@ export default function Infrastructure() {
         className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
         style={{
           backgroundImage: `url(
-                "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/infrastructure/infrastature%20banner.webp"
+                "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/infrastructure/Infrastructure.webp"
               )`,
         }}
       >

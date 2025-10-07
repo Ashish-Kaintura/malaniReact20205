@@ -34,7 +34,7 @@ export default function Navbar() {
         { label: "Onyx", href: "/onyx" },
         { label: "Travertino", href: "/travertino" },
         { label: "Finishes", href: "/finishes" },
-        { label: "Indian Granites", href: "/indian" },
+        { label: "Indian Granites", href: "/indian-granite" },
         { label: "Brazilian Granites", href: "/brazilian-granite" },
         { label: "White", href: "/white" },
         { label: "Gray", href: "/gray" },

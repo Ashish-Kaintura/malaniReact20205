@@ -1,47 +1,109 @@
 [
     {
+        "title": "Premium White Tiles Collection",
         "name": "White Tiles",
         "slug": "white-tiles",
-        "banner": "https://malanimarbles.com/img/white/White%20marbale%20bannner2.webp",
+        "text": "Discover our collection of white marble tiles, including options such as Makrana White, Statuario, and Carrara, perfect for high-end flooring, wall cladding, bathroom spaces, and commercial installation. At Malani Marbles Pvt. Ltd., we have a range of finishes and designs for any aesthetic, built for durability and beauty in every application for an elegant project. We are trusted by builders, architects, and marble distributors for our collections of white marble tiles, meeting industrial standards for both function and design for residential and commercial.",
+        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/White%20Tiles.webp",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/12_subway%20white%203x1_4.webp",
         "products": [
             {
-                "name": "Barbari Beige",
-                "slug": "barbari-beige",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp"
+                "name": "White",
+                "slug": "white",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/12_subway%20white%203x1_4.webp"
             },
             {
-                "name": "Brecia Beige",
-                "slug": "brecia-beige",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20bEIGE.webp"
+                "name": "Calacatta Oro",
+                "slug": "calacatta-oro",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/LEA-delight-calacattaoro-nat-120x260-6mm-001.webp"
             },
             {
-                "name": "Brecia Aurora",
-                "slug": "brecia-aurora",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20AURORA.webp"
+                "name": "Invisible",
+                "slug": "invisible",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/LEA-delight-invisiblelight-nat-120x260-6mm-001.webp"
+            },
+            {
+                "name": "Venato Bianco",
+                "slug": "venato-bianco",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/LEA-delight-venatobianco-nat-120x260-6mm-008.webp"
+            },
+            {
+                "name": "Calacatta Gold",
+                "slug": "calacatta-gold",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/LEA-timeless-marble-calacatta-butterfly-a-100x300-5,5mm.webp"
+            },
+            {
+                "name": "Statuario",
+                "slug": "statuario",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/LEA-timelessmarble-statuario-nat-100x300-10mm-001.webp"
+            },
+            {
+                "name": "Waterfall Ivory",
+                "slug": "waterfall-ivory",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/LEA-waterfall-ivory-flow-100x300-5,5mm.webp"
+            },
+            {
+                "name": "Naive Black",
+                "slug": "naive-black",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/Slimtech_Naive_Black_100x300.webp"
+            },
+            {
+                "name": "Slimtech Naive Blue",
+                "slug": "slimtech-naive-blue",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/Slimtech_Naive_Blue_100x300.webp"
+            },
+            {
+                "name": "Slimtech Naive Grey",
+                "slug": "slimtech-naive-grey",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/Slimtech_Naive_Grey_100x300.webp"
+            },
+            {
+                "name": "Slimtech Naive Terra",
+                "slug": "slimtech-naive-terra",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/Slimtech_Naive_Terra_100x300.webp"
+            },
+            {
+                "name": "Snow",
+                "slug": "snow",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/whitetile/t21_snow_300x100.webp"
             }
         ]
     },
     {
         "name": "Black Tiles",
         "slug": "black-tiles",
-        "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
+        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/Black-tile-banner.webp",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/11_subway%20smoke%203x1_3.webp",
         "products": [
             {
-                "name": "Barbari Beige",
-                "slug": "barbari-beige",
+                "name": "Smoke",
+                "slug": "smoke",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/11_subway%20smoke%203x1_3.webp"
             },
             {
-                "name": "Brecia Beige",
-                "slug": "brecia-beige",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20bEIGE.webp"
+                "name": "Subway Ash",
+                "slug": "subway-ash",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/9_subway%20ash%203x1_1.webp"
             },
             {
-                "name": "Brecia Aurora",
-                "slug": "brecia-aurora",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20AURORA.webp"
+                "name": "Marquina Nat",
+                "slug": "marquina-nat",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/LEA-delight-neromarquina-nat-120x260-6mm-001.webp"
+            },
+            {
+                "name": "Naturale",
+                "slug": "naturale",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/naturale_3mm_100x300.webp"
+            },
+            {
+                "name": "Stuccata",
+                "slug": "stuccata",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/stuccata_3mm_100x300.webp"
+            },
+            {
+                "name": "Stuccata Plus",
+                "slug": "stuccata-plus",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/stuccata_3plus_100x300.webp"
             }
         ]
     },
@@ -52,19 +114,29 @@
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/gray%20tiel/01.webp",
         "products": [
             {
-                "name": "Barbari Beige",
-                "slug": "barbari-beige",
+                "name": "Silver Flow",
+                "slug": "silver-flow",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/gray%20tiel/01.webp"
             },
             {
-                "name": "Brecia Beige",
-                "slug": "brecia-beige",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20bEIGE.webp"
+                "name": "Pietra Gray",
+                "slug": "pietra-gray",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/gray%20tiel/02.webp"
             },
             {
-                "name": "Brecia Aurora",
-                "slug": "brecia-aurora",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20AURORA.webp"
+                "name": "Road",
+                "slug": "road",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/gray%20tiel/04.webp"
+            },
+            {
+                "name": "Gray Flow",
+                "slug": "gray-flow",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/gray%20tiel/05.webp"
+            },
+            {
+                "name": "Dark Flow",
+                "slug": "dark-flow",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/gray%20tiel/06.webp"
             }
         ]
     }

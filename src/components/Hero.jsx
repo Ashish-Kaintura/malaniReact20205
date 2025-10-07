@@ -19,7 +19,7 @@ export default function Hero() {
         muted
         loop
         playsInline
-        poster="https://i.postimg.cc/dQCcndBm/hgmnf.png" // fallback poster image
+        poster="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp29yKjyM5ZpKI5HjImkeclnXWlN5rOwRSBA&s" // fallback poster image
       >
         <source src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/video/home%20video.mp4" type="video/mp4" />
         {/* Example public URL you can replace:

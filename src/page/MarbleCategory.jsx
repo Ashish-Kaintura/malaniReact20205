@@ -11,9 +11,9 @@ export default function MarbleCategory() {
   const category = marbleData.find((c) => c.slug === slug);
   const [selected, setSelected] = useState(null);
 
-useEffect(()=>{
-  window.scroll(0,0)
-})
+  useEffect(() => {
+    window.scroll(0, 0)
+  })
 
   if (!category) {
     return <Navigate to="/" replace />;
@@ -21,12 +21,16 @@ useEffect(()=>{
 
   return (
     <section className="pb-20 bg-gradient-to-b from-gray-50 to-white min-h-screen">
-      <div>
+      <div className="relative">
         <img src={category.banner} alt={category.name + "Banner"} />
+
+        <div className="absolute inset-0 bg-gradient-to-b from-black/20 to-black/10 z-10">
+
+        </div>
       </div>
       <div className="max-w-7xl mx-auto px-6 pt-12">
         <h1 className="text-3xl font-semibold text-center text-gray-800 mb-8 uppercase gradient-text">
-          {category.title} 
+          {category.title}
         </h1>
         <p className="text-sm mb-12 max-w-6xl mx-auto text-center line-clamp-2" >Malani Marbles Pvt. Ltd., one of India's best and largest marble collections of Italian marble, imported marble, Indian marble, onyx marble, travertine marble and other natural stone slabs for your residential, commercial and architectural projects. One of the foremost marble supplier in India, builders, interior designers, leading architects and marble dealers rely on Malani Marbles Pvt. Ltd. marble collections to bring all the elements of high quality marble, luxury finishes and precision craftsmanship. All the marble slabs in our collection are hand-picked from the finest quarries in the world and processed with the highest quality Italian processing equipment to achieve unparalleled durability, high gloss polish and timeless beauty. Every marble slab in our collection is meant to provide the very best of elegance, strength and grace in the case of flooring marble, wall-cladding marble, kitchen countertop marble and other decorative marble applications. And of course, marble is always going to elevate the sophistication of every space!
         </p>

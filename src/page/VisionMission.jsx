@@ -107,7 +107,7 @@ export default function VisionMission() {
       <section className="bg-white py-16 px-6">
         <div className="max-w-7xl mx-auto text-center">
           <img
-            src="https://malanimarbles.com/img/26%20expe.webp"
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Clientel/28-years-banner.webp"
             alt="Malani marble work with "
           />
         </div>

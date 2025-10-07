@@ -328,7 +328,7 @@ export default function VirtualShowroom() {
         {activeTab === "Parkingfloor" && (
           <div>
             <h1 className="text-center text-3xl sm:text-4xl font-bold text-[#da373d] mb-6">
-              Living Room Floor
+              Parking Lot
             </h1>
             <div className="rounded-xl overflow-hidden shadow-lg bg-white p-6">
               <div className="flex justify-center mb-6">
