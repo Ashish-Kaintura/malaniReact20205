@@ -6,6 +6,7 @@ export default function VirtualShowroom() {
   const [selectedLiving, setSelectedLiving] = useState(null);
   const [selectedParking, setSelectedParking] = useState(null);
   const [selectedLivingroomwall, setSelectedLivingroomwall] = useState(null);
+  const [selectedBathroom, setSelectedBathroom] = useState(null);
 
   const tabs = [
     { id: "kitchen", label: "Kitchen Top Counter" },
@@ -209,12 +210,56 @@ export default function VirtualShowroom() {
     },
 
   ];
+  const Bathroomtiles = [
+    {
+      id: "tile1",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/blue%20labradorite.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20LABRADORITE.webp",
+    },
+    {
+      id: "tile2",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20ROMA.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20ROMA.webp",
+    },
+    {
+      id: "tile3",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BULGARY%20-%20GRAY.webp",
+    },
+    {
+      id: "tile4",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/GOLDEN%20STATUARIO.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/DARK%20-%20EMPERADOR.webp",
+    },
+    {
+      id: "tile5",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/gREY%20bRECIA.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Gray%20Brecia.webp",
+    },
+    {
+      id: "tile6",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gREY%20SAINT%20LAURENT.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Gray%20Saint%20Laurent.webp",
+    },
+    {
+      id: "tile7",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gUS%20MOROCCO.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Gus%20Morocco.webp",
+    },
+    {
+      id: "tile8",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/WOODEN%20ROMA.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Wooden%20Roma.webp",
+    },
+
+  ];
   // Default images for each section
   const defaultKitchenScene =
     "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Kitichen%20top%20counter/new/Adhunik%20Brown.jpg";
   const defaultLivingScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Living-Room/Alaska%20Gray.webp";
   const defaultPARKINGScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Blue%20Roma.webp";
   const defaultLivingroowallScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20LABRADORITE.webp";
+  const defaultBathroomScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20LABRADORITE.webp";
 
   return (
     <div className="flex justify-center py-10 bg-gradient-to-br from-gray-50 via-white to-gray-100 min-h-screen">
@@ -393,6 +438,49 @@ export default function VirtualShowroom() {
                   <div
                     key={tile.id}
                     onClick={() => setSelectedLivingroomwall(tile.id)}
+                    className={`cursor-pointer w-20 aspect-square rounded-xl overflow-hidden border-2 shadow-md transition-all duration-300 ${selectedParking === tile.id
+                        ? "border-[#da373d] scale-105"
+                        : "border-transparent hover:border-[#da373d]"
+                      }`}
+                  >
+                    <img
+                      src={tile.thumb}
+                      alt="Tile"
+                      className="w-full h-full"
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Livingroom wall Lot */}
+        {activeTab === "Bathroomfloor" && (
+          <div>
+            <h1 className="text-center text-3xl sm:text-4xl font-bold text-[#da373d] mb-6">
+              Bathroom Floor
+            </h1>
+            <div className="rounded-xl overflow-hidden shadow-lg bg-white p-6">
+              <div className="flex justify-center mb-6">
+                <div className="rounded-xl overflow-hidden border-4 border-gray-200 shadow-lg max-w-4xl">
+                  <img
+                    src={
+                      selectedBathroom
+                        ? Bathroomtiles.find((t) => t.id === selectedBathroom)
+                          ?.scene
+                        : defaultBathroomScene
+                    }
+                    alt="Living Preview"
+                    className="w-full object-cover"
+                  />
+                </div>
+              </div>
+              <div className="flex flex-wrap justify-center gap-4 bg-gray-100 p-4 rounded-lg shadow-inner">
+                {Bathroomtiles.map((tile) => (
+                  <div
+                    key={tile.id}
+                    onClick={() => setSelectedBathroom (tile.id)}
                     className={`cursor-pointer w-20 aspect-square rounded-xl overflow-hidden border-2 shadow-md transition-all duration-300 ${selectedParking === tile.id
                         ? "border-[#da373d] scale-105"
                         : "border-transparent hover:border-[#da373d]"

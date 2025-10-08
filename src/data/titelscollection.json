@@ -70,8 +70,10 @@
         ]
     },
     {
+        "title": "Premium Black Tiles Collection",
         "name": "Black Tiles",
         "slug": "black-tiles",
+        "text": "At Malani Marbles Pvt. Ltd., we provide an exclusive selection of black marble tiles and black granite tiles including variations like Jet Black, Absolute Black, Marquina Black, and more for luxury flooring, wall cladding, countertops, and architectural facades. Our tiles are distinguished for their deep color, consistent color, stunning veining, and superior finishes, making them the preferred option among builders and architects for high-end residential and commercial applications. Marble retailers trust black tiles so that owners can expect long-lasting performance and an aesthetically stunning tile.",
         "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/Black-tile-banner.webp",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/black%20tiels/11_subway%20smoke%203x1_3.webp",
         "products": [
@@ -108,8 +110,10 @@
         ]
     },
     {
+        "title": "Premium Gray Tiles Collection",
         "name": "Gray Tiles",
         "slug": "gray-tiles",
+        "text": "Discover our selection of gray tiles, such as porcelain gray tiles, vitrified gray tiles, and ceramic gray tiles, for all your flooring and wall cladding needs—as well as for kitchens, bathrooms, and commercial areas. Malani Marbles Pvt. Ltd. is known for offering quality and long-lasting durable tiles that are functional and elegantly styled. Our gray tiles are preferred by builders, architects, and marble retailers for quality residential or commercial interior projects, as they provide an appealing finish that stands the test of time.",
         "banner": "https://malanimarbles.com/img/beige/beige%20banner.webp",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/gray%20tiel/01.webp",
         "products": [
