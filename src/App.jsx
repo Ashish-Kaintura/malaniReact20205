@@ -5,6 +5,7 @@ import Loader from "./components/Loader";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import PrivacyPolicy from "./page/PrivacyPolicy";
 
 
 // Lazy load pages
@@ -48,6 +49,7 @@ export default function App() {
           <Route path="/:slug" element={<MarbleCategory />} />
           <Route path="/slimtech-tiles-collections" element={<TilesCollection />} />
           <Route path="/slimtech-tiles-collections/:slug" element={<TilesCategory />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/404" element={<Notfound />} />
 
           {/* You can lazy load more pages here */}

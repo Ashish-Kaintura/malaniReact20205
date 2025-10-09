@@ -21,7 +21,7 @@ export default function Hero() {
         playsInline
         poster="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp29yKjyM5ZpKI5HjImkeclnXWlN5rOwRSBA&s" // fallback poster image
       >
-        <source src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/video/home%20video.mp4" type="video/mp4" />
+        <source src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/video/home%20page%20video.mp4" type="video/mp4" />
         {/* Example public URL you can replace:
             <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
         */}
@@ -37,7 +37,7 @@ export default function Hero() {
         data-aos-duration="1000"
       >
         <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
-          <span className="gradient-text">Malani Marble</span>
+          <span className="gradient-text">Malani Marble Pvt.Ltd.</span>
         </h2>
         <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
           Crafting Timeless Elegance with Premium Natural Stone for Over Three

@@ -11,7 +11,7 @@ export default function TilesCollection() {
     // tilebanner
     <section className="pb-20 bg-gradient-to-b from-white to-gray-100 min-h-screen">
       <div className="overflow-hidden h-[760px]">
-        <img className="w-full object-cover" src="https://malanimarbles.com/img/colord/Golden-Galaxy-Marble.webp" alt="BANNER" />
+        <img className="w-full object-cover" src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/main-tile-banner.webp" alt="BANNER" />
       </div>
       <div className="max-w-7xl mx-auto px-6 mt-20">
         <h1 className="text-5xl font-extrabold text-center text-gray-800 mb-16">

@@ -175,12 +175,12 @@ export default function InfrastructureTabs() {
       }}
     >
       <Tab.Group>
-        <Tab.List className="flex justify-center space-x-6 mb-10">
+        <Tab.List className="flex justify-center sm:space-x-6 space-x-2 mb-10">
           {tabs.map((tab) => (
             <Tab
               key={tab.name}
               className={({ selected }) =>
-                `px-6 py-2 text-lg font-medium rounded-full transition-all ${selected
+                `px-6 py-2 sm:text-lg font-medium rounded-full transition-all ${selected
                   ? "bg-red-600 text-white shadow-lg"
                   : "bg-white/80 text-gray-700 hover:bg-gray-100"
                 }`

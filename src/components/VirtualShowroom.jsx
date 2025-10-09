@@ -213,43 +213,43 @@ export default function VirtualShowroom() {
   const Bathroomtiles = [
     {
       id: "tile1",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/blue%20labradorite.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20LABRADORITE.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Black%20Agate.webp",
     },
     {
       id: "tile2",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20ROMA.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20ROMA.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Black%20Petrified.webp",
     },
     {
       id: "tile3",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BULGARY%20-%20GRAY.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/BLUE%20ONYX.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Blue%20Onyx.webp",
     },
     {
       id: "tile4",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/GOLDEN%20STATUARIO.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/DARK%20-%20EMPERADOR.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/EBONY%20TRAVETINO.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Ebony%20Travertino.webp",
     },
     {
       id: "tile5",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/gREY%20bRECIA.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Gray%20Brecia.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GOLDEN%20PORTORO.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Golden%20Portoro.webp",
     },
     {
       id: "tile6",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gREY%20SAINT%20LAURENT.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Gray%20Saint%20Laurent.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/GREY%20ONYX.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Grey%20Onyx.webp",
     },
     {
       id: "tile7",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gUS%20MOROCCO.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Gus%20Morocco.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/LIGHT%20EMPRADOR.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Light%20Emprador.webp",
     },
     {
       id: "tile8",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/WOODEN%20ROMA.webp",
-      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/Wooden%20Roma.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20TO.webp",
+      scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Statuario%20White.webp",
     },
 
   ];
@@ -259,7 +259,7 @@ export default function VirtualShowroom() {
   const defaultLivingScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Living-Room/Alaska%20Gray.webp";
   const defaultPARKINGScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Blue%20Roma.webp";
   const defaultLivingroowallScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20LABRADORITE.webp";
-  const defaultBathroomScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20LABRADORITE.webp";
+  const defaultBathroomScene = "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/bathroom/Black%20Agate.webp";
 
   return (
     <div className="flex justify-center py-10 bg-gradient-to-br from-gray-50 via-white to-gray-100 min-h-screen">
@@ -459,7 +459,7 @@ export default function VirtualShowroom() {
         {activeTab === "Bathroomfloor" && (
           <div>
             <h1 className="text-center text-3xl sm:text-4xl font-bold text-[#da373d] mb-6">
-              Bathroom Floor
+              Bathroom
             </h1>
             <div className="rounded-xl overflow-hidden shadow-lg bg-white p-6">
               <div className="flex justify-center mb-6">

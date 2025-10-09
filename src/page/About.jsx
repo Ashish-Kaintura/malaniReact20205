@@ -41,7 +41,7 @@ export default function About() {
           playsInline
         >
           <source
-            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/video/Malani%20Marble%20(1).mp4"
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/video/home%20video.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
@@ -93,12 +93,12 @@ export default function About() {
           className="relative hidden sm:flex"
         >
           <img
-            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/company%20pic2.webp"
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/Image%201.webp"
             alt="malani marble"
             className="w-96 rounded-xl shadow-lg"
           />
           <img
-            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/company%20pic1.webp"
+            src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/About/Image%202.webp"
             alt="malani marble"
             className="absolute w-80 top-1/2 left-1/3 rounded-xl shadow-2xl"
           />

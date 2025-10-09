@@ -54,7 +54,7 @@ export default function HomeAboutsection() {
               alt="Marble craftsmanship"
               className="rounded-lg shadow-2xl w-full"
             />
-            <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-gradient-to-br from-gray-800 to-black rounded-lg flex items-center justify-center shadow-xl">
+            <div className="absolute sm:-bottom-6 -bottom-20 sm:-right-6 right-6 sm:w-32 w-24 h-32 bg-gradient-to-br from-gray-800 to-black rounded-lg flex items-center justify-center shadow-xl">
               <Award className="text-white w-12 h-12" />
             </div>
           </div>

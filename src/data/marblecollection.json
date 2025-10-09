@@ -620,7 +620,24 @@
         "slug": "gray",
         "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/gray-banner.webp",
         "text": "Explore our exquisite collection of gray marble slabs, including renowned options such as Italian Grey Marble, Dona Grey, and Exotic Grey, which are perfect for use on luxury flooring, wall cladding, countertops, and architectural facades. Derived from the finest quarries, our gray marble slabs offer great durability, light veining, and an exceptional finish, making them suitable for high-end residential and commercial projects. Our gray marble is the trusted choice of builders, architects, and marble retailers of all kinds, offering beautiful aesthetics along with long-lasting durability.",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/EURO%20GREY.webp"
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/EURO%20GREY.webp",
+        "products": [
+            {
+                "name": "Meami Gray",
+                "slug": "meami-gray",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/MIamI%20GREY.webp"
+            },
+            {
+                "name": "Euro-Grey",
+                "slug": "euro-grey",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/EURO%20GREY.webp"
+            },
+            {
+                "name": "Ice Berg",
+                "slug": "ice-berg",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/gray/ICE%20BERG.webp"
+            }
+        ]
     },
     {
         "title": "Exclusive Imported Granite  Collection",
