@@ -73,8 +73,9 @@ export default function ContactUs() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
-                  <p className="text-gray-600">
-                    123 Marble Street, Stone District, Mumbai, MH 400001
+                  <p className="text-gray-600 sm:max-w-sm mx-auto">
+                    Malani Marbles Pvt. Ltd.
+                    Khasra No. 809-810 Chattarpur Mandir Road, Near Tivoli Garden New Delhi- 110074, India 
                   </p>
                 </div>
               </div>
@@ -86,8 +87,8 @@ export default function ContactUs() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Phone</h4>
-                  <p className="text-gray-600">+91 98765 43210</p>
-                  <p className="text-gray-600">+91 98765 43211</p>
+                  <p className="text-gray-600">+91 9810387297</p>
+                  <p className="text-gray-600">+91 9811012011</p>
                 </div>
               </div>
 
@@ -98,8 +99,8 @@ export default function ContactUs() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Email</h4>
-                  <p className="text-gray-600">info@malanimarble.com</p>
-                  <p className="text-gray-600">sales@malanimarble.com</p>
+                  <p className="text-gray-600">info@malanimarbles.com</p>
+                  <p className="text-gray-600">sales@malanimarbles.com</p>
                 </div>
               </div>
             </div>
@@ -111,11 +112,11 @@ export default function ContactUs() {
               </h4>
               <p className="flex justify-between text-gray-600">
                 <span>Mon - Sat:</span>
-                <span className="font-medium">9:00 AM - 7:00 PM</span>
+                <span className="font-medium">9:00 AM - 12:00 AM</span>
               </p>
               <p className="flex justify-between text-gray-600">
                 <span>Sunday:</span>
-                <span className="font-medium">10:00 AM - 5:00 PM</span>
+                <span className="font-medium">Week off</span>
               </p>
             </div>
           </div>

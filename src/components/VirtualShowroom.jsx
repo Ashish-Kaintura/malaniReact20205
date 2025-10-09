@@ -125,37 +125,37 @@ export default function VirtualShowroom() {
   const ParkingTiles = [
     {
       id: "tile1",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/ALASKA%20GREY.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20ROMA.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Blue%20Roma.webp",
     },
     {
       id: "tile2",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/ARBESCATO.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GREY%20ESPREDO.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Gray%20Espredo.webp",
     },
     {
       id: "tile3",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GREY%20FLURRY.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Gray%20Flurry.webp",
     },
     {
       id: "tile4",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/GOLDEN%20STATUARIO.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/gREY%20SAINT%20LAURENT.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Gray%20Saint%20Laurent.webp",
     },
     {
       id: "tile5",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/GREY%20SARRAN%20COLLIN.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/mARMARA%20WHITE.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Infinity%20white.webp",
     },
     {
       id: "tile6",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/GREY%20ONYX.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/nero%20st.%20laurent.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Nero%20St.%20laurent.webp",
     },
     {
       id: "tile7",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20TO.webp",
+      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/ROSSO%20PORTORO.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Parkinglot/Rosso%20Portoro.webp",
     },
     {

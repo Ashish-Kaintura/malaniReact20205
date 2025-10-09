@@ -1,5 +1,6 @@
 import { ArrowBigDown } from "lucide-react";
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Hero() {
   const scrollToSection = (id) => {
@@ -44,13 +45,16 @@ export default function Hero() {
           Decades
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <button
-            onClick={() => scrollToSection("products")}
-            className="btn-primary px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:shadow-xl transition-all"
-            aria-label="Explore Collection"
-          >
-            <i className="fas fa-gem mr-2" /> Explore Collection
-          </button>
+          <Link to="/marble-collection">
+            <button
+              className="btn-primary px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:shadow-xl transition-all"
+              aria-label="Explore Collection"
+            >
+
+              <i className="fas fa-gem mr-2" /> Explore Collection
+            </button>
+          </Link>
+          <Link to="/contact">
           <button
             onClick={() => scrollToSection("contact")}
             className="px-8 py-4 border-2 border-white text-white rounded-full font-semibold text-lg hover:bg-white hover:text-black transition-all"
@@ -58,6 +62,7 @@ export default function Hero() {
           >
             <i className="fas fa-phone mr-2" /> Get Quote
           </button>
+          </Link>
         </div>
       </div>
 

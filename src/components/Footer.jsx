@@ -6,6 +6,8 @@ import {
   FaInstagram,
   FaTwitter,
   FaLinkedinIn,
+  FaYoutube,
+  FaPinterest,
 } from "react-icons/fa";
 
 export default function Footer() {
@@ -33,7 +35,7 @@ export default function Footer() {
               </p>
               <div className="flex space-x-5 mt-4">
                 <NavLink
-                  to=""
+                  to="https://www.facebook.com/malanimarbles"
                   aria-label="Facebook"
                   className="text-gray-400 hover:gradient-text transition-colors duration-300"
                 >
@@ -41,28 +43,38 @@ export default function Footer() {
                   <FaFacebookF className="text-xl" />
                 </NavLink>
                 <NavLink
-                  to=""
+                  to="https://www.instagram.com/malanimarbles/"
                   aria-label="Instagram"
                   className="text-gray-400 hover:gradient-text transition-colors duration-300"
                 >
                   {/* Replaced <i> with React Icon */}
                   <FaInstagram className="text-xl" />
                 </NavLink>
+
                 <NavLink
-                  to=""
-                  aria-label="Twitter"
-                  className="text-gray-400 hover:gradient-text transition-colors duration-300"
-                >
-                  {/* Replaced <i> with React Icon */}
-                  <FaTwitter className="text-xl" />
-                </NavLink>
-                <NavLink
-                  to=""
+                  to="https://www.linkedin.com/company/malani-marbles/"
                   aria-label="LinkedIn"
                   className="text-gray-400 hover:gradient-text transition-colors duration-300"
                 >
                   {/* Replaced <i> with React Icon */}
                   <FaLinkedinIn className="text-xl" />
+                </NavLink>
+
+                <NavLink
+                  to="https://www.youtube.com/@malanimarbles6638"
+                  aria-label="LinkedIn"
+                  className="text-gray-400 hover:gradient-text transition-colors duration-300"
+                >
+                  {/* Replaced <i> with React Icon */}
+                  <FaYoutube className="text-xl" />
+                </NavLink>
+                <NavLink
+                  to="https://in.pinterest.com/malanimarbles1/"
+                  aria-label="LinkedIn"
+                  className="text-gray-400 hover:gradient-text transition-colors duration-300"
+                >
+                  {/* Replaced <i> with React Icon */}
+                  <FaPinterest className="text-xl" />
                 </NavLink>
               </div>
             </div>

@@ -67,7 +67,7 @@ export default function About() {
       </section>
 
       {/* ✨ About Content Section */}
-      <section className="sm:flex justify-around items-center max-w-7xl sm:px-12 px-5 py-20 gap-8 bg-white sm:h-screen ">
+      <section className="sm:flex justify-around items-center max-w-7xl mx-auto  sm:px-12 px-5 py-20 gap-8 bg-white sm:h-screen ">
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}

@@ -84,8 +84,8 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Email</h4>
-                  <p className="text-gray-600">info@malanimarble.com</p>
-                  <p className="text-gray-600">sales@malanimarble.com</p>
+                  <p className="text-gray-600">info@malanimarbles.com</p>
+                  <p className="text-gray-600">sales@malanimarbles.com</p>
                 </div>
               </div>
             </div>
