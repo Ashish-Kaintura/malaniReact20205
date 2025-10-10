@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import { FaShieldAlt, FaEnvelope, FaPhone, FaMapMarkerAlt, FaGlobe } from 'react-icons/fa';
 import { IoIosDocument } from 'react-icons/io';
 
@@ -8,6 +9,11 @@ export default function PrivacyPolicy() {
 
     return (
         <div className="bg-gray-500 min-h-screen py-16">
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title> Malani Marbles | privacy policy</title>
+                <link rel="canonical" href="https://www.malanimarbles.com/privacy-policy" />
+            </Helmet>
             <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
                 {/* Header Section */}

@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import Hero from "../components/Hero";
 import HappyCustomers from "../components/About/HappyCustomers";
 import { ArrowBigDown } from "lucide-react";
+import { Helmet } from "react-helmet";
 
 export default function Clientele() {
   useEffect(() => {
@@ -10,6 +11,11 @@ export default function Clientele() {
   })
   return (
     <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Our Clientele | Trusted by Builders, Architects & Designers</title>
+        <link rel="canonical" href="https://www.malanimarbles.com/clientele" />
+      </Helmet>
       <section
         className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
         style={{

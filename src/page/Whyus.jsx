@@ -4,6 +4,7 @@ import WhyChooseUs from "../components/About/WhyChooseUs";
 import { BiDownArrow } from "react-icons/bi";
 import { ArrowBigDown } from "lucide-react";
 import {useEffect} from "react";
+import { Helmet } from "react-helmet";
 export default function Whyus() {
   useEffect(()=>{
     window.scroll(0,0)
@@ -11,6 +12,11 @@ export default function Whyus() {
   return (
     <>
       <section className="w-full">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Why Choose Malani Marbles</title>
+          <link rel="canonical" href="https://www.malanimarbles.com/why-us" />
+        </Helmet>
         <section
           className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
           style={{

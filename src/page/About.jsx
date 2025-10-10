@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { X } from "lucide-react";
+import { Helmet } from "react-helmet";
 
 const managementData = [
   {
@@ -30,6 +31,11 @@ export default function About() {
   })
   return (
     <div className="w-full">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title> Malani Marbles | Trusted Marble Supplier  manufacturers in India</title>
+        <link rel="canonical" href="https://www.malanimarbles.com/about-us" />
+      </Helmet>
       {/* 🎥 Hero Section with Video Banner */}
       <section className="relative h-screen w-full flex items-center justify-center overflow-hidden pt-20">
         {/* Background video */}

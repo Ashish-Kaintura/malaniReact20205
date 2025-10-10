@@ -8,19 +8,19 @@ export default function HappyCustomers() {
   const customers = [
     {
       name: "Rahul Mehta",
-      img: "https://malanimarbles.com/img/logo/012.webp",
+      img: "https://wp.logos-download.com/wp-content/uploads/2019/11/Radisson_Blue_Hotel_Logo_black_text.png?dl",
     },
     {
       name: "Ananya Sharma",
-      img: "https://malanimarbles.com/img/logo/022.webp",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6s3aNyZkEHtNsj1U9rH4L9MDBISQbeudQQ&s",
     },
     {
       name: "Amit Patel",
-      img: "https://malanimarbles.com/img/logo/024.webp",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjhqeC-YRek930S8TXNoDrYZdzlGconVBlw&s",
     },
     {
       name: "Priya Singh",
-      img: "https://malanimarbles.com/img/logo/03.webp",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytGGXmbtYt66vvujgkS_SpKKJSeNP3dErjQ&s",
     },
   ];
 
@@ -44,15 +44,15 @@ export default function HappyCustomers() {
             768: { slidesPerView: 2 },
             1024: { slidesPerView: 3 },
           }}
-          className="pb-12"
+          className=" my-6 py-6 h-1/2"
         >
           {customers.map((c, i) => (
             <SwiperSlide key={i}>
-              <div className="bg-white shadow-xl rounded-2xl p-6 flex flex-col items-center text-center hover:scale-105 transition-transform duration-300">
+              <div className="bg-white shadow-xl rounded-2xl p-6 flex flex-col items-center text-center hover:scale-105 transition-transform duration-300 my-6">
                 <img
                   src={c.img}
                   alt={c.name}
-                  className="w-28 h-28 rounded-full object-cover shadow-md mb-4"
+                  className="w-28 h-28 rounded-full object-contain shadow-md mb-4"
                 />
                 {/* <h3 className="text-lg font-semibold text-gray-700">
                   {c.name}

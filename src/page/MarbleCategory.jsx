@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
 import { motion, AnimatePresence } from "framer-motion";
+import { Helmet } from "react-helmet";
 
 export default function MarbleCategory() {
   const { slug } = useParams();
@@ -21,8 +22,14 @@ export default function MarbleCategory() {
 
   return (
     <section className="pb-20 bg-gradient-to-b from-gray-50 to-white min-h-screen">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>My Title</title>
+        {/* Corrected Line: Use template literal inside curly braces */}
+        <link rel="canonical" href={`https://www.malanimarbles.com/marble-collection/${category.slug}`} />
+      </Helmet>
       <div className="relative">
-        <img  className="w-full"  src={category.banner} alt={category.name + "Banner"} />
+        <img className="w-full" src={category.banner} alt={category.name + "Banner"} />
 
         <div className="absolute inset-0 bg-gradient-to-b from-black/20 to-black/10 z-10">
 

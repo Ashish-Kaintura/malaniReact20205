@@ -2,12 +2,18 @@ import React from "react";
 import Hero from "../components/Hero";
 import { ArrowBigDown } from "lucide-react";
 import { useEffect } from "react";
+import { Helmet } from "react-helmet";
 export default function VisionMission() {
   useEffect(() => {
     window.scroll(0, 0)
   })
   return (
     <div className="w-full block">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Our Mission - Malani Marbles</title>
+        <link rel="canonical" href="https://www.malanimarbles.com/our-mission" />
+      </Helmet>
       <section
         className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
         style={{

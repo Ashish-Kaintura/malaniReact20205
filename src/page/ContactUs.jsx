@@ -2,6 +2,7 @@ import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { Mail, MapPin, Phone } from "lucide-react";
 import {useEffect} from "react";
+import { Helmet } from "react-helmet";
 export default function ContactUs() {
   const formRef = useRef();
   const [loading, setLoading] = useState(false);
@@ -47,6 +48,11 @@ export default function ContactUs() {
         backgroundAttachment: "fixed",
       }}
     >
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Contact Malani Marbles | Get a Quote or Visit Us</title>
+        <link rel="canonical" href="https://www.malanimarbles.com/contact-us" />
+      </Helmet>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-16" data-aos="fade-up">

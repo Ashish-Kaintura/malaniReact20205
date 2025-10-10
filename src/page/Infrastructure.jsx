@@ -3,12 +3,18 @@ import Hero from "../components/Hero";
 import InfrastructureTabs from "../components/About/InfrastructureTabs";
 import { ArrowBigDown } from "lucide-react";
 import { useEffect } from "react";
+import { Helmet } from "react-helmet";
 export default function Infrastructure() {
   useEffect(() => {
     window.scroll(0, 0)
   })
   return (
     <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Our Infrastructure | World-Class Marble Processing Facilities</title>
+        <link rel="canonical" href="https://www.malanimarbles.com/infrastructure" />
+      </Helmet>
       <section
         className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"
         style={{

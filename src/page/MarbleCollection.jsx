@@ -3,12 +3,18 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import marbleData from "../data/marblecollection.json";
 import { useEffect } from "react";
+import { Helmet } from "react-helmet";
 export default function MarbleCollection() {
   useEffect(() => {
     window.scroll(0, 0)
   })
   return (
     <section className="pb-20 bg-gradient-to-b from-white to-gray-100 min-h-screen">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title> Malani Marbles | Top Rated Marble Collection</title>
+        <link rel="canonical" href="https://www.malanimarbles.com/marble-collection" />
+      </Helmet>
       <div className="relatove overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 to-black/10 z-10">
 

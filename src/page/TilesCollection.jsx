@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import Data from "../data/titelscollection.json";
 import {useEffect} from "react";
+import { Helmet } from "react-helmet";
 export default function TilesCollection() {
   useEffect(()=>{
   window.scroll(0,0)
@@ -10,6 +11,11 @@ export default function TilesCollection() {
   return (
     // tilebanner
     <section className="pb-20 bg-gradient-to-b from-white to-gray-100 min-h-screen">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Premium Marble and Tiles Collection | Malani Marbles</title>
+        <link rel="canonical" href={`https://www.malanimarbles.com/tiles-collections/${Data.slug}`} />
+      </Helmet>
       <div className="overflow-hidden h-[760px]">
         <img className="w-full object-cover" src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/main-tile-banner.webp" alt="BANNER" />
       </div>

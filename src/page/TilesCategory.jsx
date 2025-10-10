@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
 import { motion, AnimatePresence } from "framer-motion";
+import { Helmet } from "react-helmet";
 export default function TilesCategory() {
   const { slug } = useParams();
   const category = TilesData.find((c) => c.slug === slug);
@@ -20,6 +21,11 @@ export default function TilesCategory() {
 
   return (
     <section className="pb-20 bg-gradient-to-b from-gray-50 to-white min-h-screen">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>My Title</title>
+        <link rel="canonical" href="http://mysite.com/example" />
+      </Helmet>
       <div className="relative">
         <img className="w-full" src={category.banner} alt={category.name + "Banner"} />
 
