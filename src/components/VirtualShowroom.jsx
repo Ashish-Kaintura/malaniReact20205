@@ -185,7 +185,7 @@ export default function VirtualShowroom() {
     // },
     {
       id: "tile4",
-      thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/GOLDEN%20STATUARIO.webp",
+      thumb: "https://i.postimg.cc/43yfdjTs/DARK-EMPERADOR-EXTRA.jpg",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/DARK%20-%20EMPERADOR.webp",
     },
     {
