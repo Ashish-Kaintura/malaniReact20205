@@ -22,7 +22,7 @@ export default function MarbleCategory() {
   return (
     <section className="pb-20 bg-gradient-to-b from-gray-50 to-white min-h-screen">
       <div className="relative">
-        <img src={category.banner} alt={category.name + "Banner"} />
+        <img  className="w-full"  src={category.banner} alt={category.name + "Banner"} />
 
         <div className="absolute inset-0 bg-gradient-to-b from-black/20 to-black/10 z-10">
 
