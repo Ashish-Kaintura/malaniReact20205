@@ -12,7 +12,7 @@ export default function VisionMission() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Our Mission - Malani Marbles</title>
-        <link rel="canonical" href="https://www.malanimarbles.com/our-mission" />
+        <link rel="canonical" href="https://www.malanimarbles.com/our-vision-and-mission" />
       </Helmet>
       <section
         className="hero-bg h-screen flex items-center justify-center relative overflow-hidden"

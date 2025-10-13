@@ -51,7 +51,7 @@ export default function ContactUs() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Contact Malani Marbles | Get a Quote or Visit Us</title>
-        <link rel="canonical" href="https://www.malanimarbles.com/contact-us" />
+        <link rel="canonical" href="https://www.malanimarbles.com/contact" />
       </Helmet>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}

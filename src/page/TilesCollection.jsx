@@ -31,7 +31,7 @@ export default function TilesCollection() {
               whileTap={{ scale: 0.98 }}
               className="relative group rounded-3xl overflow-hidden shadow-2xl bg-white cursor-pointer"
             >
-              <Link to={`/slimtech-tiles-collections/${cat.slug}`}>
+              <Link to={`/tiles-collections/${cat.slug}`}>
                 <img
                   src={cat.img}
                   alt={cat.name}

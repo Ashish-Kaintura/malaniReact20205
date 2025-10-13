@@ -21,6 +21,7 @@ export default function Index() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Malani Marbles | Premium Marble & Granite Supplier in India</title>
+        
         <link rel="canonical" href="https://www.malanimarbles.com" />
       </Helmet>
       <Hero />
