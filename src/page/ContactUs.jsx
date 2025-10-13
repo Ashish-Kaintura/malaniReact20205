@@ -117,13 +117,13 @@ export default function ContactUs() {
                 Business Hours
               </h4>
               <p className="flex justify-between text-gray-600">
-                <span>Mon - Sat:</span>
+                <span>Mon - Sun:</span>
                 <span className="font-medium">9:00 AM - 12:00 AM</span>
               </p>
-              <p className="flex justify-between text-gray-600">
+              {/* <p className="flex justify-between text-gray-600">
                 <span>Sunday:</span>
                 <span className="font-medium">Week off</span>
-              </p>
+              </p> */}
             </div>
           </div>
 

@@ -46,7 +46,7 @@ export default function App() {
           <Route path="/clientele" element={<Clientele />} />
           <Route path="/contact" element={<ContactUs />} />
           <Route path="/marble-collection" element={<MarbleCollection />} />
-          <Route path="/:slug" element={<MarbleCategory />} />
+          <Route path="/marble-collection/:slug" element={<MarbleCategory />} />
           <Route path="/slimtech-tiles-collections" element={<TilesCollection />} />
           <Route path="/slimtech-tiles-collections/:slug" element={<TilesCategory />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
