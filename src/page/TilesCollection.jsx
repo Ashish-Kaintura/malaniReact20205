@@ -14,7 +14,7 @@ export default function TilesCollection() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Premium Marble and Tiles Collection | Malani Marbles</title>
-        <link rel="canonical" href={`https://www.malanimarbles.com/tiles-collections/${Data.slug}`} />
+        <link rel="canonical" href={`https://www.malanimarbles.com/tiles-collections/`} />
       </Helmet>
       <div className="overflow-hidden h-[760px]">
         <img className="w-full object-cover" src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/main-tile-banner.webp" alt="BANNER" />

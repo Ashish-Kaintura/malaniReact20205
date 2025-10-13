@@ -34,9 +34,9 @@ export default function About() {
       <Helmet>
         <meta charSet="utf-8" />
         <title> Malani Marbles | Trusted Marble Supplier  manufacturers in India</title>
-        <link rel="canonical" href="https://www.malanimarbles.com/about-us" />
+        <link rel="canonical" href="https://www.malanimarbles.com/about" />
       </Helmet>
-      {/* 🎥 Hero Section with Video Banner */}
+      {/*Hero Section with Video Banner */}
       <section className="relative h-screen w-full flex items-center justify-center overflow-hidden pt-20">
         {/* Background video */}
         <video

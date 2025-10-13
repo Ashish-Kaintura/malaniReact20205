@@ -24,7 +24,7 @@ export default function TilesCategory() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>My Title</title>
-        <link rel="canonical" href="http://mysite.com/example" />
+          <link rel="canonical" href={`https://www.malanimarbles.com/tiles-collections/${category.slug}`} />
       </Helmet>
       <div className="relative">
         <img className="w-full" src={category.banner} alt={category.name + "Banner"} />
