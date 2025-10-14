@@ -13,6 +13,7 @@ export default function Infrastructure() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Our Infrastructure | World-Class Marble Processing Facilities</title>
+        <meta name="description" content="Explore Malani Marbles’ world‑class infrastructure — advanced stone processing units, precision machinery & quality control ensuring superior marble production."></meta>
         <link rel="canonical" href="https://www.malanimarbles.com/infrastructure" />
       </Helmet>
       <section

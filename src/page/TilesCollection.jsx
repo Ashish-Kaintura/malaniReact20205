@@ -14,7 +14,53 @@ export default function TilesCollection() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Premium Marble and Tiles Collection | Malani Marbles</title>
+        <meta name="description" content="Explore our exclusive tile collections at Malani Marbles — marble-look, stone-textured, and designer tiles perfect for modern walls and floors."></meta>
         <link rel="canonical" href={`https://www.malanimarbles.com/tiles-collections/`} />
+        <script type="application/ld+json">
+          {`{
+            "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "Malani Marbles Pvt. Ltd.",
+          "image": "https://www.malanimarbles.com/img/logo-option-1.webp",
+          "@id": "https://www.malanimarbles.com/",
+          "url": "https://www.malanimarbles.com/tiles-collections",
+          "telephone": "9810387297",
+          "address": {
+            "@type": "PostalAddress",
+          "streetAddress": "Khasra No. 809-810 Chattarpur Mandir Road, Near Tivoli Garden",
+          "addressLocality": "New Delhi",
+          "postalCode": "110074",
+          "addressCountry": "IN"
+  },
+          "geo": {
+            "@type": "GeoCoordinates",
+          "latitude": 28.4999511,
+          "longitude": 77.18502749999999
+  },
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+          ],
+          "opens": "09:00",
+          "closes": "23:59"
+  },
+          "sameAs": [
+          "https://www.facebook.com/malanimarbles",
+          "https://www.instagram.com/malanimarbles/",
+          "https://www.youtube.com/@malanimarbles6638",
+          "https://www.linkedin.com/company/malani-marbles",
+          "https://in.pinterest.com/malanimarbles1/"
+          ] 
+}`}
+        </script>
+
       </Helmet>
       <div className="overflow-hidden h-[760px]">
         <img className="w-full object-cover" src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/main-tile-banner.webp" alt="BANNER" />

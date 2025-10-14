@@ -103,9 +103,9 @@ const FAQ = () => {
           "url('https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg')",
       }}>
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-5xl font-extrabold text-center text-gray-800 mb-4">
+        <h2 className="text-5xl font-extrabold text-center text-gray-800 mb-4">
           Frequently Asked Questions
-        </h1>
+        </h2>
         <p className="text-center text-lg text-gray-500 mb-16 max-w-2xl mx-auto">
           We've compiled a list of common questions to help you find the information you need quickly.
         </p>

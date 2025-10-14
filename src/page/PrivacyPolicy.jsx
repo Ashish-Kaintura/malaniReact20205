@@ -12,6 +12,7 @@ export default function PrivacyPolicy() {
             <Helmet>
                 <meta charSet="utf-8" />
                 <title> Malani Marbles | privacy policy</title>
+                <meta name="description" content="Learn how Malani Marbles collects, uses, and protects your personal information in accordance with our privacy practices and data protection policy."></meta>
                 <link rel="canonical" href="https://www.malanimarbles.com/privacy-policy" />
             </Helmet>
             <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -159,19 +160,20 @@ export default function PrivacyPolicy() {
                             <div className="flex items-center text-lg">
                                 <FaEnvelope className="text-emerald-600 dark:text-emerald-400 mr-3 w-5 h-5 flex-shrink-0" />
                                 <span className="text-gray-900 dark:text-white">Email:</span>
-                                <a href="mailto:Sales@malanimarbles.com" className="ml-2 text-emerald-600 dark:text-emerald-400 hover:underline">Sales@malanimarbles.com</a>
+                                <a href="mailto:Sales@malanimarbles.com" className="ml-2 text-emerald-600 dark:text-emerald-400 hover:underline">sales@malanimarbles.com</a>
                             </div>
 
                             <div className="flex items-center text-lg">
                                 <FaPhone className="text-emerald-600 dark:text-emerald-400 mr-3 w-5 h-5 flex-shrink-0" />
                                 <span className="text-gray-900 dark:text-white">Phone:</span>
-                                <a href="tel:+919319685290" className="ml-2 text-emerald-600 dark:text-emerald-400 hover:underline">+91-9319685290</a>
+                                <a href="tel:+919319685290" className="ml-2 text-emerald-600 dark:text-emerald-400 hover:underline">9810387297, 9811012011</a>
                             </div>
 
                             <div className="flex items-start text-lg">
                                 <FaMapMarkerAlt className="text-emerald-600 dark:text-emerald-400 mr-3 w-5 h-5 mt-1 flex-shrink-0" />
                                 <span className="text-gray-900 dark:text-white">Address:</span>
-                                <p className="ml-2">A 11 Shani Dham Mandir Road, Asola, Chatarpur, New Delhi 110074</p>
+                                <p className="ml-2">Malani Marbles Pvt. Ltd.
+                                    Khasra No. 809-810 Chattarpur Mandir Road, Near Tivoli Garden New Delhi- 110074, India </p>
                             </div>
 
                             <div className="flex items-center text-lg">

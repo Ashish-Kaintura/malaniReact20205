@@ -15,6 +15,7 @@ export default function Whyus() {
         <Helmet>
           <meta charSet="utf-8" />
           <title>Why Choose Malani Marbles</title>
+          <meta name="description" content="Discover why Malani Marbles is the first choice for marble & granite in India — superior quality, ethical sourcing, expert craftsmanship, and unmatched service."></meta>
           <link rel="canonical" href="https://www.malanimarbles.com/why-us" />
         </Helmet>
         <section
@@ -35,10 +36,9 @@ export default function Whyus() {
             <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
               <span className="gradient-text">Malani Marbles Pvt. Ltd.</span>
             </h2>
-            <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
-              Crafting Timeless Elegance with Premium Natural Stone for Over
-              Three Decades
-            </p>
+            <h1 className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
+              Best Marble in India for Elegant Flooring & Interiors
+            </h1>
             {/* <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button
                 onclick="scrollToSection('products')"

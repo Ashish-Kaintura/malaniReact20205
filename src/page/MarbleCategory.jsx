@@ -24,7 +24,8 @@ export default function MarbleCategory() {
     <section className="pb-20 bg-gradient-to-b from-gray-50 to-white min-h-screen">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Malani Marble</title>
+        <title>{category.metatitle}</title>
+        <meta name="description" content={category.metades}></meta>
         {/* Corrected Line: Use template literal inside curly braces */}
         <link rel="canonical" href={`https://www.malanimarbles.com/marble-collection/${category.slug}`} />
       </Helmet>

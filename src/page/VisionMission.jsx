@@ -12,6 +12,7 @@ export default function VisionMission() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Our Mission - Malani Marbles</title>
+        <meta name="description" content="At Malani Marbles, our mission is to deliver world‑class marble & granite through ethical sourcing, innovation, craftsmanship and lasting client satisfaction."></meta>
         <link rel="canonical" href="https://www.malanimarbles.com/our-vision-and-mission" />
       </Helmet>
       <section
@@ -32,10 +33,9 @@ export default function VisionMission() {
           <h2 className="text-5xl md:text-7xl font-bold font-display mb-6">
             <span className="gradient-text">Malani Marble</span>
           </h2>
-          <p className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
-            Crafting Timeless Elegance with Premium Natural Stone for Over Three
-            Decades
-          </p>
+          <h1 className="md:text-xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
+            Best Marble Suppliers in India for Homes & Commercial Projects
+          </h1>
           {/* <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <button
                       onclick="scrollToSection('products')"
@@ -61,7 +61,7 @@ export default function VisionMission() {
       <section className="py-12 max-w-7xl mx-auto px-6">
         <div className="flex flex-col relative justify-center items-center ">
           <span className="absolute sm:h-[2.544vw] h-[8.544vw] sm:w-[3.646vw] w-[11.646vw] mr-40 top-[-2px] border-t-4 border-l-4 border-[#e02529]"></span>
-          <h1 className="max-w-max px-2 text-4xl my-4">Our Team</h1>
+          <h2 className="max-w-max px-2 text-4xl my-4">Our Team</h2>
           <span className="absolute sm:-bottom-[4px] bottom-[-2.002vw] sm:h-[2.344vw] h-[8.344vw] sm:w-[3.646vw] w-[11.646vw] ml-40 border-r-4 border-b-4 border-[#e02529]"></span>
         </div>
 

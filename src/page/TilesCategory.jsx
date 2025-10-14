@@ -23,8 +23,9 @@ export default function TilesCategory() {
     <section className="pb-20 bg-gradient-to-b from-gray-50 to-white min-h-screen">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>My Title</title>
-          <link rel="canonical" href={`https://www.malanimarbles.com/tiles-collections/${category.slug}`} />
+        <title>{category.metatitle}</title>
+        <meta name="description" content={category.metades}></meta>
+        <link rel="canonical" href={`https://www.malanimarbles.com/tiles-collections/${category.slug}`} />
       </Helmet>
       <div className="relative">
         <img className="w-full" src={category.banner} alt={category.name + "Banner"} />

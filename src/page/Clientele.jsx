@@ -14,6 +14,7 @@ export default function Clientele() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Our Clientele | Trusted by Builders, Architects & Designers</title>
+        <meta name="description" content="Trusted by leading builders, architects & designers across India – Malani Marbles delivers superior marble, granite & onyx solutions built on trust and excellence."></meta>
         <link rel="canonical" href="https://www.malanimarbles.com/clientele" />
       </Helmet>
       <section

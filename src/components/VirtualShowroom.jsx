@@ -286,9 +286,9 @@ export default function VirtualShowroom() {
         {/* Kitchen */}
         {activeTab === "kitchen" && (
           <div>
-            <h1 className="text-center text-3xl sm:text-4xl font-bold text-[#da373d] mb-6">
+            <h2 className="text-center text-3xl sm:text-4xl font-bold text-[#da373d] mb-6">
               Kitchen Top Counter
-            </h1>
+            </h2>
             <div className="rounded-xl overflow-hidden shadow-lg bg-white p-6">
               <div className="flex justify-center mb-6">
                 <div className="rounded-xl overflow-hidden border-4 border-gray-200 shadow-lg max-w-4xl">

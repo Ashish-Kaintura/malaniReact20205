@@ -29,7 +29,7 @@ export default function WhyChooseUs() {
   return (
     <section className="relative bg-gradient-to-b from-white to-gray-50 py-20 px-6 md:px-12">
       <div className="max-w-7xl mx-auto text-center">
-        <motion.h1
+        <motion.h3
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
@@ -37,7 +37,7 @@ export default function WhyChooseUs() {
           className="text-4xl md:text-5xl font-bold text-gray-900 mb-6"
         >
           Why Choose <span className="text-red-600"> Malani Marbles Pvt. Ltd</span>?
-        </motion.h1>
+        </motion.h3>
         <motion.p
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}

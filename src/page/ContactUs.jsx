@@ -51,14 +51,60 @@ export default function ContactUs() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Contact Malani Marbles | Get a Quote or Visit Us</title>
+        <meta name="description" content="Reach out to Malani Marbles for quotes, showroom visits or enquiries on marble, granite & onyx. Our team is ready to assist your project needs."></meta>
         <link rel="canonical" href="https://www.malanimarbles.com/contact" />
+        <script type="application/ld+json">
+          {`{
+            "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "Malani Marbles Pvt. Ltd.",
+          "image": "https://www.malanimarbles.com/img/logo-option-1.webp",
+          "@id": "https://www.malanimarbles.com/",
+          "url": "https://www.malanimarbles.com/contact-us",
+          "telephone": "9810387297",
+          "address": {
+            "@type": "PostalAddress",
+          "streetAddress": "Khasra No. 809-810 Chattarpur Mandir Road, Near Tivoli Garden",
+          "addressLocality": "New Delhi",
+          "postalCode": "110074",
+          "addressCountry": "IN"
+  },
+          "geo": {
+            "@type": "GeoCoordinates",
+          "latitude": 28.4999511,
+          "longitude": 77.1850275
+  },
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+          ],
+          "opens": "09:00",
+          "closes": "23:59"
+  },
+          "sameAs": [
+          "https://www.facebook.com/malanimarbles",
+          "https://www.instagram.com/malanimarbles/",
+          "https://www.youtube.com/@malanimarbles6638",
+          "https://www.linkedin.com/company/malani-marbles/",
+          "https://in.pinterest.com/malanimarbles1/"
+          ] 
+}`}
+        </script>
+
       </Helmet>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-16" data-aos="fade-up">
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             Get In Touch
-          </h2>
+          </h1>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
             Ready to start your marble project? Contact us today for a
             consultation and personalized quote.
