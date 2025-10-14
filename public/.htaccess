@@ -9,4 +9,35 @@
 
   # Redirect everything else to index.html
   RewriteRule ^ index.html [L]
+
+# ==========================
+# 301 Redirects for old URLs
+# ==========================
+
+Redirect 301 /product-swiper.html https://www.malanimarbles.com/
+Redirect 301 /Granites.html https://www.malanimarbles.com/marble-collection/indian-granite
+Redirect 301 /Brazilian-granites.html https://www.malanimarbles.com/marble-collection/brazilian-granite
+Redirect 301 /Beige.html https://www.malanimarbles.com/marble-collection/beige-marble
+Redirect 301 /Infrastucture.html https://www.malanimarbles.com/infrastructure
+Redirect 301 /Gray-tiles.html https://www.malanimarbles.com/tiles-collections/gray-tiles
+Redirect 301 /Importate-granites.html https://www.malanimarbles.com/marble-collection/imported-granites
+Redirect 301 /Ourmission.html https://www.malanimarbles.com/our-vision-and-mission
+Redirect 301 /Contact.html https://www.malanimarbles.com/contact
+Redirect 301 /Gray.html https://www.malanimarbles.com/marble-collection/gray-marble
+Redirect 301 /Media.html https://www.malanimarbles.com/
+Redirect 301 /Clientele.html https://www.malanimarbles.com/clientele
+Redirect 301 /Finishes.html https://www.malanimarbles.com/marble-collection/finishes-marble
+Redirect 301 /Semi-Precious.html https://www.malanimarbles.com/marble-collection/semi-precious
+Redirect 301 /testamonial.html https://www.malanimarbles.com/
+Redirect 301 /Company.html https://www.malanimarbles.com/
+Redirect 301 /Whitetiles.html https://www.malanimarbles.com/tiles-collections/white-tiles
+Redirect 301 /Why-us.html https://www.malanimarbles.com/why-us
+Redirect 301 /Blacktiels.html https://www.malanimarbles.com/tiles-collections/black-tiles
+Redirect 301 /Onyx.html https://www.malanimarbles.com/marble-collection/onyx-marble
+Redirect 301 /Travertino.html https://www.malanimarbles.com/marble-collection/travertino-marble
+Redirect 301 /img/Beige/BARBARI%20BEIGE.webp https://www.malanimarbles.com/
+Redirect 301 /Coloured.html https://www.malanimarbles.com/marble-collection/coloured-marble
+Redirect 301 /White.html https://www.malanimarbles.com/marble-collection/white-marble
+Redirect 301 /full-space-gallery-slider.html https://www.malanimarbles.com/
+
 </IfModule>

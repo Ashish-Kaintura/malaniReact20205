@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 import { FaShieldAlt, FaEnvelope, FaPhone, FaMapMarkerAlt, FaGlobe } from 'react-icons/fa';
 import { IoIosDocument } from 'react-icons/io';
@@ -7,6 +7,9 @@ export default function PrivacyPolicy() {
     const currentYear = new Date().getFullYear();
     const effectiveDate = "October 8, 2025"; // Set the policy effective date
 
+    useEffect(() => {
+        window.scroll(0, 0)
+    })
     return (
         <div className="bg-gray-500 min-h-screen py-16">
             <Helmet>

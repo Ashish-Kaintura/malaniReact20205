@@ -2,12 +2,12 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import Data from "../data/titelscollection.json";
-import {useEffect} from "react";
+import { useEffect } from "react";
 import { Helmet } from "react-helmet";
 export default function TilesCollection() {
-  useEffect(()=>{
-  window.scroll(0,0)
-})
+  useEffect(() => {
+    window.scroll(0, 0)
+  })
   return (
     // tilebanner
     <section className="pb-20 bg-gradient-to-b from-white to-gray-100 min-h-screen">
@@ -65,10 +65,15 @@ export default function TilesCollection() {
       <div className="overflow-hidden h-[760px]">
         <img className="w-full object-cover" src="https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/tiles-collection/main-tile-banner.webp" alt="BANNER" />
       </div>
-      <div className="max-w-7xl mx-auto px-6 mt-20">
-        <h1 className="text-5xl font-extrabold text-center text-gray-800 mb-16">
-       Slimtech Tiles Collection
+      <div className="max-w-7xl mx-auto px-6 ">
+        <h1 className="text-xl font-semibold text-center gradient-text mb-3 uppercase">
+          Slimtech Tiles Collection
         </h1>
+        <h2 className="text-3xl font-semibold text-center text-gray-800 mb-3 ">Explore Premium Tiles Collections in India
+
+        </h2>
+        <p className="text-sm mb-12 max-w-6xl mx-auto text-center line-clamp-2" >Malani Marbles Pvt. Ltd. offers an impressive range of tiles specifically developed to cater to the needs of modern architects, builders, and marble dealers in India. Our ceramics to buy offer options for ceramic tiles, vitrified tiles, porcelain tiles, wall tiles, floor tiles, bathroom tiles, kitchen tiles, outdoor tiles, and designer tiles as we have engineered them for durability, stain resistance, and timeless beauty. As one of the leading tile suppliers in India, we are a unique product from some of the latest design trends from Italy married to the latest in modern surface finishing technology for high-performing tiles for luxury homes, commercial space, hotels, or retail interior spaces. We carry a full range of colors from our beautiful white tiles, grey tiles, black tiles, and marble ring finish tiles ensuring your project is stylish, strong, and beautifully built to last.
+        </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-10">
           {Data.map((cat, i) => (
             <motion.div
@@ -88,7 +93,7 @@ export default function TilesCollection() {
                     {cat.name}
                   </h2>
                 </div>
-                <div className="text-center p-4"> 
+                <div className="text-center p-4">
                   <h2>{cat.name}</h2>
                 </div>
               </Link>

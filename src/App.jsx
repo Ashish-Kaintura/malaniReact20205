@@ -20,6 +20,8 @@ const MarbleCollection = lazy(() => import("./page/MarbleCollection"));
 const MarbleCategory = lazy(() => import("./page/MarbleCategory"));
 const TilesCollection = lazy(() => import("./page/TilesCollection"));
 const TilesCategory = lazy(() => import("./page/TilesCategory"));
+const BlogList = lazy(() => import("./page/BlogList"));
+const BlogDetail = lazy(() => import("./page/BlogDetail"));
 const Notfound = lazy(() => import("./page/Notfound"));
 
 export default function App() {
@@ -50,7 +52,9 @@ export default function App() {
           <Route path="/tiles-collections" element={<TilesCollection />} />
           <Route path="/tiles-collections/:slug" element={<TilesCategory />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-          <Route path="/404" element={<Notfound />} />
+          <Route path="/blog" element={<BlogList />} />
+          <Route path="/blog/:slug" element={<BlogDetail />} />
+          <Route path="/*" element={<Notfound />} />
 
           {/* You can lazy load more pages here */}
         </Routes>
