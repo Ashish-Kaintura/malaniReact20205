@@ -39,7 +39,7 @@ export default function BlogList() {
                 <div className="absolute inset-0 bg-black opacity-20 z-0"></div>
                 <img
                     className="w-full"
-                    src="https://i.postimg.cc/nLcLDB9L/Blog-Banner.jpg"
+                    src="https://i.postimg.cc/XJJPKBJX/Blog-Banner.jpg"
                     alt="Blog Banner"
                 />
             </div>

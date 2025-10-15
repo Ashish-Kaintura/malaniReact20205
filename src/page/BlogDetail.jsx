@@ -42,6 +42,17 @@ export default function BlogDetail() {
     const related = blogs.filter((b) => b.id !== blog.id).slice(0, 3);
 
     return (
+        <> {/* Banner Section */}
+            <div className="relative">
+                <div className="absolute inset-0 bg-black opacity-20 z-0"></div>
+                <img
+                    className="w-full h-[400px]"
+                    src="https://i.postimg.cc/FshLXvLb/Blog-Img.jpg"
+                    // https://postimg.cc/delete/WK1kN3QQ/c576bd17
+                    alt="Blog Banner"
+                />
+            </div>
+
         <div className="max-w-7xl mx-auto px-4 py-10 grid lg:grid-cols-3 gap-12">
             {/* Main Blog Section */}
             <div className="lg:col-span-2">
@@ -138,5 +149,6 @@ export default function BlogDetail() {
                 <BlogSidebar />
             </div>
         </div>
+        </>
     );
 }
