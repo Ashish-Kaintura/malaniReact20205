@@ -164,7 +164,7 @@ export default function ContactUs() {
               </h4>
               <p className="flex justify-between text-gray-600">
                 <span>Mon - Sun:</span>
-                <span className="font-medium">9:00 AM - 12:00 AM</span>
+                <span className="font-medium">10:00 AM - 8:00 PM</span>
               </p>
               {/* <p className="flex justify-between text-gray-600">
                 <span>Sunday:</span>
