@@ -669,7 +669,210 @@ const blogs = [
         </p>
       </div>
     ),
+  },
+
+  {
+    id: 5,
+    title: "Top Imported Marble Trends in India 2025: Colors, Finishes & Design Inspiration",
+    slug: "top-imported-marble-trends-india-2025",
+    author: "Malani Marbles Pvt. Ltd.",
+    date: "November 2025",
+    category: "Imported Marble Trends",
+    thumbnail: "https://i.postimg.cc/Jz9H3cjv/Blog-Image-(1)-(1).jpg",
+    metaTitle: "Top Imported Marble Trends 2025 | Latest Colors & Finishes in India",
+    metaDescription:
+      "Explore 2025’s top imported marble trends in India—latest colors, finishes, and design inspirations. Discover premium Italian marble, Onyx, and more.",
+
+    content: (
+      <div className="space-y-6">
+
+        <h1 className="text-3xl font-bold text-gray-900">
+          Top Imported Marble Trends in India 2025: Colors, Finishes & Design Inspiration
+        </h1>
+
+        <p>
+          Marble that is imported has always been a symbol of luxury, elegance, and timeless beauty.
+          In 2025, homeowners, designers, and architects in India will be choosing fearless colors,
+          richer textures, and highly refined finishes to incorporate into their designs.
+        </p>
+
+        <p>
+          Whether the market for premium natural stone is seeking the warmth of beige tones or the bold
+          looks of exotic stones, it is rapidly evolving for 2025.
+        </p>
+
+        <p>
+          This guide will discuss the top trends in imported marble for the year 2025 with regard to
+          the colors and finishes that garner the most requests, as well as important insights,
+          inspirations, and design depictions being shared from the leaders in the marble industry that
+          will assist owners in making informed, meaningful, and long-lasting decisions.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Italian Marble Continues to Lead India’s Luxury Segment
+        </h2>
+
+        <p>
+          Among all high-end stones, Italian marble remains the top choice for clients wishing for
+          luxury without compromise. In 2025, the demand for:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>White Italian Marble</li>
+          <li>Cream and beige Italian varieties</li>
+          <li>High-reflective polished finishes</li>
+        </ul>
+
+        <p>
+          The draw comes from its unrivaled clarity, fine grains, and depth of natural veining.
+          Italian stones may be used in contemporary and classical interiors, making them the material
+          of choice for high-end homes.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          White Italian Marble Dominates Minimalist & Contemporary Designs
+        </h2>
+
+        <p>Minimalist architecture is trending across metro cities, and White Italian Marble is the hero of this movement.</p>
+
+        <p><strong>Why homeowners love it:</strong></p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Makes spaces look more spacious</li>
+          <li>Matches any interior color palette</li>
+          <li>Premium feel with long-term durability</li>
+          <li>Ideal for living rooms, bathrooms, and luxury flooring</li>
+        </ul>
+
+        <p>
+          In 2025, ultra-white slabs with subtle grey veins are among the top sellers for luxury
+          residences across India.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Onyx Marble Gains Popularity for Feature Walls & Premium Lighting Decor
+        </h2>
+
+        <p>
+          Onyx marble is one of the fastest-growing exotic stones in the luxury interiors market in
+          India.
+        </p>
+
+        <p>By 2025, owners will have a preference for:</p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Honey Onyx</li>
+          <li>Green Onyx</li>
+          <li>Multi-colored Onyx</li>
+          <li>Pink Onyx</li>
+        </ul>
+
+        <p>Onyx is a translucent stone, allowing it to be backlit—it gives off a glow perfect for:</p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Bars</li>
+          <li>TV walls</li>
+          <li>Bedroom backsplashes</li>
+          <li>Temple designs</li>
+          <li>Reception area</li>
+        </ul>
+
+        <p>It is not just decorative stone—it is a symbol of exclusivity.</p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Travertino Marble Makes a Strong Comeback
+        </h2>
+
+        <p>
+          Natural, warm, and earthy—Travertino Marble is becoming one of the top materials in modern
+          homes in 2025.
+        </p>
+
+        <p>Trending uses:</p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Wall cladding</li>
+          <li>Bathroom interiors</li>
+          <li>Outdoor facades</li>
+          <li>Rustic-modern flooring</li>
+        </ul>
+
+        <p>
+          Travertino has the charm of organic warmth with soft beige tones and a porous texture. It
+          delivers timeless beauty in residential and commercial spaces.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          The 2025 Imported Marble Color Trends: What’s Popular This Year
+        </h2>
+
+        <ol className="list-decimal ml-6 space-y-2">
+          <li><strong>Beige Marble & Cream Family</strong> – Calm, luxurious, modern interiors.</li>
+          <li><strong>Dramatic Veins</strong> – Large bold veins for statement flooring.</li>
+          <li><strong>Emerald Greens & Rich Browns</strong> – Nature-inspired exotic varieties.</li>
+          <li><strong>Soft Whites</strong> – Clean whites dominate luxury villas.</li>
+        </ol>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Finishes That Will Rule 2025
+        </h2>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li><strong>High Gloss Polished Finish</strong> – Still the most preferred.</li>
+          <li><strong>Leather Finish</strong> – Soft texture, matte look.</li>
+          <li><strong>Honed / Satin Finish</strong> – Refined matte elegance.</li>
+          <li><strong>Book-matched patterns</strong> – Premium feature walls.</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Why Homeowners Prefer Buying Imported Marble From a Trusted Marble Supplier
+        </h2>
+
+        <p>
+          When you purchase imported marble, you're making an investment, and the marble supplier you
+          choose will have direct effects on the quality, durability, and value of your marble over
+          time.
+        </p>
+
+        <p><strong>A quality marble supplier will:</strong></p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Provide true imported stone</li>
+          <li>Eliminate color variations</li>
+          <li>Ensure proper thickness & defect-free slabs</li>
+          <li>Deliver long-lasting shine & premium finish</li>
+          <li>Provide latest 2025 designs & rare stones</li>
+        </ul>
+
+        <p>
+          When buying marble as a homeowner, you want to buy from reputable marble suppliers in India
+          to increase transparency, authenticity, and peace of mind.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Final Thoughts: 2025 Is All About Luxury With Personality
+        </h2>
+
+        <p>
+          You can see the trend emerging—Indian homeowners want bold, expressive, and truly premium
+          interiors by 2025.
+        </p>
+
+        <p>
+          A premium space can take on a range of dramatic perspectives—from the sophistication of
+          Italian Marble, the purity of White Italian Marble, the exoticism of Onyx Marble, or the
+          warmth of Travertino Marble—imported stone continues to redefine luxury living in India.
+        </p>
+
+        <p>
+          With the best marble supplier in India, you can have a global look in your home that
+          outperforms in durability and class.
+        </p>
+
+      </div>
+    )
   }
+
 
 ];
 
