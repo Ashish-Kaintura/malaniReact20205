@@ -11,7 +11,7 @@ function SwatchRail() {
       img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/DOLCHE VITA.webp",
     },
     {
-      name: "GIALLO",
+      name: "GIALLO SIENA",
       img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/GIALLO SIENA.webp",
     },
     {
@@ -23,11 +23,11 @@ function SwatchRail() {
       img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/LEATHER.webp",
     },
     {
-      name: "Emperador",
+      name: "STATUARIO CALACUTTA",
       img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/STATUARIO CALACUTTA.webp",
     },
     {
-      name: "STATUARIO ",
+      name: "Blue Bercia",
       img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/gallery/bLUE BRECIA.webp",
     },
     {
