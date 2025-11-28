@@ -126,8 +126,7 @@ export default function ContactUs() {
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
                   <p className="text-gray-600 sm:max-w-sm mx-auto">
-                    Malani Marbles Pvt. Ltd.
-                    Khasra No. 809-810 Chattarpur Mandir Road, Near Tivoli Garden New Delhi- 110074, India 
+                    A-11 farm, Near Advocate Rajandar Tanwar board, Shani Dham Mandir Road, Asola, New Delhi - 110074 
                   </p>
                 </div>
               </div>
