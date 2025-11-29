@@ -7,6 +7,11 @@ function FilterGrid() {
   const items = useMemo(
     () => [
       {
+        title: "Avocado",
+        img: "https://i.postimg.cc/ncsFG5PJ/Avocado.jpg",
+        type: "Popular Marble",
+      },
+      {
         title: "Statuario White",
         img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
         type: "Popular Marble",
@@ -23,11 +28,11 @@ function FilterGrid() {
         img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20LABRADORITE.webp",
         type: "Popular Marble",
       },
-      {
-        title: "Blue Roma",
-        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20ROMA.webp",
-        type: "Popular Marble",
-      },
+      // {
+      //   title: "Blue Roma",
+      //   img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20ROMA.webp",
+      //   type: "Popular Marble",
+      // },
       {
         title: "Coloured",
         img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/FUSION%20BROWN.webp",

@@ -879,7 +879,7 @@ const blogs = [
     title: "Home Interior Trends for 2026: Embracing Italian Marble, Elegant Beige Marble, and Sleek Italian Tiles",
     slug: "home-interior-trends-2026-italian-marble-beige-marble-italian-tiles",
     author: "Malani Marbles Pvt. Ltd.",
-    date: "January 2026",
+    date: "December 2025",
     category: "Home Interior Trends",
     thumbnail: "https://i.postimg.cc/ZKWr4vkW/Blog-Image-1.jpg",
 
