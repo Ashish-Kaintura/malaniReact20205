@@ -1,14 +1,14 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { Mail, MapPin, Phone } from "lucide-react";
-import {useEffect} from "react";
+import { useEffect } from "react";
 import { Helmet } from "react-helmet";
 export default function ContactUs() {
   const formRef = useRef();
   const [loading, setLoading] = useState(false);
   const [sent, setSent] = useState(false);
-  useEffect(()=>{
-    window.scroll(0,0)
+  useEffect(() => {
+    window.scroll(0, 0)
   })
 
   const sendEmail = (e) => {
@@ -126,7 +126,7 @@ export default function ContactUs() {
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
                   <p className="text-gray-600 sm:max-w-sm mx-auto">
-                    A-11 farm, Near Advocate Rajandar Tanwar board, Shani Dham Mandir Road, Asola, New Delhi - 110074 
+                    A 11. Asolo Farms. Near Shanidham Mandir Road, Chattarpur, New Delhi - 110074
                   </p>
                 </div>
               </div>
@@ -175,7 +175,7 @@ export default function ContactUs() {
           {/* Right Form Section */}
           <div
             className="bg-white p-8 rounded-xl shadow-lg"
-            // data-aos="fade-left"
+          // data-aos="fade-left"
           >
             <h3 className="text-2xl font-bold text-gray-900 mb-6">
               Send Message
