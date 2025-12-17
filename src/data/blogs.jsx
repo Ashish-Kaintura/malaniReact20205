@@ -1253,7 +1253,7 @@ const blogs = [
     )
   },
   {
-    id:8 ,
+    id: 8 ,
     title: "Choosing the Right Kitchen Countertop: Expert Tips for Long-Term Performance",
     slug: "Choosing-the-right-kitchen-countertop-expert-tips-for-long-term-performance",
     author: "Malani Marbles Pvt. Ltd.",
