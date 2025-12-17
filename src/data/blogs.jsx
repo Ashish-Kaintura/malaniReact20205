@@ -126,7 +126,7 @@ const blogs = [
     thumbnail: "https://i.postimg.cc/1zcxHsK7/Malani-Blog-Image-2.jpg",
     metaTitle:
       "Why Italian Marble is the First Choice for Architects in 2025 | Malani Marbles Pvt. Ltd.",
-    metaDescription:"Discover why architects and designers in India continue to choose Italian marble in 2025. Learn about its beauty, durability, and timeless appeal from Malani Marbles Pvt. Ltd.",
+    metaDescription: "Discover why architects and designers in India continue to choose Italian marble in 2025. Learn about its beauty, durability, and timeless appeal from Malani Marbles Pvt. Ltd.",
     metaKeywords:
       "italian marble, architects choice, marble design, luxury interiors, malani marbles",
     canonical:
@@ -154,7 +154,7 @@ const blogs = [
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-2">
-        The Legacy of Italian Marble
+          The Legacy of Italian Marble
         </h2>
         <p>
           The history of Italian marble dates back to ancient Rome and ancient
@@ -169,7 +169,7 @@ const blogs = [
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-2">
-           Why Architects Prefer Italian Marble Over Other Options
+          Why Architects Prefer Italian Marble Over Other Options
         </h2>
 
         <h3 className="text-xl font-semibold mt-6 mb-2">
@@ -251,7 +251,7 @@ const blogs = [
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-2">
-           Popular Varieties of Italian Marble in India (2025)
+          Popular Varieties of Italian Marble in India (2025)
         </h2>
         <p>
           The requirement for Italian marble in India continues to thrive in all
@@ -287,7 +287,7 @@ const blogs = [
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-2">
-           Italian Marble Flooring – The Foundation of Luxury
+          Italian Marble Flooring – The Foundation of Luxury
         </h2>
         <p>
           Widely known for use as a luxury flooring material, Italian marble is
@@ -313,7 +313,7 @@ const blogs = [
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-2">
-           Malani Marbles Pvt. Ltd.—Your Trusted Italian Marble Supplier in
+          Malani Marbles Pvt. Ltd.—Your Trusted Italian Marble Supplier in
           India
         </h2>
         <p>
@@ -344,136 +344,139 @@ const blogs = [
   },
   // blog 3 
   {
-  id: 3,
-  title: "Onyx Marble: The Gemstone of Luxury Interiors",
-  slug: "onyx-marble-the-gemstone-of-luxury-interiors",
-  author: "Malani Marbles Pvt. Ltd.",
-  date: "November 2025",
-  category: "Luxury Interiors",
-  // thumbnail: "https://postimg.cc/delete/YTmsvsLg/b1135d5c  for remove",
-  thumbnail: "https://i.postimg.cc/MGvFZmgz/malani-Blog-Image-03.jpg",
-  metaTitle: "Onyx Marble in India | Luxury Onyx Flooring | Imported & Colored Onyx Designs",
-  metaDescription: "Explore premium Onyx Marble at Malani Marbles Pvt. Ltd. — India’s top supplier for imported onyx, colored onyx designs, and luxury onyx flooring at the best prices.",
-  content: (
-    <div className="space-y-6">
-      <h1 className="text-3xl font-bold text-gray-900">
-        Onyx Marble: The Gemstone of Luxury Interiors
-      </h1>
+    id: 3,
+    title: "Onyx Marble: The Gemstone of Luxury Interiors",
+    slug: "onyx-marble-the-gemstone-of-luxury-interiors",
+    canonical: "https://www.malanimarbles.com/blog/onyx-marble-the-gemstone-of-luxury-interiors",
+    author: "Malani Marbles Pvt. Ltd.",
+    date: "November 2025",
+    category: "Luxury Interiors",
+    // thumbnail: "https://postimg.cc/delete/YTmsvsLg/b1135d5c  for remove",
+    thumbnail: "https://i.postimg.cc/MGvFZmgz/malani-Blog-Image-03.jpg",
+    metaTitle: "Onyx Marble in India | Luxury Onyx Flooring | Imported & Colored Onyx Designs",
+    metaDescription: "Explore premium Onyx Marble at Malani Marbles Pvt. Ltd. — India’s top supplier for imported onyx, colored onyx designs, and luxury onyx flooring at the best prices.",
+    content: (
+      <div className="space-y-6">
+        <h1 className="text-3xl font-bold text-gray-900">
+          Onyx Marble: The Gemstone of Luxury Interiors
+        </h1>
 
-      <h2 className="text-2xl font-semibold mt-6">Introduction</h2>
-      <p>
-        When luxury integrates with craftsmanship, it produces Onyx Marble—nature's most stunning gemstone-like stone. Onyx marble, distinguished by its translucent glow, dramatic veining, and color revelations, has become the asset of luxury interiors around the globe. Architects, designers, and homeowners attracted to luxury well beyond conventional marble select onyx for its unmatched beauty and luminescent quality.
-      </p>
-      <p>
-        At Malani Marbles Pvt. Ltd., we present you the best quality onyx imported into India from world-class quarries in Italy, Turkey, Iran, and Mexico. Our premium imported offerings will convert any living area, whether it's a luxury villa, hotel lobby, or stunning wall or floor, into a statement onyx marble masterpiece. In this blog, you'll find everything from the onyx marble price to design trends and colored onyx design to modern luxury onyx flooring.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">Introduction</h2>
+        <p>
+          When luxury integrates with craftsmanship, it produces Onyx Marble—nature's most stunning gemstone-like stone. Onyx marble, distinguished by its translucent glow, dramatic veining, and color revelations, has become the asset of luxury interiors around the globe. Architects, designers, and homeowners attracted to luxury well beyond conventional marble select onyx for its unmatched beauty and luminescent quality.
+        </p>
+        <p>
+          At Malani Marbles Pvt. Ltd., we present you the best quality onyx imported into India from world-class quarries in Italy, Turkey, Iran, and Mexico. Our premium imported offerings will convert any living area, whether it's a luxury villa, hotel lobby, or stunning wall or floor, into a statement onyx marble masterpiece. In this blog, you'll find everything from the onyx marble price to design trends and colored onyx design to modern luxury onyx flooring.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">What Is Onyx Marble?</h2>
-      <p>
-        Onyx marble is a semi-precious stone that is created from deposition layers of calcite that give it a natural translucency and color bands that flow freely. Unlike regular marble, onyx glows when backlit, enriching the environment with a mystical glow. Each slab is a natural canvas, and no two pieces are alike, making it ideal for clients who desire that personal touch.
-      </p>
-      <p>
-        Onyx marble is known for its individuality in soft white and honey tones to deeper green, pink, and multi-colored patterns, and it receives the nickname "the gemstone of luxury interiors" due to its stone-like quality. Designers utilize it as an accent wall, counters, bathroom vanities, or decorative panels to create a memorable visual influence.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">What Is Onyx Marble?</h2>
+        <p>
+          Onyx marble is a semi-precious stone that is created from deposition layers of calcite that give it a natural translucency and color bands that flow freely. Unlike regular marble, onyx glows when backlit, enriching the environment with a mystical glow. Each slab is a natural canvas, and no two pieces are alike, making it ideal for clients who desire that personal touch.
+        </p>
+        <p>
+          Onyx marble is known for its individuality in soft white and honey tones to deeper green, pink, and multi-colored patterns, and it receives the nickname "the gemstone of luxury interiors" due to its stone-like quality. Designers utilize it as an accent wall, counters, bathroom vanities, or decorative panels to create a memorable visual influence.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">Onyx Marble Price in India</h2>
-      <p>
-        When you want to invest in elegance, you should pay attention to the onyx marble price. The prices vary depending on color, pattern, and transparency, as well as where the marble originated. In general, the onyx marble price in India will begin around ₹500 per sq. ft., and supplementary pricing will exceed ₹3,000 per sq. ft. depending on the variation of the onyx and its rarity, largely due to the high level of translucency.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">Onyx Marble Price in India</h2>
+        <p>
+          When you want to invest in elegance, you should pay attention to the onyx marble price. The prices vary depending on color, pattern, and transparency, as well as where the marble originated. In general, the onyx marble price in India will begin around ₹500 per sq. ft., and supplementary pricing will exceed ₹3,000 per sq. ft. depending on the variation of the onyx and its rarity, largely due to the high level of translucency.
+        </p>
 
-      <h3 className="text-xl font-semibold mt-4">Understanding factors affecting onyx marble prices:</h3>
-      <ul className="list-disc ml-6 space-y-2">
-        <li>Color & Rarity: Exotic color shades such as blue or multi-colored onyx would be priced higher.</li>
-        <li>Origin: Imported onyx in India from overseas countries, such as Italy, Turkey, or Iran, is pricier. This is due to quality and purity.</li>
-        <li>Transparency: Generally speaking, luxury equates to translucency.</li>
-        <li>Finishing & Thickness: Any type of book-matched or polished slab requires higher levels of processing, which will modestly affect pricing.</li>
-      </ul>
-      <p>
-        At Malani Marbles Pvt. Ltd., we practice transparency with our onyx marble price and offer customers a medium of authentic quality and longevity. Our marble experts will be happy to assist you with choosing the right onyx type to suit your aesthetic goals and remain within your budget.
-      </p>
+        <h3 className="text-xl font-semibold mt-4">Understanding factors affecting onyx marble prices:</h3>
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Color & Rarity: Exotic color shades such as blue or multi-colored onyx would be priced higher.</li>
+          <li>Origin: Imported onyx in India from overseas countries, such as Italy, Turkey, or Iran, is pricier. This is due to quality and purity.</li>
+          <li>Transparency: Generally speaking, luxury equates to translucency.</li>
+          <li>Finishing & Thickness: Any type of book-matched or polished slab requires higher levels of processing, which will modestly affect pricing.</li>
+        </ul>
+        <p>
+          At Malani Marbles Pvt. Ltd., we practice transparency with our onyx marble price and offer customers a medium of authentic quality and longevity. Our marble experts will be happy to assist you with choosing the right onyx type to suit your aesthetic goals and remain within your budget.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">Imported Onyx in India—Global Luxury, Local Expertise</h2>
-      <p>
-        Imported onyx has become synonymous with luxury living in India. With globally sourced materials and exacting craftsmanship, Malani Marbles Pvt. Ltd. creates specialty onyx collections with international design standards.
-      </p>
-      <ul className="list-disc ml-6 space-y-2">
-        <li>Green Onyx: A tranquil blend of white and jade colors that are perfect for calm interiors.</li>
-        <li>Honey Onyx: Warm golden shades that exude comfort and harmony.</li>
-        <li>White Onyx: Humble yet striking and suitable for modernist minimalism.</li>
-        <li>Pink & Red Onyx: Vibrant colors suitable for striking wall features or artistic panels.</li>
-      </ul>
-      <p>
-        Each slab is carefully inspected on arrival. Once approved, each piece is polished like fine marble. Whether looking for luxury onyx flooring, countertops, or decorative installations, Malani Marbles Pvt. Ltd. will provide quality and finish unmatched—every time.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">Imported Onyx in India—Global Luxury, Local Expertise</h2>
+        <p>
+          Imported onyx has become synonymous with luxury living in India. With globally sourced materials and exacting craftsmanship, Malani Marbles Pvt. Ltd. creates specialty onyx collections with international design standards.
+        </p>
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Green Onyx: A tranquil blend of white and jade colors that are perfect for calm interiors.</li>
+          <li>Honey Onyx: Warm golden shades that exude comfort and harmony.</li>
+          <li>White Onyx: Humble yet striking and suitable for modernist minimalism.</li>
+          <li>Pink & Red Onyx: Vibrant colors suitable for striking wall features or artistic panels.</li>
+        </ul>
+        <p>
+          Each slab is carefully inspected on arrival. Once approved, each piece is polished like fine marble. Whether looking for luxury onyx flooring, countertops, or decorative installations, Malani Marbles Pvt. Ltd. will provide quality and finish unmatched—every time.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">Luxury Onyx Flooring—A Statement of Sophistication</h2>
-      <p>
-        Luxury onyx floors have striking visual appeal. The translucent surface and vibrant color bands refract light to create an illusion of a sense of "depth" and "dimension" rarely found in a natural stone. When backlit, the onyx flooring glows softly to enhance the energy and mood of the space.
-      </p>
-      <p>
-        Luxury onyx flooring is ideal for the lobby, spas, luxury bathrooms, and dining rooms; it helps redefine the border between art and architecture. Designers adore it and frequently incorporate it into custom design projects that prioritize exclusivity and elegance. More than just beauty, onyx flooring can be sealed and offers durability and low maintenance, all with lasting qualities.
-      </p>
-      <p>
-        We stock Malani Marbles Pvt. Ltd. selections in many finishes: polished, honed, book-matched, and more for you to design and decorate interiors with sophistication and refined taste and designs.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">Luxury Onyx Flooring—A Statement of Sophistication</h2>
+        <p>
+          Luxury onyx floors have striking visual appeal. The translucent surface and vibrant color bands refract light to create an illusion of a sense of "depth" and "dimension" rarely found in a natural stone. When backlit, the onyx flooring glows softly to enhance the energy and mood of the space.
+        </p>
+        <p>
+          Luxury onyx flooring is ideal for the lobby, spas, luxury bathrooms, and dining rooms; it helps redefine the border between art and architecture. Designers adore it and frequently incorporate it into custom design projects that prioritize exclusivity and elegance. More than just beauty, onyx flooring can be sealed and offers durability and low maintenance, all with lasting qualities.
+        </p>
+        <p>
+          We stock Malani Marbles Pvt. Ltd. selections in many finishes: polished, honed, book-matched, and more for you to design and decorate interiors with sophistication and refined taste and designs.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">Exploring Colored Onyx Designs</h2>
-      <p>
-        The range of colored onyx designs is as diverse as nature itself. Each slab tells a story through its organic patterns, such as pastel-colored waves of color and bold punctuated streaks. Whether the design is in a modern penthouse or a classic palace, the use of colored onyx will always capture your attention.
-      </p>
-      <ul className="list-disc ml-6 space-y-2">
-        <li>Green Onyx with white veining, which is peaceful and luxurious;</li>
-        <li>Honey Onyx with amber tones, which is rich and welcoming;</li>
-        <li>Blue Onyx, which is quite rare, yet a cool color suitable for contemporary designs;</li>
-        <li>Multicolor Onyx, which is artistic and would make a strong statement in any wall design.</li>
-      </ul>
-      <p>
-        Design professionals use onyx slabs for accent walls, reception counters, and backlit ceilings. The translucence of the stone makes it conducive to lighting concepts that give the interior a dynamic and ever-changing presence.
-      </p>
-      <p>
-        Malani Marbles Pvt. Ltd. uses both craftsmanship and design experience to help its clients turn colored onyx designs into their own masterpieces.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">Exploring Colored Onyx Designs</h2>
+        <p>
+          The range of colored onyx designs is as diverse as nature itself. Each slab tells a story through its organic patterns, such as pastel-colored waves of color and bold punctuated streaks. Whether the design is in a modern penthouse or a classic palace, the use of colored onyx will always capture your attention.
+        </p>
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Green Onyx with white veining, which is peaceful and luxurious;</li>
+          <li>Honey Onyx with amber tones, which is rich and welcoming;</li>
+          <li>Blue Onyx, which is quite rare, yet a cool color suitable for contemporary designs;</li>
+          <li>Multicolor Onyx, which is artistic and would make a strong statement in any wall design.</li>
+        </ul>
+        <p>
+          Design professionals use onyx slabs for accent walls, reception counters, and backlit ceilings. The translucence of the stone makes it conducive to lighting concepts that give the interior a dynamic and ever-changing presence.
+        </p>
+        <p>
+          Malani Marbles Pvt. Ltd. uses both craftsmanship and design experience to help its clients turn colored onyx designs into their own masterpieces.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">Applications of Onyx Marble in Modern Interiors</h2>
-      <ul className="list-disc ml-6 space-y-2">
-        <li>Wall Claddings & Panels: They add texture and luxury to living rooms or hotel lobbies.</li>
-        <li>Countertops & Bars: It’s a great choice for high-impact surfaces that include ambient lighting.</li>
-        <li>Bathroom Walls & Vanities: It increases the level of spa-like peace.</li>
-        <li>Sculptural Installations: It can be used for modern art and bespoke interior décor.</li>
-      </ul>
-      <p>
-        Onyx marble also complements Italian marble, granite, or semi-precious stones in any contemporary or classical space.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">Applications of Onyx Marble in Modern Interiors</h2>
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Wall Claddings & Panels: They add texture and luxury to living rooms or hotel lobbies.</li>
+          <li>Countertops & Bars: It’s a great choice for high-impact surfaces that include ambient lighting.</li>
+          <li>Bathroom Walls & Vanities: It increases the level of spa-like peace.</li>
+          <li>Sculptural Installations: It can be used for modern art and bespoke interior décor.</li>
+        </ul>
+        <p>
+          Onyx marble also complements Italian marble, granite, or semi-precious stones in any contemporary or classical space.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">Why Choose Malani Marbles Pvt. Ltd. for Onyx Marble</h2>
-      <ul className="list-disc ml-6 space-y-2">
-        <li>✅ Extensive Imported Collection: We source from premium global quarries.</li>
-        <li>✅ Authentic Quality Assurance: Each slab undergoes strict inspection and finishing.</li>
-        <li>✅ Expert Design Guidance: Personalized advice from marble specialists.</li>
-        <li>✅ Competitive Onyx Marble Price: Transparent rates without compromising quality.</li>
-        <li>✅ Pan-India Presence: Trusted by top architects and builders nationwide.</li>
-      </ul>
-      <p>
-        From luxury residences in Delhi to five-star hotels across India, our imported onyx collections have enhanced some of the country’s most prestigious projects.
-      </p>
+        <h2 className="text-2xl font-semibold mt-6">Why Choose Malani Marbles Pvt. Ltd. for Onyx Marble</h2>
+        <ul className="list-disc ml-6 space-y-2">
+          <li>✅ Extensive Imported Collection: We source from premium global quarries.</li>
+          <li>✅ Authentic Quality Assurance: Each slab undergoes strict inspection and finishing.</li>
+          <li>✅ Expert Design Guidance: Personalized advice from marble specialists.</li>
+          <li>✅ Competitive Onyx Marble Price: Transparent rates without compromising quality.</li>
+          <li>✅ Pan-India Presence: Trusted by top architects and builders nationwide.</li>
+        </ul>
+        <p>
+          From luxury residences in Delhi to five-star hotels across India, our imported onyx collections have enhanced some of the country’s most prestigious projects.
+        </p>
 
-      <h2 className="text-2xl font-semibold mt-6">Conclusion—Redefine Luxury with Onyx Marble</h2>
-      <p>
-        If you desire interiors that truly impress at first sight, Onyx Marble is the necessary option. The translucent beauty, saturated hues, and gemstone sparkle make it more than a top surface—it’s an experience.
-      </p>
-      <p>
-        Whether you are looking for the onyx marble price, looking for imported onyx in India, or wanting to do a luxury onyx flooring project with unique colored onyx designs, we at Malani Marbles Pvt. Ltd. will provide the finest craftsmanship, quality, and service.
-      </p>
-      <p>
-        ✨ Realize your dream with the gemstone of luxury interiors. Visit Malani Marbles Pvt. Ltd. now to check out India’s most exclusive onyx marble and imported natural stone.
-      </p>
-    </div>
-  ),
-},
+        <h2 className="text-2xl font-semibold mt-6">Conclusion—Redefine Luxury with Onyx Marble</h2>
+        <p>
+          If you desire interiors that truly impress at first sight, Onyx Marble is the necessary option. The translucent beauty, saturated hues, and gemstone sparkle make it more than a top surface—it’s an experience.
+        </p>
+        <p>
+          Whether you are looking for the onyx marble price, looking for imported onyx in India, or wanting to do a luxury onyx flooring project with unique colored onyx designs, we at Malani Marbles Pvt. Ltd. will provide the finest craftsmanship, quality, and service.
+        </p>
+        <p>
+          ✨ Realize your dream with the gemstone of luxury interiors. Visit Malani Marbles Pvt. Ltd. now to check out India’s most exclusive onyx marble and imported natural stone.
+        </p>
+      </div>
+    ),
+  },
+
   {
     id: 4,
     title: "How Clients & Owners Can Save Smartly by Choosing the Best Marble Supplier",
     slug: "how-clients-and-owners-can-save-smartly-by-choosing-the-best-marble-supplier",
+    canonical: "https://www.malanimarbles.com/blog/how-clients-and-owners-can-save-smartly-by-choosing-the-best-marble-supplier",
     author: "Malani Marbles Pvt. Ltd.",
     date: "November 2025",
     category: "Marble Supplier Guide",
@@ -682,7 +685,7 @@ const blogs = [
     metaTitle: "Top Imported Marble Trends 2025 | Latest Colors & Finishes in India",
     metaDescription:
       "Explore 2025’s top imported marble trends in India—latest colors, finishes, and design inspirations. Discover premium Italian marble, Onyx, and more.",
-
+    canonical: "https://www.malanimarbles.com/blog/top-imported-marble-trends-india-2025",
     content: (
       <div className="space-y-6">
 
@@ -871,7 +874,695 @@ const blogs = [
 
       </div>
     )
+  },
+
+  {
+    id: 6,
+    title: "Home Interior Trends for 2026: Embracing Italian Marble, Elegant Beige Marble, and Sleek Italian Tiles",
+    slug: "home-interior-trends-2026-italian-marble-beige-marble-italian-tiles",
+    author: "Malani Marbles Pvt. Ltd.",
+    date: "December 2025",
+    category: "Home Interior Trends",
+    thumbnail: "https://i.postimg.cc/ZKWr4vkW/Blog-Image-1.jpg",
+    canonical: "https://www.malanimarbles.com/blog/home-interior-trends-2026-italian-marble-beige-marble-italian-tiles",
+    metaTitle: "Home Interior Trends 2025: Italian Marble Flooring & Beige Marble",
+    metaDescription:
+      "Discover 2025 home interior trends with Italian marble flooring, beige marble, and modern white tiles. Elevate your space with premium imported stones.",
+
+    content: (
+      <div className="space-y-6">
+        {/* 
+        <h1 className="text-3xl font-bold text-gray-900">
+          Home Interior Trends for 2026: Embracing Italian Marble, Elegant Beige Marble, and Sleek Italian Tiles.
+        </h1> */}
+
+        <p>
+          As we step into 2026, the evolution of home design is more vibrant than ever. We're witnessing a significant shift in materials that epitomize luxury, with a rising preference for durable and timeless options. Today's homeowners seek more than just aesthetic appeal; they desire spaces that are beautiful yet crafted from high-quality, low-maintenance materials, seamlessly blending style with practicality. The allure of imported marble and premium tiles remains unmatched, quickly becoming the go-to choice for those aiming to elevate their interiors.
+        </p>
+
+        <p>
+          Whether you’re embarking on a new construction project or revitalizing your current residence, emerging materials like Italian marble flooring, refined beige marble, and contemporary white tiles are shaping the future of luxury marble living in India. This guide delves into the trending home interior styles for 2025, showcasing how these exquisite materials enhance both the beauty and functionality of your home, creating sophisticated spaces for modern living.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Modern Italian Tiles: Sleek, Simple & Ideal for Contemporary Spaces
+        </h2>
+
+        <p>
+          As we step into 2026, a fresh trend is emerging alongside the minimalist architecture movement: modern Italian tiles. Homeowners are increasingly choosing these tiles for their ability to illuminate spaces, enhance room proportions, and harmonize effortlessly with any color scheme, whether in a matte or glossy finish. These tiles contribute to a serene, hotel-like ambiance within the home.
+        </p>
+
+        <p><strong>Benefits of Modern Italian Tiles:</strong></p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Versatile for use in bathrooms, kitchens, balconies, and utility areas</li>
+          <li>Infuse a clean, modern aesthetic into any interior</li>
+          <li>The bright white hue can visually expand smaller spaces</li>
+          <li>Easily paired with wood, metal, natural stone, or vibrant decor</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Beige Marble: Warm, Timeless & Perfect for Indian Homes
+        </h2>
+
+        <p>
+          This year, the stone that has captured the hearts and minds of interior designers is paving in beige marble. It works well with many lighting styles and architectural layouts in Indian homes because it has a soft, warm color palette. In addition, beige marble matches all of the popular color palettes, such as white and gold and wood and earth tones, in 2025.
+        </p>
+
+        <p><strong>Some Reasons Why Beige Marble Is So Popular:</strong></p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Creates a relaxed, welcoming, and soft feeling in your home</li>
+          <li>Fits perfectly in both modern and traditional homes</li>
+          <li>Very low visual noise allows for an easy minimalist design style.</li>
+          <li>Comes in a variety of imported and high-end Indian marble</li>
+        </ul>
+
+        <p>
+          Because of the way beige marble adds a sense of sophistication to a room without overwhelming it, it is becoming very popular for the master bedroom, dining room, and living room of premium homes.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Modern White Tiles: Clean, Minimal & Perfect for Contemporary Spaces
+        </h2>
+
+        <p>
+          In 2025, with the rise of minimalist architecture, a new trend is starting to develop: modern white tiles! Homeowners are turning towards white tiles; they can brighten up a space, enhance proportions within the room, and support any color palette, whether they are matte or glossy. Modern white tiles help create a calm, hotel-like atmosphere in the home.
+        </p>
+
+        <p><strong>Modern White Tiles' Advantages:</strong></p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Can be used in bathrooms, kitchens, balconies, and utility rooms</li>
+          <li>Add a crisp and clean modern aesthetic to the interior</li>
+          <li>Utilize white color to make small rooms appear larger.</li>
+          <li>Modern white tiles are easy to pair with wood, metal, natural stone, or color-rich décor.</li>
+        </ul>
+
+        <p>
+          In luxury homes, marble installations are frequently paired with modern white tile for a combination of beauty and functionality.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          A New Wave of Home Interior Trends for 2025
+        </h2>
+
+        <p>This year's most popular styles for home interiors are being influenced by specific philosophies regarding how materials should be used.</p>
+
+        <h3 className="text-xl font-semibold">a. Seamless Surfaces & Oversized Stones</h3>
+        <p>
+          This year homeowners are selecting oversized or large-format (large slab) tiles to achieve a seamless design flow throughout their home. From the dramatic look of Italian marble throughout the living space to soft-toned beige marble in the bedrooms, using large-format (seamless) surfaces provides an incredible illusion of space and creates a clean, modern aesthetic.
+        </p>
+
+        <h3 className="text-xl font-semibold">b. Soft Neutrals & Earthy Tones</h3>
+        <p>
+          2025 is defined by the use of soft neutrals, which include cream, beige, sand, and warm white accents for peaceful and sophisticated interiors.
+        </p>
+
+        <h3 className="text-xl font-semibold">c. Minimalist Luxury</h3>
+        <p>
+          Minimaist luxury is achieved by using modern white tile and soft-colored marble. This approach emphasizes clean lines and simple designs. Quality materials are emphasized throughout this approach.
+        </p>
+
+        <h3 className="text-xl font-semibold">d. Natural Finished Surfaces</h3>
+        <p>
+          More and more homeowners are preferring to use honed, matte, and satin finishes to showcase the beauty of the stone in its natural state without the use of unnecessary shine.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          How Imported Marble Elevates Home Interiors in 2025
+        </h2>
+
+        <p>
+          Although there are many different types of materials that can create a stunning façade, nothing will replicate the elegance of premium imported marble. Italian marble flooring represents the ultimate form of elegance when applied to homes, as do the exotic beige colors.
+        </p>
+
+        <p><strong>Benefits of Imported Marble:</strong></p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>Highest Hardness and Durability</li>
+          <li>Provides Unusual Pattern Creation with Natural Veining</li>
+          <li>Results in Higher Resale Value of a Luxury Home</li>
+          <li>Long-Lasting Shine with Minimal Care</li>
+        </ul>
+
+        <p>
+          For those who desire to stand out, exotic materials such as onyx, travertine, and semi-precious stones continue to gain traction as statement-making materials for the modern homeowner.
+        </p>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Designing Different Areas of the Home with Modern Trends
+        </h2>
+
+        <p>The modern trends of designing different areas in a home.</p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>
+            The living room features Italian marble flooring. It's enhanced by neutral-colored rugs, warm light fixtures, and a minimalist design style.
+          </li>
+          <li>Bedroom spaces feature soft beige marble flooring to keep them cozy and warm. Natural linens and wood textures are the perfect match.</li>
+          <li>Bathrooms with modern white tile have a spa-like feeling to them. Matte finishes provide a luxurious appearance without excessive shine.</li>
+          <li>Kitchens with white tile and beige marble counters offer a stunning and sophisticated result. They are easy to care for, durable, and will never go out of style.</li>
+          <li>Balcony/outdoor areas provide a textured finish with white/beige tile options. Matte finishes make it easier to avoid slipping.</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Expert Tips for Choosing the Right Flooring in 2025
+        </h2>
+
+        <p>Here is some practical information to help you choose the best trending materials that will most benefit your home.</p>
+
+        <ul className="list-disc ml-6 space-y-2">
+          <li>If you want to add warmth, versatility, and timeless beauty, go with beige marble.</li>
+          <li>If you want to create a luxury interior, consider Italian marble flooring.</li>
+          <li>If you want clean, minimalist, easy-to-maintain spaces, choose modern white tiles.</li>
+          <li>For maximum durability and a modern aesthetic, try natural finishes.</li>
+          <li>Choosing full slabs provides consistency in pattern and color.</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold mt-6">
+          Conclusion: A New Era of Luxury Home Design
+        </h2>
+
+        <p>
+          With its focus on both eternal luxury and functional aesthetics, 2025 will see Indian homes continuing to favor natural materials that create the wow factor—specifically Italian marble, beige marble, and the new white marble. The continued popularity of these premium finishes demonstrates a desire by homeowners to establish an elegant, timeless, and long-lasting home environment.
+        </p>
+
+        <p>
+          The elements included in the construction of a home are not limited to what is trendy; as such, each person will have their own preference for materials based on their dream interior design. Based on what has been stated above, I believe that the materials discussed in this post will be a major part of creating an elegant, balanced, and ultimately, personally designed home for every homeowner in India, regardless of if you are building from scratch or have just completed renovations.
+        </p>
+
+      </div>
+    )
+  },
+
+  {
+    id: 7,
+    title: "Best Imported & Natural Marble Suppliers in Delhi & India: How to Choose a Trusted Brand",
+    slug: "best-imported-natural-marble-suppliers-delhi-india",
+    author: "Malani Marbles Pvt. Ltd.",
+    date: "December 2025",
+    category: "Home Interior Trends",
+    thumbnail: "https://i.postimg.cc/q7WY5MXq/Blog-Image-2.jpg",
+    canonical: "https://www.malanimarbles.com/blog/best-imported-natural-marble-suppliers-delhi-india",
+    metaTitle: "Top Marble Suppliers in Delhi & India | Imported & Natural Marble",
+    metaDescription:
+      "Find the best imported & natural marble suppliers in Delhi & India for premium home and commercial projects.",
+
+    content: (
+      <div className="space-y-6">
+
+
+        <p>
+          Typically marble is recognized as a symbol of luxury and the highest degree of class, elegance, and sophistication. When it is added to a room, it has the ability to dramatically enhance the beauty of the space and to help further a homeowner's vision of their desired design style and motivation. It is crucial to first find a trusted and seasoned supplier for imported and natural marble stone who operates in Delhi and India.
+        </p>
+
+        <p>
+          Marble is a product that is unique from other types of stone, as it is completely natural and cannot be made in a factory. It can be found in quarries around the globe—located in Italy, Turkey, Brazil, Vietnam, Spain, Greece, Iran, and many other nations—and is processed, cut, polished, and finished using marble suppliers. Without a doubt, the choice of a reputable and trustworthy marble supplier is a substantial factor for a homeowner when selecting their stone material.
+        </p>
+
+        <p>
+          An established marble supplier will offer the homeowner a combination of quality, clarity, and many years of experience. A less established marble supplier could also ruin the homeowner's dream design by offering a low-quality marble product.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Why Choosing the Right Marble Supplier Matters More Than the Stone Itself
+        </h2>
+
+        <p>
+          Most consumers only consider the cost or color of marble when comparing products. There are numerous differences between products offered by other companies and those found at the local Home Depot, which you may not be able to see in the showrooms...
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Are they providing moisture tests?</li>
+          <li>Will the polish remain intact for 10+ years? (or is it just for the showroom?)</li>
+          <li>Do batches of marble retain the same color? (or do you get a few that are totally different?)</li>
+          <li>Is the stone real or made out of artificial materials?</li>
+        </ul>
+
+        <p>
+          Based on these questions, the answer to whether the brand you choose can guarantee that each marble slab will look great after installation will determine your choice of marble company.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Factors That Define a Reliable Marble Supplier
+        </h2>
+
+        <p>
+          Since selecting your marble will be one of the largest investments of your time and money, it’s worth looking into the potential benefits of using natural stones over man-made materials; therefore, establish clarity with regard to identifying the highest quality natural and imported marble suppliers in India.
+        </p>
+
+        <h3 className="text-xl font-semibold">Authentic Sourcing With Proven Origin</h3>
+
+        <p>
+          The top suppliers to today's market source their marble directly from reputable quarries. By doing this, they are able to guarantee:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Stone purity</li>
+          <li>Long-lasting durability</li>
+          <li>Natural white veins, not artificially printed</li>
+          <li>No mixing of inferior batches with quality material</li>
+        </ul>
+
+        <p>
+          All high-end Italian marble, onyx, beige marble, travertino, Brazilian granite, and other luxury stone products must provide full transparency of their supply sources.
+        </p>
+
+        <h3 className="text-xl font-semibold">Expertise in Processing & Finishing</h3>
+
+        <p>
+          As a stone product that cannot be produced, the final product is dependent on the quality of the processing of the stone.
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Consistent thickness of slabs</li>
+          <li>Quality of edge finishing</li>
+          <li>Polished to a uniform</li>
+          <li>The strength of slabs after they have been resin-treated.</li>
+        </ul>
+
+        <p>
+          When you use a reputable supplier of natural stone, the slabs you receive will be prepared for easy installation; meaning, there will be consistent thickness and colors on all slabs.
+        </p>
+
+        <h3 className="text-xl font-semibold">Guidance Based on Space & Usage</h3>
+
+        <p>
+          Each type of stone has its ideal application. Here are some examples:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Soft Onyx can be used to create stunning feature walls and backlit/on displays.</li>
+          <li>Italian Marble looks spectacular when used for flooring in a Living Room.</li>
+          <li>Granite is the best option for kitchen countertops.</li>
+          <li>Beige Marble adds warmth to a bedroom or lounge area.</li>
+        </ul>
+
+        <p>
+          A reliable supplier also serves as a consultant and collaborates with clients to choose the most appropriate stone, based on their lifestyle and furnishing aspirations.
+        </p>
+
+        <h3 className="text-xl font-semibold">Transparent Pricing</h3>
+
+        <p>
+          The price differences lead to confusion for consumers: “Why does one showroom have such different prices for this same ‘type’ of marble than other showrooms?” The response to this is simple: quality, source, and finish levels all affect how much the actual product costs.
+        </p>
+
+        <p>
+          A reputable company that publishes a clear price list on all types of marble in India from the best suppliers provides consumers with:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>No undisclosed fees</li>
+          <li>No inferior products after selection</li>
+          <li>True Value for Money</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold">
+          How Homeowners Can Shortlist the Right Supplier
+        </h2>
+
+        <p>Here are a few signs that immediately show whether you are dealing with the right brand:</p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Reliable Supplier</li>
+          <li>Unreliable Supplier</li>
+          <li>Transparent stock display</li>
+          <li>Partial stock, poor lighting</li>
+          <li>Batch consistency</li>
+          <li>Mix-matched slabs</li>
+          <li>In-house processing</li>
+          <li>Outsourced low-quality cutting</li>
+          <li>Guidance & recommendations</li>
+          <li>Only selling mentality</li>
+          <li>After-sales support</li>
+          <li>Zero accountability</li>
+        </ul>
+
+        <p>
+          Interior experts generally look for long-term value, not just visual appeal — and that comes only from certified, high-grade stone.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Why Many Architects Prefer Malani Marbles Pvt. Ltd.
+        </h2>
+
+        <p>
+          There are numerous reasons why architects and homeowners frequently recommend Malani Marbles Pvt. Ltd. as their choice for high-quality imported/natural marble suppliers throughout Delhi and India besides promoting with excessive energy and promoting the image of the company:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>A broad selection of luxury marble from countries such as Italy, Turkey, Greece, Spain, Brazil, etc.</li>
+          <li>Consultation services are conducted by highly qualified personnel, based upon project requirements and design style.</li>
+          <li>High-technology equipment is utilized to produce marbles, which can be installed without the need for additional trim pieces.</li>
+        </ul>
+
+        <p>
+          Malani Marbles has gained a positive reputation due to the following:
+        </p>
+
+        <p>
+          Clients always report the company's ability to deliver exactly what they purchased—this is one of the most significant issues facing clients in the marble sector.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Final Thought: A Trusted Marble Supplier Protects Your Vision & Investment
+        </h2>
+
+        <p>
+          Selling a piece of marble is a common thing for people, but transforming that slab into an amazing living area that can be enjoyed for years to come without losing luster or aesthetic value is quite rare.
+        </p>
+
+        <p>
+          When looking for suppliers to support your project:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Don't make your decision solely based upon the lowest bidder.</li>
+          <li>Didn't base your decision solely on who was the most recognized.</li>
+          <li>Choose the supplier who can provide you with guidance and support in the selection of your space.</li>
+        </ul>
+
+        <p>
+          And when a brand like Malani Marbles Pvt Ltd stands with you, you are not just buying marble — you’re investing in lasting beauty, performance and peace of mind.
+        </p>
+
+      </div>
+
+    )
+  },
+  {
+    id:8 ,
+    title: "Choosing the Right Kitchen Countertop: Expert Tips for Long-Term Performance",
+    slug: "Choosing-the-right-kitchen-countertop-expert-tips-for-long-term-performance",
+    author: "Malani Marbles Pvt. Ltd.",
+    date: "December 2025",
+    category: "Kitchen Countertop",
+    thumbnail: "https://i.postimg.cc/N0vgTDL3/Choosing-the-Right-Granite-for-Kitchen-Countertops-Colored-Onyx-Semi-Precious.jpg",
+    canonical: "https://www.malanimarbles.com/blog/Choosing-the-right-kitchen-countertop-expert-tips-for-long-term-performance",
+    metaTitle: "Choosing the Right Kitchen Countertop",
+    metaDescription:
+      " A kitchen countertop is a lot to look at; it's also an area that's often used for food preparation, cleaning, and hosting family dinners, so the decision of which countertop material to choose should involve more than aesthetics.",
+
+    content: (
+      <div className="space-y-6">
+
+       
+
+        <p>
+          A kitchen countertop is a lot to look at; it's also an area that's often used for food preparation, cleaning, and hosting family dinners, so the decision of which countertop material to choose should involve more than aesthetics. Based on my experience over the past 30 years working with clients, architects, and stone specialists, I've experienced firsthand how choosing the right countertop will add value to your kitchen (which is a good thing), and choosing the wrong one will result in ongoing maintenance and possible frustration.
+        </p>
+
+        <p>
+          Kitchen countertops in a modern home should not only look great; they should also be able to withstand the wear and tear associated with everyday life and require minimal upkeep. Many homeowners have various options when it comes to choosing materials for their kitchen countertops, including imported granite for kitchen countertops, Indian granite for high-traffic commercial areas, marble, onyx, semi-precious stones, and the newer generation of engineered stone products.
+        </p>
+
+        <p>
+          This guide will help you narrow down the right countertop options available to you, backed by real-world knowledge and expertise. With this information, you will be able to make a smart choice that will serve you well for years to come.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Why Countertop Selection Matters More Than You Think
+        </h2>
+
+        <p>
+          When deciding on which countertop to buy, aesthetics and appearance are often the deciding factors. However, what is really important is how well the product performs regarding:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Strength and hardness</li>
+          <li>Stain/scratch/heat resistance</li>
+          <li>Longevity</li>
+          <li>Maintenance</li>
+          <li>Price tag and quality of installation</li>
+          <li>How compatible it will be with your lifestyle</li>
+        </ul>
+
+        <p>
+          If you are a cook, host many social gatherings, or operate a very active kitchen, the decision will be even more critical. That’s why the folks at Malani Marbles Pvt Ltd recommend looking at both aesthetics and function when choosing any countertop. You want your countertop to withstand your day-to-day activities, not simply be similar to your cabinetry design.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Imported Granite: The Most Reliable Choice for Indian Kitchens
+        </h2>
+
+        <p>
+          For families who cook frequently — especially Indian cooking with oil, spices, tadka and high heat — imported granite for kitchen countertops is one of the safest choices.
+        </p>
+
+        <h3 className="text-xl font-semibold">Why Homeowners Prefer Imported Granite</h3>
+
+        <p>
+          Based on what I have seen, only some of the highest-quality granites in the world come from Brazil, Turkey, Norway, and Ukraine, all of which provide the following characteristics that allow them to excel in performance:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>High hardness</li>
+          <li>High resistance to scratching</li>
+          <li>High resistance to staining</li>
+          <li>Proven heat tolerance</li>
+          <li>Maintenance-Free</li>
+          <li>Lifespan longevity of 15 to 25 years on average</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold">
+          Indian Granite: Durable, Affordable & Practical for Busy Kitchens
+        </h2>
+
+        <p>
+          India is home to some of the world's best granites that are known for their stability, low cost, and longevity in terms of quality. Therefore, it is very common for designers to recommend using Indian granites in high-traffic commercial areas and busy kitchens.
+        </p>
+
+        <h3 className="text-xl font-semibold">Why Indian Granite Works Extremely Well</h3>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Extremely cost-effective</li>
+          <li>Very durable and resistant to scratches</li>
+          <li>Wide range of colors and patterns</li>
+          <li>Minimal upkeep</li>
+          <li>Available in large slabs, which can support modern kitchen design standards</li>
+        </ul>
+
+        <p>
+          Some of the more popular Indian granite varieties include Black Galaxy, Kashmir White, Royal Red, Steel Grey, and Hassan Green.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Marble for Kitchens: When Is It a Good Choice?
+        </h2>
+
+        <p>
+          Many homeowners wonder whether or not they should use marble in their kitchens, and the answer is yes – to a point. While marble has beautiful elegance, it is also much softer than granite, which is why architects generally place it in high-end kitchens where regular maintenance is done.
+        </p>
+
+        <h3 className="text-xl font-semibold">Best Use Cases for Marble</h3>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>A luxury/classic look is important to you.</li>
+          <li>You cook less often.</li>
+          <li>Your kitchen does not see heavy traffic from family members.</li>
+          <li>You enjoy natural patterns and softer colors that marble comes in.</li>
+        </ul>
+
+        <p>
+          <strong>IMPORTANT!</strong> Marble is soft as a stone, it will require frequent sealing and thorough cleaning every day if you prepare food daily!
+        </p>
+
+        <p>
+          I usually ask clients if they have a preference for granite or marble, then I compare the characteristics of granite vs. marble so they can make an informed decision based on their personal needs.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Onyx Countertops: Luxury, Not Heavy-Duty
+        </h2>
+
+        <p>
+          Onyx is one of the most beautiful stones with translucent patterns — perfect for backlit bars, islands or display counters. But is it ideal for kitchen worktops? Not really.
+        </p>
+
+        <p>Onyx is:</p>
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Softer</li>
+          <li>Easy to scratch</li>
+          <li>Prone to staining</li>
+          <li>More decorative than functional</li>
+        </ul>
+
+        <h3 className="text-xl font-semibold">When to Use Onyx</h3>
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Breakfast counters</li>
+          <li>Islands used for serving, not cooking</li>
+          <li>Accent designs</li>
+          <li>Display zones</li>
+        </ul>
+
+        <p>Use it to beautify the kitchen, not for hardcore cooking areas.</p>
+
+        <h2 className="text-2xl font-semibold">
+          Semi-Precious Countertops: Artistic & Premium
+        </h2>
+
+        <p>
+          If you would like to create a statement kitchen in terms of uniqueness, semi-precious natural stone can be a wonderful choice, as it offers a very limited number of options. Semi-precious natural stone surfaces are:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Handmade</li>
+          <li>Bright</li>
+          <li>Artistic</li>
+          <li>Extraordinarily high-end</li>
+        </ul>
+
+        <p>
+          Semi-precious stones should be used primarily for Islands, Bar tops, and Highlight areas. Whereas, semi-precious stones would not be the best choice for use as the primary cooking surface slab.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Granite vs Marble: Which Is Better for Kitchens
+        </h2>
+
+        <p>
+          One of the most searched topics is the comparison between granite and marble for kitchens— so here’s a simple, experience-backed explanation:
+        </p>
+
+        <div className="overflow-x-auto">
+          <table className="min-w-full text-left border-collapse">
+            <thead>
+              <tr className="border-b">
+                <th className="py-2 font-semibold">Feature</th>
+                <th className="py-2 font-semibold">Granite</th>
+                <th className="py-2 font-semibold">Marble</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y">
+              <tr>
+                <td className="py-2">Hardness</td>
+                <td className="py-2">Higher</td>
+                <td className="py-2">Lower</td>
+              </tr>
+              <tr>
+                <td className="py-2">Stain Resistance</td>
+                <td className="py-2">Strong</td>
+                <td className="py-2">Moderate</td>
+              </tr>
+              <tr>
+                <td className="py-2">Heat Resistance</td>
+                <td className="py-2">Excellent</td>
+                <td className="py-2">Good</td>
+              </tr>
+              <tr>
+                <td className="py-2">Maintenance</td>
+                <td className="py-2">Low</td>
+                <td className="py-2">Medium</td>
+              </tr>
+              <tr>
+                <td className="py-2">Scratch Resistance</td>
+                <td className="py-2">High</td>
+                <td className="py-2">Low</td>
+              </tr>
+              <tr>
+                <td className="py-2">Longevity</td>
+                <td className="py-2">Very High</td>
+                <td className="py-2">Medium–High</td>
+              </tr>
+              <tr>
+                <td className="py-2">Best Use</td>
+                <td className="py-2">Countertops</td>
+                <td className="py-2">Islands, luxury kitchens</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p>
+          Granite is best for working slabs, while marble is best for aesthetics; luxurious effects can be achieved with onyx/semi-precious stone types. This helps to show why companies like Malani Marbles Pvt. Ltd. help their customers by providing guidance/education around how they will be using the stone(s), and not just about what they like to look at.
+        </p>
+
+        <h2 className="text-2xl font-semibold">
+          Trends in Granite Styles & Patterns for 2026
+        </h2>
+
+        <p>
+          Stone trends evolve every year. In 2025, these granite styles and patterns trending in 2026 are dominating:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li><strong>Dark & Bold Granites:</strong> Black, deep blue and dark chocolate shades for modern modular kitchens.</li>
+          <li><strong>Veined & Textured Patterns:</strong> Granites that mimic marble veining are becoming popular.</li>
+          <li><strong>Leather Finish & Satin Finish:</strong> Soft-touch surfaces that hide fingerprints and offer a premium feel.</li>
+          <li><strong>Warm Earthy Tones:</strong> Browns, taupes and warm greys blend beautifully with natural wood kitchens.</li>
+          <li><strong>High-Movement Exotic Granites:</strong> Unique patterns that become the highlight of the kitchen.</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold">
+          Expert Tips to Choose the Right Kitchen Countertop
+        </h2>
+
+        <p>
+          These insights come from years of working with homeowners and architects — practical, real-world tips that help avoid expensive mistakes.
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>
+            <strong>Tip 1: Match the Material to Your Lifestyle.</strong> Daily cooking → Choose durable stones. Occasional cooking → Marble or exotic options work too.
+          </li>
+          <li>
+            <strong>Tip 2: Consider Heat & Stain Resistance.</strong> If you use hot pans, spicy tadkas or oil-heavy dishes — granite is better.
+          </li>
+          <li>
+            <strong>Tip 3: Think About Maintenance.</strong> Ask yourself: “Do I want a low-maintenance surface?” If yes → go for granite. If no → marble needs more care.
+          </li>
+          <li>
+            <strong>Tip 4: Choose the Right Thickness.</strong> 18mm and 20mm slabs are standard, but bevelled edges add strength and aesthetic appeal.
+          </li>
+          <li>
+            <strong>Tip 5: Check the Stone in Natural Light.</strong> Different lighting changes how the slab looks — always check before buying.
+          </li>
+          <li>
+            <strong>Tip 6: Buy From a Trusted Supplier.</strong> Quality control, processing, and finishing have a greater impact on a marble slab than the quality of the stone itself.
+          </li>
+        </ul>
+
+        <p>
+          A professional marble distributor such as Malani Marbles Private Limited provides the following:
+        </p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Authentic Supply</li>
+          <li>Accurate Calibration</li>
+          <li>No Structural Cracking</li>
+          <li>Proper Finishing</li>
+          <li>Long-term Support</li>
+        </ul>
+
+        <h2 className="text-2xl font-semibold">
+          Final Thought: Your Kitchen Countertop Should Serve You for Years
+        </h2>
+
+        <p>
+          The process of selecting a countertop does not necessarily mean that you should go for the priciest stone available. When selecting countertop material, you should consider what type of lifestyle you lead, how often you cook, and how you want to decorate your home.
+        </p>
+
+        <p>The following should all be factored into your countertop decision:</p>
+
+        <ul className="list-disc ml-6 space-y-1">
+          <li>Look beyond the color of your countertop material and focus on how durable it is.</li>
+          <li>Don't compromise on the quality of the material you select.</li>
+          <li>Decide what type of countertop material you will use on a daily basis.</li>
+          <li>Look for a countertop material that will give you the longevity you need, not a style that is just "in" at the moment.</li>
+          <li>Use a supplier that will help you, not just sell you a stone.</li>
+        </ul>
+
+        <p>
+          When you work with Malani Marbles Pvt. Ltd. and have the right stone, your kitchen will look great for years to come.
+        </p>
+
+      </div>
+
+    )
   }
+
 
 
 ];

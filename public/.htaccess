@@ -1,19 +1,27 @@
+# ==========================
+# Force HTTPS and WWW
+# ==========================
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
+
+  # Force HTTPS and WWW (canonical redirect)
+  RewriteCond %{HTTPS} off [OR]
+  RewriteCond %{HTTP_HOST} !^www\. [NC]
+  RewriteRule ^ https://www.malanimarbles.com%{REQUEST_URI} [L,R=301]
 
   # Don’t rewrite existing files or directories
   RewriteCond %{REQUEST_FILENAME} -f [OR]
   RewriteCond %{REQUEST_FILENAME} -d
   RewriteRule ^ - [L]
 
-  # Redirect everything else to index.html
+  # SPA Routing (React/Vite App)
   RewriteRule ^ index.html [L]
+</IfModule>
 
 # ==========================
 # 301 Redirects for old URLs
 # ==========================
-
 Redirect 301 /product-swiper.html https://www.malanimarbles.com/
 Redirect 301 /Granites.html https://www.malanimarbles.com/marble-collection/indian-granite
 Redirect 301 /Brazilian-granites.html https://www.malanimarbles.com/marble-collection/brazilian-granite
@@ -39,5 +47,3 @@ Redirect 301 /img/Beige/BARBARI%20BEIGE.webp https://www.malanimarbles.com/
 Redirect 301 /Coloured.html https://www.malanimarbles.com/marble-collection/coloured-marble
 Redirect 301 /White.html https://www.malanimarbles.com/marble-collection/white-marble
 Redirect 301 /full-space-gallery-slider.html https://www.malanimarbles.com/
-
-</IfModule>

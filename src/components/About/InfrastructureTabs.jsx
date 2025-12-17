@@ -75,7 +75,7 @@ const tabs = [
               </p>
               <div className="mt-4">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14027.989543472555!2d77.17098420209169!3d28.479625373102525"
+                  src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d112223.34890030006!2d77.1909714!3d28.4801594!3m2!1i1024!2i768!4f13.1!2m1!1smalani%20marbles%20delhi%20stockyard!5e0!3m2!1sen!2sin!4v1765009608667!5m2!1sen!2sin"
                   width="250"
                   height="180"
                   className="rounded-lg"
@@ -132,7 +132,7 @@ const tabs = [
                     110074
                   </p>
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.533768825785!2d77.18368807526527!3d28.463467691738437"
+                    src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d28057.962475030392!2d77.15508360568347!3d28.47215811688095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sFarm%20Number%206%20Bandh%20Road%203rd%20Avenue%2C%20Chatarpur%2C%20Delhi%20110074!5e0!3m2!1sen!2sin!4v1765009506173!5m2!1sen!2sin"
                     width="200"
                     height="120"
                     className="rounded-lg"
@@ -143,11 +143,10 @@ const tabs = [
                 </div>
                 <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
                   <p className="text-sm">
-                    F2: A 11 Shani Dham Mandir Road, Asola, Chatarpur, New Delhi
-                    110074
+                    F2: A 11 , Asolo Farms. Near Shanidham Mandir Road, Chattarpur, New Delhi - 110074
                   </p>
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.4201659055875!2d77.17069399678955!3d28.466890500000016"
+                    src=" https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d28057.981688806016!2d77.15508362295012!3d28.472085770176545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sA%2011%20%2C%20Asolo%20Farms.%20Near%20Shanidham%20Mandir%20Road%2C%20Chattarpur%2C%20New%20Delhi%20-%20110074!5e0!3m2!1sen!2sin!4v1765009440506!5m2!1sen!2sin"
                     width="200"
                     height="120"
                     className="rounded-lg"

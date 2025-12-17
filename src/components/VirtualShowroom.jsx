@@ -119,6 +119,11 @@ export default function VirtualShowroom() {
       thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/WHITE%20%C2%ADQUARTZ.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/Living-Room/White%20Quartz.webp",
     },
+    {
+      id: "tile9",
+      thumb: "https://i.postimg.cc/ncsFG5PJ/Avocado.jpg",
+      scene: "https://i.postimg.cc/nr3X9DrC/Avacado.jpg",
+    },
 
   ];
   // parkinglot thumbnails and scenes 
@@ -178,11 +183,11 @@ export default function VirtualShowroom() {
       thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20ROMA.webp",
       scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BLUE%20-%20ROMA.webp",
     },
-    // {
-    //   id: "tile3",
-    //   thumb: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp",
-    //   scene: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/room-wall/BULGARY%20-%20GRAY.webp",
-    // },
+    {
+      id: "tile3",
+      scene: "https://i.postimg.cc/j2MDn725/Avacado_(1).jpg",
+      thumb: "https://i.postimg.cc/ncsFG5PJ/Avocado.jpg",
+    },
     {
       id: "tile4",
       thumb: "https://i.postimg.cc/43yfdjTs/DARK-EMPERADOR-EXTRA.jpg",

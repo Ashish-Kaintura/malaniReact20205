@@ -126,11 +126,7 @@ export default function ContactUs() {
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
                   <p className="text-gray-600 sm:max-w-sm mx-auto">
-                    MALANI MARBLES PVT. LTD.
-                    A-11 , Asola Farms ,
-                    Near Shanidham Mandir Road ,
-                    Chattarpur , New Delhi - 110074.
-                    Mobile No. 9811012011
+                    A 11 , Asolo Farms. Near Shanidham Mandir Road, Chattarpur, New Delhi - 110074
                   </p>
                 </div>
               </div>
