@@ -1580,10 +1580,7 @@ const blogs = [
       (
         <div className="space-y-6">
 
-          <h2 className="text-2xl font-semibold">
-            Travertine & Semi-Precious Stones: The New Trend in High-End Interior Materialism
-          </h2>
-
+        
           <p>
             For centuries, interior design has always mirrored how we live; however, more recently, interior design is mirroring how we think. In the past homeowners were satisfied with materials only looking good; however, now they also expect surfaces that have a sense of rarity, have been used with intention, and will create long-standing memories associated with the surface(s)—an approach often guided by experienced stone specialists such as Malani Marbles Pvt Ltd.
           </p>
