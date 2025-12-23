@@ -7,14 +7,14 @@ const tabs = [
     name: "Processing Center",
     content: (
       <div className="space-y-10">
-        <motion.h1
+        <motion.h2
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           className="text-center text-3xl sm:text-5xl font-semibold text-gray-900"
         >
           Technology + Expertise = Reliability
 
-        </motion.h1>
+        </motion.h2>
         <p className="text-center text-sm max-w-3xl mx-auto text-gray-700">
           With the combination of cutting-edge machinery and our team of experts, we are diligent in processing and sending every order with care and precision. We have the capability to serve the whole of India, with bulk handling potential and a focus on the customer.We partner with you in projects of any size!
 
@@ -27,9 +27,9 @@ const tabs = [
               className="w-full sm:w-96 h-64 object-cover rounded-lg"
             />
             <div className="max-w-3xl">
-              <h2 className="text-2xl font-bold mb-4 text-gray-900 ">
+              <h3 className="text-2xl font-bold mb-4 text-gray-900 ">
                 Delhi, NCR, Chattarpur and Kishangarh.
-              </h2>
+              </h3>
               <p className="text-gray-700 leading-relaxed">
                 At Malani Marble's state-of-the-art processing center, we blend
                 age-old craftsmanship with modern innovation to bring you the
@@ -94,9 +94,9 @@ const tabs = [
     name: "Stockyards",
     content: (
       <div className="space-y-10">
-        <h2 className="text-center text-3xl sm:text-5xl font-semibold text-gray-900">
+        <h3 className="text-center text-3xl sm:text-5xl font-semibold text-gray-900">
           Extensive Stockyards & Modern Facilities
-        </h2>
+        </h3>
         <p className="text-center text-sm text-gray-700">
           We are proud to operate one of the biggest marble stockyards in India, with state-of-the-art technology that keeps all material free from water, dirt, and damage to preserve the natural beauty and strength of marble, granite, and other stones throughout all stages from storage to delivery.
 

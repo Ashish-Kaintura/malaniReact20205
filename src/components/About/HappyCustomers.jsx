@@ -27,12 +27,12 @@ export default function HappyCustomers() {
   return (
     <section className="py-16 bg-gradient-to-b from-gray-50 to-white">
       <div className="max-w-7xl mx-auto px-6 text-center">
-        <h2 className="text-5xl font-bold text-center text-red-600 mb-12">
+        <h3 className="text-5xl font-bold text-center text-red-600 mb-12">
           Happy customers
           <span className="block text-lg font-normal mt-2 text-red-600">
             Your satisfaction is our pride <br /> Since 1997
           </span>
-        </h2>
+        </h3>
 
         <Swiper
           modules={[Autoplay, Pagination]}

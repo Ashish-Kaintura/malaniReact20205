@@ -90,12 +90,12 @@ export default function MarbleCollection() {
                   className="w-full h-72 object-cover transition-transform duration-500 group-hover:scale-110"
                 />
                 <div className="absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">
-                  <h2 className="text-xl font-semibold text-white tracking-wide text-center">
+                  <h3 className="text-xl font-semibold text-white tracking-wide text-center">
                     {cat.name}
-                  </h2>
+                  </h3>
                 </div>
                 <div className="text-center p-4">
-                  <h2>{cat.name}</h2>
+                  <h3>{cat.name}</h3>
                 </div>
               </Link>
             </motion.div>

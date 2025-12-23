@@ -47,9 +47,9 @@ export default function PrivacyPolicy() {
 
                     {/* Information We Collect */}
                     <section className="border-b border-gray-200 dark:border-gray-700 pb-8">
-                        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+                        <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
                             Information We Collect
-                        </h2>
+                        </h3>
                         <p className="mb-4">
                             We may collect the following forms of information while visiting our website:
                         </p>

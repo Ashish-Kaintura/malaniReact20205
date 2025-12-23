@@ -88,7 +88,7 @@ export default function VisionMission() {
         }}
       >
         <div className="max-w-7xl mx-auto text-center text-white">
-          <h2 className="text-4xl font-bold mb-6">Our Mission</h2>
+          <h3 className="text-4xl font-bold mb-6">Our Mission</h3>
           <p className="text-lg leading-relaxed bg-black/50 p-6 rounded-xl shadow-lg">
             At Malani Marbles Pvt. Ltd, we strive to exceed all of our clients’ expectations by providing excellent value in every product and service we offer. From our top-quality natural marble and stone products and special design and installation services to our reliability and quality, we deliver high quality every time.
 
