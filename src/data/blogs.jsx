@@ -2024,7 +2024,7 @@ const blogs = [
     author: "Malani Marbles Pvt. Ltd.",
     date: "January 2025",
     category: "Contemporary Surface Design",
-    thumbnail: "https://i.postimg.cc/CL6nhV7r/Blog-Image-White-Black-and-Gray-Tiles-for-Floors-Walls.jpg", // Placeholder for your image
+    thumbnail: "https://i.postimg.cc/3ws6LTsx/Blog_Image_The_Best_Marble_Supplier_in_Delhi_for_Premium_Home_Interiors.jpg", // Placeholder for your image
     canonical: "https://www.malanimarbles.com/blog/the-best-marble-supplier-in-delhi-for-premium-home-interiors",
     metaTitle: "Best Marble Supplier in Delhi for Premium Home Interiors | Malani Marbles",
     metaDescription:
