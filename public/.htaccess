@@ -23,6 +23,7 @@
 # 301 Redirects for old URLs
 # ==========================
 Redirect 301 /product-swiper.html https://www.malanimarbles.com/
+Redirect 301 /Beige-marble-texture https://www.malanimarbles.com/marble-collection/beige-marble
 Redirect 301 /Granites.html https://www.malanimarbles.com/marble-collection/indian-granite
 Redirect 301 /Brazilian-granites.html https://www.malanimarbles.com/marble-collection/brazilian-granite
 Redirect 301 /Beige.html https://www.malanimarbles.com/marble-collection/beige-marble
