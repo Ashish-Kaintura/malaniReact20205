@@ -17,7 +17,7 @@ function FilterGrid() {
         type: "Popular Marble",
       },
       {
-        title: "Honey Onyx",
+        title: "MEXICAN ONYX	YELLOW	",
         // img: "https://images.pexels.com/photos/6394687/pexels-photo-6394687.jpeg",
         img:"https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/honey-onyx.webp",
         type: "Popular Marble",

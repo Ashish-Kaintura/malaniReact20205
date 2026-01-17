@@ -413,8 +413,9 @@
             {
                 "name": "Adhunik Brown",
                 "slug": "adhunik-brown",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/ADHUNIK%20BROWN.webp"
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/Avaocado%20(Imported).webp"
             },
+            
             {
                 "name": "Adhunik Grey",
                 "slug": "adhunik-grey",
@@ -678,6 +679,16 @@
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20ROMA.webp",
         "products": [
             {
+                "name": "Avaocado",
+                "slug": "avaocado ",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Avaocado%20(Imported).webp"
+            },
+            {
+                "name": "Blue Onyx",
+                "slug": "Blue Onyx",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20Onyx(Imported).webp"
+            },
+            {
                 "name": "Amazonite",
                 "slug": "amazonite",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/amazonite.webp"
@@ -771,9 +782,44 @@
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
         "products": [
             {
+                "name": "Amethyst ",
+                "slug": "amethyst",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/AMETHYST%20(SEMI%20PRECIOUS).webp"
+            },
+            {
+                "name": "Blue Agate",
+                "slug": "blue-agate",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLUE%20AGATE%20(Imported%20Semiprecious).webp"
+            },
+            {
+                "name": "Blue Labourador",
+                "slug": "blue-labourador",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLUE%20LABOURADOR%20(SEMIPRECIOUS).webp"
+            },
+            {
+                "name": "Golden Tiger",
+                "slug": "golden-tiger",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLUE%20LABOURADOR%20(SEMIPRECIOUS).webp"
+            },
+            {
+                "name": "Patrafaid Wood",
+                "slug": "patrafaid-wood",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/PETRIFIED%20WOOD.webp"
+            },
+            {
+                "name": "Tiger Eyes Agathe",
+                "slug": "tiger-eyes-agathe",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/TIGER%20EYES%20AGATHE(Imported%20Semiprecious).webp"
+            },
+            {
                 "name": "Black Agate",
                 "slug": "black-agate",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
+            },
+            {
+                "name": "White Agate ",
+                "slug": "white-agate ",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/White%20Agate%20(Imported%20Semipresious).webp"
             },
             {
                 "name": "Black Petrified",
@@ -836,170 +882,9 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/WHITE%20%C2%ADQUARTZ.webp"
             }
         ]
-    },
-    {
-        "title": "PREMIUM BLACK & GREY EXCOTIC MARBLE - AGATA BLACK",
-        "metakeyword": "",
-        "metatitle": "Exclusive Semi-Precious Stones for Luxury Interiors",
-        "metades": "Explore rare semi-precious stone slabs at Malani Marbles — perfect for luxury interiors, feature walls, tabletops, and high-end architectural designs.",
-        "name": "Imported Exotic Marble",
-        "slug": "imported-exotic-marble",
-        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/Semi%20Presious%20Banner.webp",
-        "text": "Agata Black is an imported exotic marble that has an exceptional appearance. The stone's unique blend of dark black and natural gray creates a very bold and aesthetically stunning look. Many designers select Agata Black for high-traffic areas within commercial buildings because it provides a dramatic texture without compromising other elements in the room.  ",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
-        "products": [
-            {
-                "name": "Agata Black",
-                "slug": "agata-black",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Crystallo Tiffani",
-                "slug": "crystallo-tiffani",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Grey Serpay Jayante",
-                "slug": "grey-serpay-jayante",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Brecia Onichita",
-                "slug": "brecia-onichita",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Sliverado Grey",
-                "slug": "sliverado-grey",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Confussion",
-                "slug": "confussion",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Copen Hagen",
-                "slug": "copen-hagen",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Ammaza",
-                "slug": "ammaza",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Peraquet",
-                "slug": "peraquet",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Rossa Macaubas",
-                "slug": "rossa-macaubas",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            }
-        ]
-    },
-    {
-        "title": "PREMIUM AVOCADO GREEN MARBLE | MALANI MARBLE",
-        "metakeyword": "",
-        "metatitle": "Exclusive Semi-Precious Stones for Luxury Interiors",
-        "metades": "Explore rare semi-precious stone slabs at Malani Marbles — perfect for luxury interiors, feature walls, tabletops, and high-end architectural designs.",
-        "name": "Imported Avocado Green Marble",
-        "slug": "imported-avocado-green-marble",
-        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/Semi%20Presious%20Banner.webp",
-        "text": "Predominantly sourced from Europe, Avocado Green is renowned as an exclusive grade marble due to its attractive characteristics: deep rich green coloration, large random flowing patterning, and the fact that it will provide your walls/floors/benchtops/feature areas with a unique look without competing against other elements in your home. The polished finish on the marble enhances the uniqueness of every slab through its natural composition, and because of Malani Marbles Pvt.  ",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
-        "products": [
-            {
-                "name": "Avocado Green",
-                "slug": "avocado green",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            }
-        ]
-    },
-    {
-        "title": "Premium Imported Blue Onyx Marble | Malani Marbles",
-        "metakeyword": "",
-        "metatitle": "Exclusive Semi-Precious Stones for Luxury Interiors",
-        "metades": "Explore rare semi-precious stone slabs at Malani Marbles — perfect for luxury interiors, feature walls, tabletops, and high-end architectural designs.",
-        "name": "Imported Blue Onyx",
-        "slug": "imported-blue-onyx",
-        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/Semi%20Presious%20Banner.webp",
-        "text": "Blue Onyx is an imported onyx marble that has a rich natural translucence due to the saturated blue tone it carries. This stone is ideal when you need to create a feeling of luxury with your design. Ideal for feature walls, vanity tops, decorative panels, and accent spaces, Blue Onyx can help create a beautiful depth of exclusivity that cannot be achieved with traditional marbles. When polished properly and backlit, Blue Onyx becomes even more beautiful. Malani Marbles is the only trusted supplier of this imported Blue Onyx. It has been carefully selected by the company to ensure that it achieves the highest level of quality, consistency, and visual appeal. Come see the beauty of Blue Onyx for yourself in Blue Onyx  ",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
-        "products": [
-            {
-                "name": "Blue Onyx",
-                "slug": "blue-onyx",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            }
-        ]
-    },
-    {
-        "title": "Imported Tiffany Green Quartzite | Malani Marbles",
-        "metakeyword": "",
-        "metatitle": "Exclusive Semi-Precious Stones for Luxury Interiors",
-        "metades": "Explore rare semi-precious stone slabs at Malani Marbles — perfect for luxury interiors, feature walls, tabletops, and high-end architectural designs.",
-        "name": "Imported Green Quartzite Marble",
-        "slug": "imported-green-quartzite-marble",
-        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/Semi%20Presious%20Banner.webp",
-        "text": "Blue Onyx is an imported onyx marble that has a rich natural translucence due to the saturated blue tone it carries. This stone is ideal when you need to create a feeling of luxury with your design. Ideal for feature walls, vanity tops, decorative panels, and accent spaces, Blue Onyx can help create a beautiful depth of exclusivity that cannot be achieved with traditional marbles. When polished properly and backlit, Blue Onyx becomes even more beautiful. Malani Marbles is the only trusted supplier of this imported Blue Onyx. It has been carefully selected by the company to ensure that it achieves the highest level of quality, consistency, and visual appeal. Come see the beauty of Blue Onyx for yourself in Blue Onyx  ",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
-        "products": [
-            {
-                "name": "Tiffiny Green Quartzite",
-                "slug": "tiffiny green quartzite",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Brazilain Boinical Green Quartzite",
-                "slug": "brazilain-boinical-green-quartzite",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Da Vinci Green Quartzite",
-                "slug": "da-vinci-green-quartzite",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            }
-        ]
-    },
-    {
-        "title": "Premium  Golden Tiger Semi-Precious Marble | Malani Marbles",
-        "metakeyword": "",
-        "metatitle": "Exclusive Semi-Precious Stones for Luxury Interiors",
-        "metades": "Explore rare semi-precious stone slabs at Malani Marbles — perfect for luxury interiors, feature walls, tabletops, and high-end architectural designs.",
-        "name": "Imported Semiprecious Marble",
-        "slug": "imported-semiprecious-marble",
-        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/Semi%20Presious%20Banner.webp",
-        "text": "Golden Tiger Semi-Precious Marble is a beautiful imported marble with warm yellowish-brown tones and amazing natural patterns to enhance any room. The unique veining and semi-precious material of this product ensure that each slab will be different and perfect for creating accent walls, flooring, countertops, and other decorative elements in luxury residential spaces as well as high-end commercial interiors. In combining elegance and strength, Golden Tiger Semi-Precious Marble offers both visual appeal and durability.  ",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
-        "products": [
-            {
-                "name": "Golden Tiger Semiprecious",
-                "slug": "golden-tiger-semiprecious",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Amezonite Semi Precious",
-                "slug": "amezonite-semi-precious",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Blue Labouradour Semiprecious",
-                "slug": "blue-labouradour-semiprecious",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Patrafaid Wood Semi Precious",
-                "slug": "patrafaid-wood-semi-precious ",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            },
-            {
-                "name": "Smokey Quartzite",
-                "slug": "smokey-quartzite",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
-            }
-        ]
     }
+    
+
+    
+    
 ]

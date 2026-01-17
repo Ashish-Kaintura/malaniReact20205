@@ -6,6 +6,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import PrivacyPolicy from "./page/PrivacyPolicy";
+import TileProductDetail from "./page/TileProductDetail";
+import MarbleProductDetail from "./page/MarbleProductDetail";
 
 
 // Lazy load pages
@@ -49,8 +51,17 @@ export default function App() {
           <Route path="/contact" element={<ContactUs />} />
           <Route path="/marble-collection" element={<MarbleCollection />} />
           <Route path="/marble-collection/:slug" element={<MarbleCategory />} />
+          <Route
+            path="/marble-collection/:categorySlug/:productSlug"
+            element={<MarbleProductDetail />}
+          />
           <Route path="/tiles-collections" element={<TilesCollection />} />
           <Route path="/tiles-collections/:slug" element={<TilesCategory />} />
+          <Route
+            path="/tiles-collections/:categorySlug/:productSlug"
+            element={<TileProductDetail />}
+          />
+
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/blog" element={<BlogList />} />
           <Route path="/blog/:slug" element={<BlogDetail />} />

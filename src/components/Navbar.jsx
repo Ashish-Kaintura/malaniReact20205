@@ -29,6 +29,7 @@ export default function Navbar() {
       label: "Marble Collection",
       href: "/marble-collection",
       dropdown: [
+        { label: "Italian Marble", href: "/marble-collection/italian-marble" },
         { label: "Beige", href: "/marble-collection/beige-marble" },
         { label: "Coloured", href: "/marble-collection/coloured-marble" },
         { label: "Onyx", href: "/marble-collection/onyx-marble" },
@@ -40,6 +41,7 @@ export default function Navbar() {
         { label: "Gray", href: "/marble-collection/gray-marble" },
         { label: "Imported Granites", href: "/marble-collection/imported-granites" },
         { label: "Semi Precious", href: "/marble-collection/semi-precious" },
+        
       ],
     },
     {
@@ -97,7 +99,7 @@ export default function Navbar() {
 
                   {/* Dropdown */}
                   {openDropdown === idx && (
-                    <div className="absolute left-0 mt-1 bg-white text-gray-800 shadow-lg rounded-lg py-2 w-48 animate-fadeIn">
+                    <div className="absolute left-0 mt-1 bg-white text-gray-800 shadow-lg rounded-lg py-2 w-48 animate-fadeIn ">
                       {item.dropdown.map((sub, i) => (
                         <NavLink
                           key={i}
