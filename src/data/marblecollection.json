@@ -1,5 +1,28 @@
 [
     {
+        "title": "Premium Italian Marble Collection in India",
+        "metakeyword": "",
+        "metatitle": "",
+        "metades": "",
+        "name": "Italian",
+        "slug": "italian-marble",
+        "banner": "/img/italian/Italian-Marble-Banner.jpeg",
+        "text": "Discover the largest selection of Beige Marble at Malani Marbles Pvt. Ltd., a premier supplier and exporter of beige marble in India. Our expansive collection includes Italian Beige Marble, Imported Beige Marble, and Indian Beige Marble, and can be used for flooring, wall cladding, kitchen countertops, and luxurious interiors. Our Beige Marble slabs are known for their elegant texture, smooth finish, and timeless beauty, and add warmth, sophistication, and durability to any residential and commercial project.",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp",
+        "products": [
+             {
+                "name": "Casa Nova",
+                "slug": "casa-nova",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CASA%20NOVA.webp"
+            },
+            {
+                "name": "Bottochino Classico",
+                "slug": "bottochino-classico",
+                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp"
+            }
+        ]
+    },
+    {
         "title": "Premium Beige Marble Collection in India",
         "metakeyword": "",
         "metatitle": "Beige Marble Collection | Elegant & Natural Stone Finishes",
@@ -304,7 +327,7 @@
             {
                 "name": "Honey Onyx",
                 "slug": "honey-onyx",
-                 "img": "/img/Onyx/HONEY-ONYX.webp"
+                "img": "/img/Onyx/HONEY-ONYX.webp"
             }
         ]
     },
@@ -418,7 +441,7 @@
             {
                 "name": "Adhunik Brown",
                 "slug": "adhunik-brown",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/Avaocado%20(Imported).webp"
+                "img": "https://github.com/Ashish-Kaintura/malaniReact20205/blob/Gallery/Marble%20Collection/granite/ADHUNIK%20BROWN.webp?raw=true"
             },
             {
                 "name": "Adhunik Grey",
@@ -689,7 +712,7 @@
         "products": [
             {
                 "name": "Avaocado",
-                "slug": "avaocado ",
+                "slug": "avaocado",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Avaocado%20(Imported).webp"
             },
             {
@@ -777,12 +800,12 @@
                 "slug": "green-quartzite",
                 "img": "/img/imported/BRAZILAIN-BOTNICAL-GREEN-QUARTZITE(Imported).webp"
             },
-             {
+            {
                 "name": "Da Vinci Green Quartzite",
-                "slug": "green-quartzite",
+                "slug": "da-vinci-green-quartzite",
                 "img": "/img/imported/DA-VINCI-GREEN-QUARTZITE.webp"
             },
-             {
+            {
                 "name": "Tiffiny Green Quartzite",
                 "slug": "tiffiny-green-quartzite",
                 "img": "/img/imported/TIFFINY-GREEN-QUARTZITE.webp"
@@ -836,8 +859,8 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp"
             },
             {
-                "name": "White Agate ",
-                "slug": "white-agate ",
+                "name": "White Agate",
+                "slug": "white-agate",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/White%20Agate%20(Imported%20Semipresious).webp"
             },
             {
@@ -913,13 +936,13 @@
         ]
     },
     {
-        "title": "PREMIUM BLACK & GREY EXCOTIC MARBLE - AGATA BLACK",
+        "title": "PREMIUM EXCOTIC MARBLE COLLECTION",
         "metakeyword": "",
         "metatitle": "",
         "metades": ".",
         "name": "Exotic Marble",
         "slug": "exotic-marble",
-        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/Semi%20Presious%20Banner.webp",
+        "banner": "/img/exotic/Exotic-Marble-Banner.jpeg",
         "text": "Agata Black is an imported exotic marble that has an exceptional appearance. The stone's unique blend of dark black and natural gray creates a very bold and aesthetically stunning look. Many designers select Agata Black for high-traffic areas within commercial buildings because it provides a dramatic texture without compromising other elements in the room. Use Agata Black on floors, feature walls, or counters; it can also be used as an accent in both residential and high-end commercial spaces. ",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
         "products": [
