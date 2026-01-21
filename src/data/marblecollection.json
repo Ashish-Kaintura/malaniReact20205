@@ -2,8 +2,8 @@
     {
         "title": "Premium Beige Marble Collection in India",
         "metakeyword": "",
-        "metatitle":"Beige Marble Collection | Elegant & Natural Stone Finishes",
-        "metades":"Discover premium beige marble slabs at Malani Marbles — perfect for timeless interiors, warm tones, and elegant flooring applications.",
+        "metatitle": "Beige Marble Collection | Elegant & Natural Stone Finishes",
+        "metades": "Discover premium beige marble slabs at Malani Marbles — perfect for timeless interiors, warm tones, and elegant flooring applications.",
         "name": "Beige",
         "slug": "beige-marble",
         "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/Beige-banner.webp",
@@ -14,11 +14,6 @@
                 "name": "Barbari Beige",
                 "slug": "barbari-beige",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp"
-            },
-            {
-                "name": "Brecia Beige",
-                "slug": "brecia-beige",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20bEIGE.webp"
             },
             {
                 "name": "Brecia Aurora",
@@ -300,6 +295,16 @@
                 "name": "Grey Onyx",
                 "slug": "grey-onyx",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/GREY%20ONYX.webp"
+            },
+            {
+                "name": "Orange Onyx",
+                "slug": "orange-onyx",
+                "img": "/img/Onyx/ORANGE-ONYX.webp"
+            },
+            {
+                "name": "Honey Onyx",
+                "slug": "honey-onyx",
+                 "img": "/img/Onyx/HONEY-ONYX.webp"
             }
         ]
     },
@@ -415,7 +420,6 @@
                 "slug": "adhunik-brown",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/granite/Avaocado%20(Imported).webp"
             },
-            
             {
                 "name": "Adhunik Grey",
                 "slug": "adhunik-grey",
@@ -530,6 +534,11 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Agatha.webp"
             },
             {
+                "name": "Green Quartzite",
+                "slug": "green-quartzite",
+                "img": "/img/imported/BRAZILAIN-BOTNICAL-GREEN-QUARTZITE(Imported).webp"
+            },
+            {
                 "name": "Blue Pearl",
                 "slug": "blue-pearl",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Blue%20pearl.webp"
@@ -563,7 +572,7 @@
         "metades": "Shop white Italian marble in polished, honed, and textured finishes — perfect for minimal, modern, and classic interior designs.",
         "name": "White",
         "slug": "white-marble",
-        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/White%20Banner.webp",
+        "banner": "/img/whiteMarble/Statuario-white-Marble–A-Classic-Choice-for-Premium-Interiors.jpeg",
         "text": "Explore a unique collection of white marble slabs that includes famous varieties such as Makrana White, Lasa White, and Statuario. Excellent for luxury flooring, wall cladding, countertops, and architectural facades, our white marble is sourced from only the finest quarries, and offers superior purity, weight, fine grain and finish, making it the choice marble for high-end residential and commercial projects. Architects, builders, and marble retailers can feel confident in using our white marble for both its beauty and top quality performance.",
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/ARBESCATO.webp",
         "products": [
@@ -684,11 +693,6 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Avaocado%20(Imported).webp"
             },
             {
-                "name": "Blue Onyx",
-                "slug": "Blue Onyx",
-                "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Blue%20Onyx(Imported).webp"
-            },
-            {
                 "name": "Amazonite",
                 "slug": "amazonite",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/amazonite.webp"
@@ -767,6 +771,21 @@
                 "name": "Wooden Roma",
                 "slug": "wooden-roma",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/WOODEN%20ROMA.webp"
+            },
+            {
+                "name": "Green Quartzite",
+                "slug": "green-quartzite",
+                "img": "/img/imported/BRAZILAIN-BOTNICAL-GREEN-QUARTZITE(Imported).webp"
+            },
+             {
+                "name": "Da Vinci Green Quartzite",
+                "slug": "green-quartzite",
+                "img": "/img/imported/DA-VINCI-GREEN-QUARTZITE.webp"
+            },
+             {
+                "name": "Tiffiny Green Quartzite",
+                "slug": "tiffiny-green-quartzite",
+                "img": "/img/imported/TIFFINY-GREEN-QUARTZITE.webp"
             }
         ]
     },
@@ -880,11 +899,80 @@
                 "name": "White Quartz",
                 "slug": "white-quartz",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/WHITE%20%C2%ADQUARTZ.webp"
+            },
+            {
+                "name": "Smokey Quartzite",
+                "slug": "smokey-quartzite",
+                "img": "/img/semi-preicious/SMOKEY.jpg"
+            },
+            {
+                "name": "Green Semiprecious",
+                "slug": "green-Semiprecious",
+                "img": "/img/semi-preicious/GREEN.webp"
+            }
+        ]
+    },
+    {
+        "title": "PREMIUM BLACK & GREY EXCOTIC MARBLE - AGATA BLACK",
+        "metakeyword": "",
+        "metatitle": "",
+        "metades": ".",
+        "name": "Exotic Marble",
+        "slug": "exotic-marble",
+        "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/Semi%20Presious%20Banner.webp",
+        "text": "Agata Black is an imported exotic marble that has an exceptional appearance. The stone's unique blend of dark black and natural gray creates a very bold and aesthetically stunning look. Many designers select Agata Black for high-traffic areas within commercial buildings because it provides a dramatic texture without compromising other elements in the room. Use Agata Black on floors, feature walls, or counters; it can also be used as an accent in both residential and high-end commercial spaces. ",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
+        "products": [
+            {
+                "name": "Ammaza",
+                "slug": "ammaza",
+                "img": "/img/exotic/AMMAZA-(Imported-Exotic).jpg"
+            },
+            {
+                "name": "Brazilian Petragonia",
+                "slug": "brazilian-petragonia",
+                "img": "/img/exotic/BRAZALIAN-PETRAGONIA(Exotic).webp"
+            },
+            {
+                "name": "BRECIA-ONICHITA",
+                "slug": "brecia-onichita",
+                "img": "/img/exotic/BRECIA-ONICHITA-(Imported Exotic).jpg"
+            },
+            {
+                "name": "Copen-Hygen",
+                "slug": "copen-hygen",
+                "img": "/img/exotic/COPEN-HYGEN-(Imported Exotic).webp"
+            },
+            {
+                "name": "Crystallo Tiffany",
+                "slug": "crystallo-tiffany",
+                "img": "/img/exotic/CRYSTALLO-TIFFANY.webp"
+            },
+            {
+                "name": "Sliverado Grey",
+                "slug": "sliverado-grey",
+                "img": "/img/exotic/SLIVERADO-GREY.jpg"
+            },
+            {
+                "name": "Rosa-Macaubas",
+                "slug": "rosa-macaubas",
+                "img": "/img/exotic/ROSA-MACAUBAS.webp"
+            },
+            {
+                "name": "Paraquet",
+                "slug": "paraquet",
+                "img": "/img/exotic/PARAQUET.jpg"
+            },
+            {
+                "name": "Metallics",
+                "slug": "metallics",
+                "img": "/img/exotic/METALLICS.jpg"
+            },
+            {
+                "name": "Grey Serpay Jayante",
+                "slug": "grey-serpay-jayante",
+                "img": "/img/exotic/GREY-SERPAY-JAYANTE.webp"
             }
         ]
     }
-    
-
-    
-    
 ]

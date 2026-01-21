@@ -41,6 +41,7 @@ export default function Navbar() {
         { label: "Gray", href: "/marble-collection/gray-marble" },
         { label: "Imported Granites", href: "/marble-collection/imported-granites" },
         { label: "Semi Precious", href: "/marble-collection/semi-precious" },
+        { label: "Exotic", href: "/marble-collection/exotic-marble" },
         
       ],
     },

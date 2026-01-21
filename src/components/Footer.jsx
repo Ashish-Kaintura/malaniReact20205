@@ -121,7 +121,7 @@ export default function Footer() {
                   </NavLink>
                 </li>
                 <li>
-                  <NavLink to="/slimtech-tiles-collections" className="hover:gradient-text transition-colors duration-300">
+                  <NavLink to="/tiles-collections" className="hover:gradient-text transition-colors duration-300">
                     Tiles Collection
                   </NavLink>
                 </li>
