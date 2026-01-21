@@ -1,16 +1,16 @@
 [
     {
-        "title": "Premium Italian Marble Collection in India",
+        "title": "",
         "metakeyword": "",
-        "metatitle": "",
-        "metades": "",
+        "metatitle": "Italian Marble Supplier in Delhi | Marbles Pvt. Ltd",
+        "metades": "Explore imported Italian marble in Delhi for premium homes and luxury interiors. High-quality Italian marble slabs ideal for flooring, walls, and elegant interior design.",
         "name": "Italian",
         "slug": "italian-marble",
         "banner": "/img/italian/Italian-Marble-Banner.jpeg",
-        "text": "Discover the largest selection of Beige Marble at Malani Marbles Pvt. Ltd., a premier supplier and exporter of beige marble in India. Our expansive collection includes Italian Beige Marble, Imported Beige Marble, and Indian Beige Marble, and can be used for flooring, wall cladding, kitchen countertops, and luxurious interiors. Our Beige Marble slabs are known for their elegant texture, smooth finish, and timeless beauty, and add warmth, sophistication, and durability to any residential and commercial project.",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp",
+        "text": "",
+        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CASA%20NOVA.webp",
         "products": [
-             {
+            {
                 "name": "Casa Nova",
                 "slug": "casa-nova",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CASA%20NOVA.webp"
@@ -25,8 +25,8 @@
     {
         "title": "Premium Beige Marble Collection in India",
         "metakeyword": "",
-        "metatitle": "Beige Marble Collection | Elegant & Natural Stone Finishes",
-        "metades": "Discover premium beige marble slabs at Malani Marbles — perfect for timeless interiors, warm tones, and elegant flooring applications.",
+        "metatitle": "Beige Marble in Collection in Delhi | Marbles Pvt. Ltd",
+        "metades": "Discover high-quality beige marble Collection in Delhi for premium home interiors, flooring, and wall cladding. Explore elegant natural stone options with expert guidance and quality assurance.",
         "name": "Beige",
         "slug": "beige-marble",
         "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/Beige-banner.webp",
@@ -103,8 +103,8 @@
     {
         "title": "Vibrant Coloured Marble Collection",
         "metakeyword": "",
-        "metatitle": "Top Italian Marble Flooring Supplier and Manufacturer in India.",
-        "metades": "Explore Top coloured Italian marble at Malani Marbles — premium flooring slabs in red, green, blue, and more for bold, luxurious interiors.",
+        "metatitle": "Coloured Marble Collection in Delhi | Marbles Pvt. Ltd.",
+        "metades": "Explore elegant coloured marble collection in Delhi for luxury interior design, flooring, and wall cladding. Discover high-quality natural stone with expert guidance and durable finishes.",
         "name": "Coloured",
         "slug": "coloured-marble",
         "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/marble-colourde-banner.webp",
@@ -266,8 +266,8 @@
     {
         "title": "Luxurious Onyx Marble Collection",
         "metakeyword": "",
-        "metatitle": "Malani Marbles | Premium Onyx Marble Supplier in India",
-        "metades": "Shop luxurious onyx marble slabs at Malani Marbles — translucent, exotic stone ideal for feature walls, countertops, and high-end interiors.",
+        "metatitle": "Onyx Marble in Supplier in Delhi | Marbles Pvt. Ltd",
+        "metades": "Explore premium onyx marble Collection in Delhi for luxury interior walls, feature panels, and designer spaces. Discover high-quality natural onyx with expert guidance and refined finishes.",
         "name": "Onyx",
         "slug": "onyx-marble",
         "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/onyx-banner.webp",
@@ -702,8 +702,8 @@
     {
         "title": "Exclusive Imported Granite  Collection",
         "metakeyword": "",
-        "metatitle": "Top Imported Granite Manufacturers and Suppliers in India",
-        "metades": " Malani Marbles supply high-grade imported granite for architects, contractors, and builders across India. Explore unique colors and premium finishes.",
+        "metatitle": "Imported Granites in Delhi | Malani Marbles Pvt. Ltd",
+        "metades": "Discover premium imported granite Collection in Delhi for luxury flooring, countertops, and interior design. Explore high-quality natural granite with expert guidance and durable finishes.",
         "name": "Imported Granites",
         "slug": "imported-granites",
         "banner": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/Imported%20Granite%20Banner.webp",
@@ -943,8 +943,8 @@
         "name": "Exotic Marble",
         "slug": "exotic-marble",
         "banner": "/img/exotic/Exotic-Marble-Banner.jpeg",
-        "text": "Agata Black is an imported exotic marble that has an exceptional appearance. The stone's unique blend of dark black and natural gray creates a very bold and aesthetically stunning look. Many designers select Agata Black for high-traffic areas within commercial buildings because it provides a dramatic texture without compromising other elements in the room. Use Agata Black on floors, feature walls, or counters; it can also be used as an accent in both residential and high-end commercial spaces. ",
-        "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/BLACK%20PETRIFIED%20WOOD.webp",
+        "text": "",
+        "img": "/img/exotic/AMMAZA-(Imported-Exotic).jpg",
         "products": [
             {
                 "name": "Ammaza",
@@ -995,6 +995,11 @@
                 "name": "Grey Serpay Jayante",
                 "slug": "grey-serpay-jayante",
                 "img": "/img/exotic/GREY-SERPAY-JAYANTE.webp"
+            },
+            {
+                "name": "Confuision",
+                "slug": "confuision",
+                "img": "/img/exotic/Confuision.webp"
             }
         ]
     }

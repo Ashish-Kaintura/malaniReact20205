@@ -20,8 +20,8 @@ export default function Index() {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Malani Marbles | Premium Marble & Granite Supplier in India</title>
-        <meta name="description" content="Explore premium imported marble, granite, and onyx with Malani Marbles – India’s trusted supplier for luxury interiors and large-scale projects."></meta>
+        <title>Premium Marble & Granite Supplier in Delhi | Marbles Pvt. Ltd</title>
+        <meta name="description" content="Explore top-quality imported marble, imported granite andonyxfrom a trusted supplier in Delhi. Find imported Italian marble, designer stones, and expert guidance for luxury interiors."></meta>
         <link rel="canonical" href="https://www.malanimarbles.com" />
         <script type="application/ld+json">
           {`{

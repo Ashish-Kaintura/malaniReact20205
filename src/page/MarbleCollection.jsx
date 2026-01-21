@@ -12,8 +12,8 @@ export default function MarbleCollection() {
     <section className="pb-20 bg-gradient-to-b from-white to-gray-100 min-h-screen">
       <Helmet>
         <meta charSet="utf-8" />
-        <title> Malani Marbles | Top Rated Marble Collection</title>
-        <meta name="description" content="Browse Malani Marbles’ premium collection of Indian and imported marble — ideal for luxury interiors, flooring, and custom design projects."></meta>
+        <title>Premium Marble Collection in Delhi | Marbles Pvt. Ltd</title>
+        <meta name="description" content="Explore a wide range of premium marble collection in Delhi, including imported and Indian marble for luxury interior flooring, walls, and design projects. Quality finishes and expert guidance."></meta>
         <link rel="canonical" href="https://www.malanimarbles.com/marble-collection" />
         <script type="application/ld+json">
           {`{

@@ -33,8 +33,8 @@ export default function About() {
     <div className="w-full">
       <Helmet>
         <meta charSet="utf-8" />
-        <title> Malani Marbles | Trusted Marble Supplier  manufacturers in India</title>
-        <meta name="description" content="Learn about Malani Marbles — one of India’s most trusted marble suppliers and manufacturers, known for quality, innovation, and global sourcing expertise."></meta>
+        <title> Trusted Marble Dealer in India | Marbles Pvt. Ltd</title>
+        <meta name="description" content="Malani Marbles is a trusted marble dealer offering premium marble deals, Italian marble, granite, onyx, and natural stones. Serving luxury residential and commercial projects across India."></meta>
         <link rel="canonical" href="https://www.malanimarbles.com/about" />
         <script type="application/ld+json">
           {`{
