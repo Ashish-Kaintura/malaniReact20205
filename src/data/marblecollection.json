@@ -11,12 +11,17 @@
         "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CASA%20NOVA.webp",
         "products": [
             {
+                "metatitle": "",
+                "metades": "",
                 "name": "Casa Nova",
                 "slug": "casa-nova",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CASA%20NOVA.webp"
             },
             {
+                "metatitle": "Botticino Classico Marble – Italian Marble | Malani Marbles Pvt. Ltd.",
+                "metades": "Explore Botticino Classico Marble, a timeless Italian beige marble with subtle veining, perfect for luxury flooring, countertops & wall cladding. Available in slabs & tiles at Malani Marbles.",
                 "name": "Bottochino Classico",
+                "description": "Botticino Classico marble flooring was first quarried & worked in the Italian region of Brescia. The overall look of Botticino Classico is a very classy beige with an undertone of light brown, green, or gold throughout. Botticino Classico has a very elegant look and timeless styling, perfect for any setting. Because of its delicate features, it can be used for both residential and commercial projects that require very high-end materials. The beautiful coloration, light texture, and durability of Botticino Classico make it a great choice for all types of flooring, walls, kitchen counters, and other architectural decorative pieces. The finishes available for Botticino Classico are polished, honed, and satin.",
                 "slug": "bottochino-classico",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp"
             }
@@ -39,7 +44,10 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BARBARI%20BEIGE.webp"
             },
             {
+                "metatitle": "Breccia Aurora Beige Marble | Malani Marbles Pvt. Ltd.",
+                "metadesc": "Breccia Aurora Marble is a premium beige marble with bold natural patterns, ideal for flooring, wall cladding and luxury interiors. Supplied by Malani Marbles Pvt. Ltd.",
                 "name": "Brecia Aurora",
+                "description": "The Italian marble, Breccia Aurora Marble, is an exquisite marbled material with beautiful warm beige tones and unique breccia-like patterns created from the combination of cream, gold, brown, and amber colors that create a fantastic look for all items made from it. Each slab of this beautiful stone has its own unique look because of the broken nature of this stone and therefore will work well for high-end residential and commercial projects.The elegance and strength of the stone also allow for use in many areas, such as floors, wall cladding, kitchen countertops, vanities, stairs, and even as feature walls. Breccia Aurora is available in a high-sheen polished finish or in a natural honed stone finish, which provides excellent light reflection and enhances space with its timeless Mediterranean appearance. Breccia Aurora is perfect for all types of refined interior space design requiring both the beauty and strength of the stone.",
                 "slug": "brecia-aurora",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BRECIA%20AURORA.webp"
             },
@@ -89,12 +97,18 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BULGARIA%20BEIGE.webp"
             },
             {
+                "metatitle": "De Martino Beige Marble Supplier India | Malani Marbles Pvt. Ltd.",
+                "metadesc": "De Martino Marble is a premium beige marble with elegant veining, perfect for flooring, walls, and luxury interiors. Available from Malani Marbles Pvt. Ltd., India.",
                 "name": "De Martino",
+                "description": "De Martino Marble has a warm beige background with a soft cream color. It is well-known for its beautiful irregular patterns and its unique ability to harmoniously blend into both modern and traditional designs in high-end residential and commercial applications. Installations of De Martino Marble can include flooring, wall tile, kitchen countertops, bathroom vanities, stairs, and decorative accents. With its exceptional durability, De Martino Marble evokes an ageless elegance in your project, yet will maintain its beauty over time. Malani Marbles Pvt. Ltd. sources De Martino Marble from Italy to ensure the highest quality of material available today. De Martino Marble has both polished and honed finishes, providing designers with options to create the look and feel that is desired for their project. Designed for use by architects, designers, and builders and on premium projects, De Martino Marble adds visual interest and increases the amount of natural light flowing into the workspace.",
                 "slug": "de-martino",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/DE%20MARTINO.webp"
             },
             {
+                "metatitle": "Bottochino Classico Beige Marble | Malani Marbles Pvt. Ltd.",
+                "metadesc": "Bottochino Classico Marble is a premium beige Italian stone known for subtle veining, ideal for flooring, walls, countertops and luxury interiors. Supplied by Malani Marbles Pvt. Ltd.",
                 "name": "Bottochino Classico",
+                "description": "Bottochino Classico Marble is a premium Italian beige marble that offers an exceptional combination of warm tones and unique veins. Bottochino Classico Marble works with both residential and commercial applications where a premium natural stone adds timeless elegance to an interior environment. Bottochino Classico Marble can be utilized in many different applications, such as flooring, wall coverings, kitchen countertops, bathroom vanities, and architectural elements. Bottochino Classico Marble's neutral coloration complements virtually all design styles, from contemporary to traditional. Minus the distinctive characteristics of Bottochino Classico Marble that enhance the light and space of any project, the finish is extremely durable and adds to the overall beauty of every application. Supplied by Malani Marbles Pvt. Ltd., it is an excellent selection for architects, designers, builders, and consumers who desire premium quality.",
                 "slug": "bottochino-classico",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp"
             }
@@ -591,8 +605,8 @@
     {
         "title": "Premium White Marble Collection",
         "metakeyword": "",
-        "metatitle": "Best White Italian Marble Company | Malani Marbles",
-        "metades": "Shop white Italian marble in polished, honed, and textured finishes — perfect for minimal, modern, and classic interior designs.",
+        "metatitle": "White Marble in Delhi Collection | Malani Marbles Pvt. Ltd",
+        "metades": "Discover premium white marble in Delhi, ideal for luxury flooring, wall cladding, and elegant interiors. Explore high-quality natural marble slabs with expert support and trusted sourcing.",
         "name": "White",
         "slug": "white-marble",
         "banner": "/img/whiteMarble/Statuario-white-Marble–A-Classic-Choice-for-Premium-Interiors.jpeg",
@@ -605,12 +619,18 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/ARBESCATO.webp"
             },
             {
+                "metatitle": "Statuario Venatino Marble| Malani Marbles Pvt. Ltd",
+                "metades": "Explore authentic Statuario Venatino marble for luxury interiors. Perfect for elegant flooring, walls, and designer spaces, this premium white natural stone offers refined veining and timeless appeal with expert selection.",
                 "name": "Statuario Venatino",
+                "description": "Statuario Venatino marble comes from the finest quarries throughout Italy. This luxurious white marble features a bright white background with stunning light grey veining, producing a sophisticated/unified contrast between old-world/classic styling and modern styling.Due to Statuario Venatino marble's exceptional quality, you can use it in everything from high-end residential and commercial projects to creating eye-catching focal points in interior spaces, both residential and commercial.The polished, smooth surface allows for maximum light reflection, giving your finished product an extra level of sophistication. When you purchase Statuario Venatino from Malani Marbles Pvt. Ltd., not only will you have access to one of the finest natural stones available, but you will also be investing in an ageless classic piece of stone that is sure to please.",
                 "slug": "statuario-venatino",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20VENATINO.webp"
             },
             {
+                "metatitle": "Statuario Calacutta Marble | Malani Marbles Pvt. Ltd",
+                "metades": "Explore Statuario Calacutta marble for luxury interior design. Featuring bold veining and premium white finishes, ideal for floors, feature walls, and high-end spaces.",
                 "name": "Statuario Calacutta",
+                "description": "Statuario Calacatta Marble is a stylish and luxurious Italian marble recognized for its shining white color and dramatic dark-grey markings; consequently, Statuario Calacatta has become one of the most sought-after Italian white marbles. Statuario Calacatta's timeless beauty and striking contrast make it perfect for upscale interior design and architecture. Statuario Calacatta can be used for flooring, wall cladding, feature walls, kitchen islands, bathroom countertops, etc. Statuario Calacatta has a unique pattern that creates an illusion of depth and enhances design quality and sophistication. Statuario Calacatta has an exceptionally polished surface that reflects light beautifully and makes for an open, elegant feeling in any home or as an upscale architectural design element. Malani Marbles Pvt Ltd sources Statuario Calacatta, an excellent choice for high-end designers, architects, and builders who desire a prestigious and unique marble to meet their design needs.",
                 "slug": "statuario-calacutta",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20CALACUTTA.webp"
             },
@@ -625,6 +645,8 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/BRAZILIAN%20WHITE.webp"
             },
             {
+                "metatitle": "Michael Angelo Peach Marble | Malani Marbles Pvt. Ltd",
+                "metades": "Explore Michael Angelo Peach marble or premium interiors, flooring, and feature walls. Find elegant white marble slabs with soft peach undertones and refined natural beauty.",
                 "name": "Michael Angelo",
                 "slug": "michael-angelo",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/michelangelo.webp"
@@ -635,6 +657,8 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/sWISS%20wHITE.webp"
             },
             {
+                "metatitle": "",
+                "metades": "",
                 "name": "Statuario White",
                 "slug": "statuario-white",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20TO.webp"
@@ -655,13 +679,19 @@
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/DIOR%20WHITE.webp"
             },
             {
+                "metatitle": "Golden Statuario Marble | Malani Marbles Pvt. Ltd",
+                "metades": "Discover Golden Statuario marble for luxurious interior flooring, walls, and designer spaces. Explore premium white marble slabs with refined golden veining and enduring elegance.",
                 "name": "Golden Statuario",
+                "description": "Golden Statuario Marble is a luxurious and striking natural stone that defines upscale aesthetics with its eye-catching bright white body and luxurious gold veining. With its distinctive and unique pattern, the Golden Statuario Marble is known for adding elegance to any interior space, where it brings forth elegance, sophistication, and warmth. Golden Statuario Marble is ideal for use in high-end residential and commercial projects. It is commonly installed as flooring, wall cladding, countertops, staircases, and custom-made architectural features. The polished surface enhances reflections of light and creates depth and movement in the space in which it is installed. The supplier of Golden Statuario Marble is Malani Marbles Pvt. Ltd., and it is suitable for use by architects, designers, builders, and any premium project that requires aesthetic qualities and functionality.",
                 "slug": "golden-statuario",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/GOLDEN%20STATUARIO.webp"
             },
             {
+                "metatitle": "Michael Angelo Peach Marble | Malani Marbles Pvt. Ltd",
+                "metades": "Explore Michael Angelo Peach marble or premium interiors, flooring, and feature walls. Find elegant white marble slabs with soft peach undertones and refined natural beauty.",
                 "name": "Michael Angelo Peach",
                 "slug": "michael-angelo-peach",
+                "description": "Michael Angelo Peach Marble is a unique type of high-quality natural stone, characterized by its warm peach shades and soft white background with subtle veining. This color combination gives the marble an elegant and inviting look. Because of the harmonious blending of the colors, it is an ideal marble for both residential and commercial settings, whether traditional or modern. It can be used as flooring, wall cladding, kitchen countertops, bathtub vanities, and any other architectural detailing, and it adds sophistication and personality to each use. In addition, because Michael Angelo Peach Marble has a smooth, polished finish, it reflects natural daylight very effectively, thus providing the illusion of openness and refinement. Michael Angelo Peach Marble is manufactured by Malani Marbles Ltd. and is highly regarded by architects, interior designers, and designers of premium-quality projects.",
                 "img": "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/michelangelo%20PEACH.webp"
             },
             {

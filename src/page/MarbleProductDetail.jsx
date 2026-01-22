@@ -43,10 +43,10 @@ export default function MarbleProductDetail() {
     return (
         <section className="min-h-screen bg-white font-sans text-slate-800">
             <Helmet>
-                <title>{product.name} - Premium Marble | {category.name}</title>
+                <title>{product.metatitle}</title>
                 <meta
                     name="description"
-                    content={product.description || `Buy high-quality ${product.name} from our ${category.name} collection.`}
+                    content={product.metades}
                 />
                 <link
                     rel="canonical"
