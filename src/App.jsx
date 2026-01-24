@@ -2,7 +2,7 @@ import { useEffect, useState, lazy, Suspense } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Loader from "./components/Loader";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import PrivacyPolicy from "./page/PrivacyPolicy";
@@ -65,7 +65,8 @@ export default function App() {
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/blog" element={<BlogList />} />
           <Route path="/blog/:slug" element={<BlogDetail />} />
-          <Route path="/*" element={<Notfound />} />
+          <Route path="/*" element={<Navigate to="/" />} />
+
 
           {/* You can lazy load more pages here */}
         </Routes>

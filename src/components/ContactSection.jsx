@@ -62,6 +62,8 @@ export default function ContactSection() {
                   <p className="text-gray-600">
                     123 Marble Street, Stone District, Mumbai, MH 400001
                   </p>
+                  <p className="font-semibold text-gray-900">Malani Marble Pvt. Ltd.
+                    Khasra No.231/10,Village Kali Doongri Kishangarh 305801</p>
                 </div>
               </div>
 
@@ -109,7 +111,7 @@ export default function ContactSection() {
           {/* Right Form Section */}
           <div
             className="bg-white p-8 rounded-xl shadow-lg"
-            // data-aos="fade-left"
+          // data-aos="fade-left"
           >
             <h3 className="text-2xl font-bold text-gray-900 mb-6">
               Send Message

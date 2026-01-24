@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-
+import { Link, useNavigate } from 'react-router-dom'
 function FilterGrid() {
   const [tab, setTab] = useState("Popular Marble");
   const [viewer, setViewer] = useState(null);
@@ -7,51 +7,87 @@ function FilterGrid() {
   const items = useMemo(
     () => [
       {
-        title: "Avocado",
-        img: "https://i.postimg.cc/ncsFG5PJ/Avocado.jpg",
+        title: "Bottochino Classico",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/BOTTICHINO%20CLASSICO.webp",
         type: "Popular Marble",
+        category: "beige-marble",
+        slug: "bottochino-classico"
       },
       {
-        title: "Statuario White",
-        img: "https://images.pexels.com/photos/6634143/pexels-photo-6634143.jpeg",
+        title: "Statuario Venatino",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20VENATINO.webp",
         type: "Popular Marble",
+        category: "white-marble",
+        slug: "statuario-venatino"
       },
       {
-        title: "MEXICAN ONYX	YELLOW	",
-        // img: "https://images.pexels.com/photos/6394687/pexels-photo-6394687.jpeg",
-        img:"https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/honey-onyx.webp",
+        title: "Brecia Blue",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/bLUE%20BRECIA.webp",
         type: "Popular Marble",
+        category: "beige-marble",
+        slug: "brecia-blue"
       },
       {
-        title: "Blue Labradorite",
-        // img: "https://images.pexels.com/photos/9990201/pexels-photo-9990201.jpeg",
-        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20LABRADORITE.webp",
+        title: "Statuario Calacutta",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/STATUARIO%20CALACUTTA.webp",
         type: "Popular Marble",
-      },
-      // {
-      //   title: "Blue Roma",
-      //   img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/home/popular/BLUE%20-%20ROMA.webp",
-      //   type: "Popular Marble",
-      // },
-      {
-        title: "Coloured",
-        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/colord/FUSION%20BROWN.webp",
-        type: "Marble by Color",
+        category: "white-marble",
+        slug: "statuario-calacutta"
       },
       {
-        title: "Imported Granite",
-        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/IMPORTED%20GRANITE/palomino.webp",
-        type: "Marble by Color",
+        title: "Lasa White",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/LASA%20WHITE.webp",
+        type: "Popular Marble",
+        category: "white-marble",
+        slug: "lasa-white"
       },
       {
-        title: "Semi Precious ",
-        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/semipresious/black%20agate.webp",
-        type: "Marble by Color",
+        title: "Michael Angelo",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/michelangelo%20PEACH.webp",
+        type: "Popular Marble",
+        category: "white-marble",
+        slug: "michael-angelo"
+      },
+      {
+        title: "Beige Marble",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/gREY%20bRECIA.webp",
+        type: "Marble By Category",
+        slug: "beige-marble"
+      },
+      {
+        title: "Travertino Marble",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/traventino/COKE%20TRAVETINO.webp",
+        type: "Marble By Category",
+        slug: "travertino-marble"
+      },
+      {
+        title: "Italian Marble",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/beige/CASA%20NOVA.webp",
+        type: "Marble By Category",
+        slug: "italian-marble"
+      },
+      {
+        title: "Brazilian Granite",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/brazil/Monalisa.webp",
+        type: "Marble By Category",
+        slug: "brazilian-granite"
+      },
+      {
+        title: "White Marble",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/white/sWISS%20wHITE.webp",
+        type: "Marble By Category",
+        slug: "white-marble"
+      },
+      {
+        title: "Onyx Marble",
+        img: "https://raw.githubusercontent.com/Ashish-Kaintura/malaniReact20205/Gallery/Marble%20Collection/onyx/MEXICAN%20ONYX.webp",
+        type: "Marble By Category",
+        slug: "onyx-marble"
       },
     ],
     []
   );
-
+  let navigate = useNavigate()
   const filtered = items.filter((i) => i.type === tab);
 
   return (
@@ -62,15 +98,14 @@ function FilterGrid() {
           Signature Collection
         </h2>
         <div className="flex gap-2 rounded-full border bg-white shadow-sm p-1">
-          {["Popular Marble", "Marble by Color"].map((c) => (
+          {["Popular Marble", "Marble By Category"].map((c) => (
             <button
               key={c}
               onClick={() => setTab(c)}
-              className={`rounded-full px-4 py-1.5 text-sm transition ${
-                tab === c
-                  ? "bg-red-600 text-white hover:bg-black"
-                  : "text-gray-600 hover:text-white hover:bg-black"
-              }`}
+              className={`rounded-full px-4 py-1.5 text-sm transition ${tab === c
+                ? "bg-red-600 text-white hover:bg-black"
+                : "text-gray-600 hover:text-white hover:bg-black"
+                }`}
             >
               {c}
             </button>
@@ -78,8 +113,54 @@ function FilterGrid() {
         </div>
       </div>
 
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 mt-5">
+        {filtered.map((item, id) => (
+          <div
+            key={id}
+            className="group bg-white rounded-xl overflow-hidden shadow-md transition-all duration-300 hover:shadow-2xl hover:-translate-y-2"
+          >
+            {/* Image */}
+            <Link
+              to={
+                tab === "Popular Marble"
+                  ? `/marble-collection/${item.category}/${item.slug}`
+                  : `/marble-collection/${item.slug}`
+              }
+              className="block overflow-hidden"
+            >
+              <img
+                src={item.img}
+                alt={item.title}
+                className="w-full h-44 sm:h-48 md:h-52 object-cover transition-transform duration-500 group-hover:scale-110"
+              />
+            </Link>
+
+            {/* Content */}
+            <div className="p-4 text-center">
+              <h3 className="font-semibold text-base sm:text-lg mb-3">
+                {item.title}
+              </h3>
+
+              {/* Quick View Button */}
+              <Link
+                to={
+                  tab === "Popular Marble"
+                    ? `/marble-collection/${item.category}/${item.slug}`
+                    : `/marble-collection/${item.slug}`
+                }
+                className="inline-block bg-gray-900 text-white px-6 py-2 rounded-full text-sm sm:text-base transition-all duration-300 hover:bg-primary hover:scale-105"
+              >
+                Quick View
+              </Link>
+            </div>
+          </div>
+        ))}
+      </div>
+
+
       {/* Grid */}
-      <div className="mt-6 max-w-7xl mx-auto grid grid-cols-1 gap-6">
+      {/* <div className="mt-6 max-w-7xl mx-auto grid grid-cols-1 gap-6">
         {filtered.map((it) => (
           <article
             key={it.title}
@@ -104,10 +185,10 @@ function FilterGrid() {
             </div>
           </article>
         ))}
-      </div>
+      </div> */}
 
       {/* Modal */}
-      {viewer && (
+      {/* {viewer && (
         <div
           className="fixed inset-0 z-50 grid place-items-center bg-black/60 p-6"
           onClick={() => setViewer(null)}
@@ -137,7 +218,7 @@ function FilterGrid() {
             </div>
           </div>
         </div>
-      )}
+      )} */}
     </section>
   );
 }
